@@ -388,6 +388,11 @@
       "type": "TV"
     },
     {
+      "id": "31318",
+      "title": "Comet Lucifer",
+      "type": "TV"
+    },
+    {
       "id": "31147",
       "title": "Concrete Revolutio: Choujin Gensou",
       "type": "Ongoing"
@@ -401,6 +406,11 @@
       "id": "31050",
       "title": "Cyborg 009 vs. Devilman",
       "type": "OVA"
+    },
+    {
+      "id": "29976",
+      "title": "Dance with Devils",
+      "type": "TV"
     },
     {
       "id": "17703",
@@ -530,7 +540,7 @@
     {
       "id": "30544",
       "title": "Gakusen Toshi Asterisk",
-      "type": "TV"
+      "type": "Ongoing"
     },
     {
       "id": "25183",
@@ -753,6 +763,11 @@
       "type": "OVA"
     },
     {
+      "id": "31091",
+      "title": "Komori-san wa Kotowarenai!",
+      "type": "TV"
+    },
+    {
       "id": "24629",
       "title": "Koufuku Graffiti",
       "type": "TV"
@@ -953,6 +968,11 @@
       "type": "TV"
     },
     {
+      "id": "25099",
+      "title": "Ore ga Ojousama Gakkou ni \\\"Shomin Sample\\\" Toshite Gets♥Sareta Ken",
+      "type": "TV"
+    },
+    {
       "id": "22735",
       "title": "Oreca Battle",
       "type": "TV"
@@ -1020,6 +1040,11 @@
     {
       "id": "28401",
       "title": "Q Transformers: Kaette Kita Convoy no Nazo",
+      "type": "TV"
+    },
+    {
+      "id": "30296",
+      "title": "Rakudai Kishi no Cavalry",
       "type": "TV"
     },
     {
@@ -1138,6 +1163,11 @@
       "type": "TV"
     },
     {
+      "id": "30375",
+      "title": "Starmyu",
+      "type": "TV"
+    },
+    {
       "id": "23725",
       "title": "Strike Witches: Operation Victory Arrow",
       "type": "OVA"
@@ -1171,6 +1201,11 @@
       "id": "30585",
       "title": "Taifuu no Noruda",
       "type": "OVA"
+    },
+    {
+      "id": "24133",
+      "title": "Taimadou Gakuen 35 Shiken Shoutai",
+      "type": "TV"
     },
     {
       "id": "28861",
@@ -1255,7 +1290,7 @@
     {
       "id": "29854",
       "title": "Ushio to Tora (TV)",
-      "type": "TV"
+      "type": "Ongoing"
     },
     {
       "id": "21439",
