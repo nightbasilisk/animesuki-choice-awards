@@ -403,6 +403,11 @@
       "type": "TV"
     },
     {
+      "id": "33985",
+      "title": "Bloodivores",
+      "type": "TV"
+    },
+    {
       "id": "31043",
       "title": "Boku dake ga Inai Machi",
       "type": "TV"
@@ -423,6 +428,11 @@
       "type": "TV"
     },
     {
+      "id": "32866",
+      "title": "Brave Witches",
+      "type": "TV"
+    },
+    {
       "id": "33080",
       "title": "Brotherhood: Final Fantasy XV",
       "type": "OVA"
@@ -435,11 +445,6 @@
     {
       "id": "31478",
       "title": "Bungou Stray Dogs",
-      "type": "TV"
-    },
-    {
-      "id": "32802",
-      "title": "Cardfight!! Vanguard G",
       "type": "TV"
     },
     {
@@ -501,6 +506,11 @@
       "id": "30346",
       "title": "Doukyuusei (Movie)",
       "type": "Movie"
+    },
+    {
+      "id": "31339",
+      "title": "Drifters",
+      "type": "TV"
     },
     {
       "id": "29687",
@@ -568,6 +578,11 @@
       "type": "TV"
     },
     {
+      "id": "32948",
+      "title": "Fune wo Amu",
+      "type": "TV"
+    },
+    {
       "id": "30988",
       "title": "Futsuu no Joshikousei ga [Locodol] Yattemita. OVA",
       "type": "OVA"
@@ -588,6 +603,11 @@
       "type": "TV"
     },
     {
+      "id": "28539",
+      "title": "Garo Movie: Divine Flame",
+      "type": "Movie"
+    },
+    {
       "id": "28537",
       "title": "Garo: Guren no Tsuki",
       "type": "TV"
@@ -595,6 +615,16 @@
     {
       "id": "31637",
       "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+      "type": "TV"
+    },
+    {
+      "id": "34213",
+      "title": "Getsuyoubi no Tawawa",
+      "type": "OVA"
+    },
+    {
+      "id": "32607",
+      "title": "Gi(a)rlish Number",
       "type": "TV"
     },
     {
@@ -698,6 +728,11 @@
       "type": "TV"
     },
     {
+      "id": "31988",
+      "title": "Hibike! Euphonium 2",
+      "type": "TV"
+    },
+    {
       "id": "31500",
       "title": "High School Fleet",
       "type": "TV"
@@ -738,6 +773,11 @@
       "type": "OVA"
     },
     {
+      "id": "33572",
+      "title": "Idol Memories",
+      "type": "TV"
+    },
+    {
       "id": "30651",
       "title": "Itoshi no Muco",
       "type": "TV"
@@ -751,6 +791,11 @@
       "id": "33309",
       "title": "Jie Mo Ren",
       "type": "OVA"
+    },
+    {
+      "id": "31933",
+      "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+      "type": "TV"
     },
     {
       "id": "31405",
@@ -781,6 +826,11 @@
       "id": "30922",
       "title": "Kaze no Matasaburou (Movie)",
       "type": "OVA"
+    },
+    {
+      "id": "32686",
+      "title": "Keijo!!!!!!!!",
+      "type": "TV"
     },
     {
       "id": "32274",
@@ -883,6 +933,11 @@
       "type": "OVA"
     },
     {
+      "id": "33197",
+      "title": "Lostorage Incited WIXOSS",
+      "type": "TV"
+    },
+    {
       "id": "32526",
       "title": "Love Live! Sunshine!!",
       "type": "TV"
@@ -905,6 +960,16 @@
     {
       "id": "31741",
       "title": "Magi: Sinbad no Bouken (TV)",
+      "type": "TV"
+    },
+    {
+      "id": "33299",
+      "title": "Magic-Kyun! Renaissance",
+      "type": "TV"
+    },
+    {
+      "id": "33003",
+      "title": "Mahou Shoujo Ikusei Keikaku",
       "type": "TV"
     },
     {
@@ -973,6 +1038,11 @@
       "type": "TV"
     },
     {
+      "id": "32983",
+      "title": "Natsume Yuujinchou Go",
+      "type": "TV"
+    },
+    {
       "id": "31764",
       "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
       "type": "TV"
@@ -1023,9 +1093,19 @@
       "type": "TV"
     },
     {
+      "id": "32962",
+      "title": "Occultic;Nine",
+      "type": "TV"
+    },
+    {
       "id": "31848",
       "title": "Ojisan to Marshmallow",
       "type": "TV"
+    },
+    {
+      "id": "32603",
+      "title": "Okusama ga Seitokaichou!+!",
+      "type": "OVA"
     },
     {
       "id": "29846",
@@ -1148,11 +1228,6 @@
       "type": "TV"
     },
     {
-      "id": "31716",
-      "title": "Rewrite",
-      "type": "TV"
-    },
-    {
       "id": "30749",
       "title": "Saijaku Muhai no Bahamut",
       "type": "TV"
@@ -1201,6 +1276,16 @@
       "id": "31229",
       "title": "Servamp",
       "type": "TV"
+    },
+    {
+      "id": "33031",
+      "title": "Shakunetsu no Takkyuu Musume",
+      "type": "TV"
+    },
+    {
+      "id": "34240",
+      "title": "Shelter",
+      "type": "OVA"
     },
     {
       "id": "33760",
@@ -1258,9 +1343,19 @@
       "type": "TV"
     },
     {
+      "id": "33668",
+      "title": "Soushin Shoujo Matoi",
+      "type": "TV"
+    },
+    {
       "id": "33033",
       "title": "Starmyu OVA",
       "type": "OVA"
+    },
+    {
+      "id": "32555",
+      "title": "Stella no Mahou",
+      "type": "TV"
     },
     {
       "id": "31680",
@@ -1283,13 +1378,8 @@
       "type": "TV"
     },
     {
-      "id": "30911",
-      "title": "Tales of Zestiria the X",
-      "type": "TV"
-    },
-    {
       "id": "25729",
-      "title": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+      "title": "Tamayura: Sotsugyou Shashin",
       "type": "Movie"
     },
     {
@@ -1323,6 +1413,11 @@
       "type": "TV"
     },
     {
+      "id": "34009",
+      "title": "To Be Hero",
+      "type": "TV"
+    },
+    {
       "id": "31380",
       "title": "To LOVE-Ru Darkness 2nd OVA",
       "type": "OVA"
@@ -1330,6 +1425,16 @@
     {
       "id": "31370",
       "title": "Tonkatsu DJ Agetarou",
+      "type": "TV"
+    },
+    {
+      "id": "33023",
+      "title": "Touken Ranbu: Hanamaru",
+      "type": "TV"
+    },
+    {
+      "id": "33377",
+      "title": "Trickster: Edogawa Ranpo \\\"Shounen Tanteidan\\\" yori",
       "type": "TV"
     },
     {
@@ -1345,6 +1450,11 @@
     {
       "id": "32681",
       "title": "Uchuu Patrol Luluco",
+      "type": "OVA"
+    },
+    {
+      "id": "32673",
+      "title": "Udon no Kuni no Kiniro Kemari",
       "type": "TV"
     },
     {
@@ -1363,6 +1473,11 @@
       "type": "TV"
     },
     {
+      "id": "31178",
+      "title": "Uta no☆Prince-sama♪ Maji Love Legend Star",
+      "type": "TV"
+    },
+    {
       "id": "30901",
       "title": "Utawarerumono: Itsuwari no Kamen",
       "type": "TV"
@@ -1371,6 +1486,16 @@
       "id": "30920",
       "title": "Utopa",
       "type": "OVA"
+    },
+    {
+      "id": "33589",
+      "title": "ViVid Strike!",
+      "type": "TV"
+    },
+    {
+      "id": "33094",
+      "title": "WWW.Working!!",
+      "type": "TV"
     },
     {
       "id": "31439",
@@ -1386,6 +1511,11 @@
       "id": "29087",
       "title": "Wangpai Yushi",
       "type": "OVA"
+    },
+    {
+      "id": "32899",
+      "title": "Watashi ga Motete Dousunda",
+      "type": "TV"
     },
     {
       "id": "32084",
