@@ -618,11 +618,6 @@
       "type": "TV"
     },
     {
-      "id": "35075",
-      "title": "Hoozuki no Reitetsu 2nd Season",
-      "type": "TV"
-    },
-    {
       "id": "35557",
       "title": "Houseki no Kuni (TV)",
       "type": "TV"
@@ -896,6 +891,11 @@
       "id": "31422",
       "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
       "type": "TV"
+    },
+    {
+      "id": "31973",
+      "title": "Mobile Suit Gundam Thunderbolt",
+      "type": "OVA"
     },
     {
       "id": "33051",
