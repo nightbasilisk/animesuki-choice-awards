@@ -6,7 +6,7 @@ var ChoiceAwardsCategory = Class.extend({
 		"name": null,
 		"type": "series",
 		"allowedTypes": [],
-		"maxVoteCount": 3,
+		"maxVoteCount": 5,
 		"presetValues": []
 	},
 
@@ -48,16 +48,16 @@ var ChoiceAwardsCategory = Class.extend({
 
 	empty_votes: function () {
 		switch (this.type()) {
-			case 'series': 
+			case 'series':
 				return { 'series': null, 'comment': null };
 			case 'limited-series':
 				return { 'series': null, 'comment': null };
 			case 'character':
 				return { 'text': null, 'series': null, 'comment': null };
-			case 'credits-song': 
+			case 'credits-song':
 				return { 'series': null, 'credits-type': 'OP', 'song-nr': 1, 'comment': null };
 			case 'freeform':
-			default: 
+			default:
 				return { 'text': null, 'comment': null };
 		}
 	},
