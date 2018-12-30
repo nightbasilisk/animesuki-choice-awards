@@ -67,6 +67,25 @@ var Votes = React.createClass({displayName: 'Votes',
 						) 
 					);
 					break;
+				case 'staff':
+					form = ( 
+						React.DOM.div( {key:vid, className:"row"}, 
+							React.DOM.span( {className:"col-xs-6"}, 
+								React.DOM.span( {className:"input-group"}, 
+									inputAddon,
+									React.DOM.input( {className:"form-control",
+									       placeholder:"Staff Role...",
+									       'data-category-code':category.code(),
+									       'data-idx':id,
+									       onChange:this.updateText})
+						        )
+							),
+							React.DOM.span( {className:"col-xs-6"}, 
+								SeriesSelect( {context:category, voteIdx:id, votes:votes})
+							)
+						) 
+					);
+					break;
 				case 'credits-song':
 					form = ( 
 						React.DOM.div( {key:vid, className:"row"}, 
