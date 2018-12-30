@@ -52,6 +52,25 @@ var ListFormatter = Class.extend({
 						output += self.empty_list();
 					}
 					break;
+				case 'staff':
+					item_list = [];
+					comments = [];
+					_.each(info.votes, function (vote, i) {
+						if ( ! _.isEmpty(vote.series) &&  ! _.isEmpty(vote.text)) {
+							item_list.push(self.item_wrap(vote.text + ' / ' + contest.getSeries(vote.series).title(), vote.comment));
+							if ( ! _.isEmpty(vote.comment)) {
+								comments.push(vote.comment);
+							}
+						}
+					});
+					if ( ! _.isEmpty(item_list)) {
+						output += self.list_wrap(item_list);
+						output += self.comment_block(comments);
+					}
+					else { // no items
+						output += self.empty_list();
+					}
+					break;
 				case 'credits-song': 
 					item_list = [];
 					comments = [];
