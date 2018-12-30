@@ -260,7 +260,7 @@
     {
       "code": "X4",
       "name": "Best Producer-san",
-      "type": "freeform",
+      "type": "character",
       "allowedTypes": [
         "TV",
         "OVA",
