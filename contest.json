@@ -6,6 +6,7 @@
       1,
       1,
       1,
+      1,
       1
     ]
   },
@@ -13,216 +14,385 @@
     {
       "code": "A1",
       "name": "Best Storyline & Plot",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"March Comes In Like A Lion",
+"A Place Further Than The Universe",
+"Golden Kamuy",
+"Bloom Into You",
+"High Score Girl",
+"Mobile Suit Gundam: The Origin",
+"MEGALOBOX",
+"After the Rain"
+      ]
     },
     {
       "code": "A2",
       "name": "Best Visuals & Animation",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Violet Evergarden",
+"The Ancient Magus' Bride",
+"Bloom Into You",
+"Iroduku: The World in Colors",
+"SSSS.Gridman",
+"Liz to Aoi Tori",
+"MEGALOBOX",
+"Mobile Suit Gundam: The Origin",
+"No Game No Life: Zero"
+      ]
     },
     {
       "code": "B1",
       "name": "Best Action-Adventure",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Golden Kamuy",
+"Planet With",
+"Attack on Titan",
+"My Hero Academia 3",
+"Full Metal Panic! Invisible Victory",
+"Goblin Slayer",
+"A Place Further Than The Universe"
+      ]
     },
     {
       "code": "B2",
       "name": "Best Fantasy & Supernatural",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"The Ancient Magus' Bride",
+"Goblin Slayer",
+"No Game No Life: Zero",
+"Maquia: When the Promised Flower Blooms",
+"Devilman: Crybaby",
+"Kokkoku",
+"Violet Evergarden",
+"Attack on Titan",
+"Overlord"
+      ]
     },
     {
       "code": "B3",
       "name": "Best Science Fiction",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Planet With",
+"Mobile Suit Gundam: The Origin",
+"SSSS.Gridman",
+"Full Metal Panic! Invisible Victory",
+"Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+"DARLING in the FRANXX"
+      ]
     },
     {
       "code": "B4",
       "name": "Best Drama",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"March Comes In Like A Lion",
+"Violet Evergarden",
+"After the Rain",
+"A Place Further Than The Universe",
+"Rascal Does Not Dream of Bunny Girl Senpai",
+"Bloom Into You"
+      ]
     },
     {
       "code": "B5",
       "name": "Best Romance",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Bloom Into You",
+"After the Rain",
+"Rascal Does Not Dream of Bunny Girl Senpai",
+"High Score Girl",
+"Wotakoi: Love is Hard for Otaku",
+"Asagao to Kase-san."
+      ]
     },
     {
       "code": "B6",
       "name": "Best Comedy",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Hinamatsuri",
+"Grand Blue",
+"Zombie Land Saga",
+"Pop Team Epic",
+"Asobi Asobase: Workshop Of Fun",
+"The Disastrous Life of Saiki K. 2",
+"Double Decker! Doug & Kirill"
+      ]
     },
     {
       "code": "B7",
       "name": "Best Slice of Life",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Laid-Back Camp",
+"A Place Further Than The Universe",
+"March Comes In Like A Lion",
+"Hakumei and Mikochi",
+"Amanchu! Advance",
+"How to Keep a Mummy",
+"Cells at Work!"
+      ]
     },
     {
       "code": "B8",
       "name": "Best Sports Series",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"MEGALOBOX",
+"Harukana Receive",
+"Major 2nd",
+"Uma Musume: Pretty Derby",
+"Gurazeni",
+"Hanebado!",
+"The Ryuo's Work is Never Done!",
+"Yowamushi Pedal: Glory Line"
+      ]
     },
     {
       "code": "C1",
       "name": "Best TV Series",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV"
       ],
-      "presetValues": []
+      "presetValues": [
+"A Place Further Than The Universe",
+"Golden Kamuy",
+"March Comes In Like A Lion",
+"Rascal Does Not Dream of Bunny Girl Senpai",
+"Hinamatsuri",
+"Laid-Back Camp"
+      ]
     },
     {
       "code": "C2",
       "name": "Best OVA",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "OVA"
       ],
-      "presetValues": []
+      "presetValues": [
+"Asagao to Kase-san.",
+"Mobile Suit Gundam: The Origin",
+"Pop Team Epic",
+"Encouragement of Climb Season 3",
+"Aggretsuko",
+"Frankenstein Family",
+"Today's Menu for the Emiya Family",
+"Wakaokami wa Shougakusei!",
+"Wei, Kanjian Erduo La!"
+      ]
     },
     {
       "code": "C3",
       "name": "Best Movie",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Liz to Aoi Tori",
+"No Game No Life: Zero",
+"Maquia: When the Promised Flower Blooms",
+"Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+"Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+"Pokémon the Movie: I Choose You!"
+      ]
     },
     {
       "code": "D1",
       "name": "Best Female Lead",
-      "type": "character",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Asirpa",
+"Mai Sakurajima",
+"Hinata Kawamoto",
+"Chise Hatori",
+"Shirase Kobuchizawa",
+"Akira Tachibana",
+"Yuu Koito",
+"Rin Shima",
+"Violet Evergarden"
+      ]
     },
     {
       "code": "D2",
       "name": "Best Male Lead",
-      "type": "character",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Saichi Sugimoto",
+"Sakuta Azusagawa",
+"Masami Kondou",
+"Goblin Slayer",
+"Souya Kuroi",
+"Rei Kiriyama"
+      ]
     },
     {
       "code": "D3",
       "name": "Best Antagonist",
-      "type": "character",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Tsurumi",
+"Satan",
+"Yuuri",
+"Akane Shinjou",
+"Kenny Ackerman",
+"Takashi Ryuuzouji"
+      ]
     },
     {
       "code": "D4",
       "name": "Best Side-Character",
-      "type": "character",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Hitomi Mishima",
+"Kesshouban",
+"Anzu",
+"Hinata Miyake",
+"Sayla Mass",
+"Tae Yamada",
+"Gold Ship",
+"Saki Nikaidou",
+"Krista Lenz"
+      ]
     },
     {
       "code": "D5",
       "name": "Best World Setting",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"The Ancient Magus' Bride",
+"Golden Kamuy",
+"Mobile Suit Gundam: The Origin",
+"No Game No Life: Zero",
+"Violet Evergarden",
+"SSSS.Gridman",
+"Laid-Back Camp",
+"Cells at Work!",
+"Kokkoku"
+      ]
     },
     {
       "code": "D6",
       "name": "Best Credits Theme",
-      "type": "credits-song",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"DARLING in the FRANXX OP1",
+"Asobi Asobase: Workshop Of Fun ED1",
+"Zombie Land Saga OP1",
+"Golden Kamuy OP1",
+"March Comes In Like A Lion 2nd Season OP1",
+"Pop Team Epic OP1",
+"Bloom Into You OP1",
+"SSSS.Gridman OP1",
+"The Ancient Magus' Bride OP1"
+      ]
     },
     {
       "code": "D7",
       "name": "Best Soundtrack",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Devilman: Crybaby",
+"Liz to Aoi Tori",
+"MEGALOBOX",
+"Violet Evergarden",
+"March Comes In Like A Lion",
+"Laid-Back Camp",
+"After the Rain"
+      ]
     },
     {
       "code": "X1",
@@ -233,18 +403,38 @@
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"That Time I Got Reincarnated as a Slime",
+"JoJo no Kimyou na Bouken: Ougon no Kaze",
+"GeGeGe no Kitaro",
+"Run with the Wind",
+"Hinomaru Sumo",
+"Sword Art Online: Alicization",
+"One Piece",
+"Captain Tsubasa",
+"Le Cirque de Karakuri"
+      ]
     },
     {
       "code": "X2",
       "name": "Best Ending",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"A Place Further Than The Universe",
+"Goblin Slayer",
+"Planet With",
+"March Comes In Like A Lion",
+"SSSS.Gridman",
+"No Game No Life: Zero",
+"Dragon Pilot: Hisone and Masotan",
+"Devilman: Crybaby",
+"MEGALOBOX"
+      ]
     },
     {
       "code": "X3",
@@ -255,1158 +445,99 @@
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Kana Hanazawa",
+"Kaede Hondo",
+"Miyuki Sawashiro",
+"Ai Kayano",
+"Haruka Shiraishi",
+"Tomokazu Sugita",
+"Inori Minase",
+"Yui Ishikawa",
+"Asami Seto"
+      ]
     },
     {
       "code": "X4",
       "name": "Best Producer-san",
-      "type": "staff",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Director / 3-gatsu no Lion 2nd Season",
+"Director / Yagate Kimi ni Naru",
+"Character Design / Hisone to Maso-tan",
+"Director / No Game No Life: Zero",
+"Director / Devilman: Crybaby",
+"Series Composition / Sora yori mo Tooi Basho",
+"Director / Goblin Slayer",
+"Music / Overlord",
+"Director / Liz to Aoi Tori"
+      ]
     },
     {
       "code": "X5",
       "name": "Best Cinematography",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Violet Evergarden",
+"Bloom Into You",
+"Liz to Aoi Tori",
+"After the Rain",
+"SSSS.Gridman",
+"March Comes In Like A Lion",
+"The Ancient Magus' Bride"
+      ]
     },
     {
       "code": "X6",
       "name": "Best Cast",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+"Rascal Does Not Dream of Bunny Girl Senpai",
+"A Place Further Than The Universe",
+"Golden Kamuy",
+"Bloom Into You",
+"Zombie Land Saga",
+"Hinamatsuri",
+"March Comes In Like A Lion",
+"Goblin Slayer",
+"Cells at Work!",
+      ]
     },
     {
       "code": "X7",
       "name": "Best Thriller",
-      "type": "series",
+      "type": "freeform",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": []
-    }
-  ],
-  "series": [
-    {
-      "id": 35180,
-      "title": "3-gatsu no Lion 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": 36793,
-      "title": "3D Kanojo: Real Girl",
-      "type": "TV"
-    },
-    {
-      "id": 36039,
-      "title": "A.I.C.O.: Incarnation",
-      "type": "TV"
-    },
-    {
-      "id": 36904,
-      "title": "Aggressive Retsuko",
-      "type": "OVA"
-    },
-    {
-      "id": 37769,
-      "title": "Aguu: Tensai Ningyou",
-      "type": "TV"
-    },
-    {
-      "id": 32717,
-      "title": "Aikatsu Stars!",
-      "type": "TV"
-    },
-    {
-      "id": 37561,
-      "title": "Akanesasu Shoujo",
-      "type": "TV"
-    },
-    {
-      "id": 36864,
-      "title": "Akkun to Kanojo",
-      "type": "OVA"
-    },
-    {
-      "id": 36001,
-      "title": "Alice or Alice: Siscon Niisan to Futago no Imouto",
-      "type": "OVA"
-    },
-    {
-      "id": 36800,
-      "title": "Amanchu! Advance",
-      "type": "TV"
-    },
-    {
-      "id": 35834,
-      "title": "Angolmois: Genkou Kassenki",
-      "type": "TV"
-    },
-    {
-      "id": 37924,
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 2",
-      "type": "OVA"
-    },
-    {
-      "id": 37206,
-      "title": "Anima Yell!",
-      "type": "TV"
-    },
-    {
-      "id": 37735,
-      "title": "Aru Zombie Shoujo no Sainan",
-      "type": "OVA"
-    },
-    {
-      "id": 36214,
-      "title": "Asagao to Kase-san.",
-      "type": "OVA"
-    },
-    {
-      "id": 37171,
-      "title": "Asobi Asobase",
-      "type": "TV"
-    },
-    {
-      "id": 32827,
-      "title": "B: The Beginning",
-      "type": "TV"
-    },
-    {
-      "id": 36873,
-      "title": "Back Street Girls: Gokudolls",
-      "type": "TV"
-    },
-    {
-      "id": 34443,
-      "title": "Baki",
-      "type": "TV"
-    },
-    {
-      "id": 37584,
-      "title": "Bakumatsu",
-      "type": "TV"
-    },
-    {
-      "id": 36649,
-      "title": "Banana Fish",
-      "type": "TV"
-    },
-    {
-      "id": 35964,
-      "title": "Basilisk: Ouka Ninpouchou",
-      "type": "TV"
-    },
-    {
-      "id": 36516,
-      "title": "Beatless",
-      "type": "TV"
-    },
-    {
-      "id": 38020,
-      "title": "Beatless Final Stage",
-      "type": "OVA"
-    },
-    {
-      "id": 37716,
-      "title": "Beelzebub-jou no Okinimesu mama.",
-      "type": "TV"
-    },
-    {
-      "id": 37036,
-      "title": "Binan Koukou Chikyuu Boueibu Happy Kiss!",
-      "type": "TV"
-    },
-    {
-      "id": 36456,
-      "title": "Boku no Hero Academia 3rd Season",
-      "type": "TV"
-    },
-    {
-      "id": 36309,
-      "title": "Butlers: Chitose Momotose Monogatari",
-      "type": "TV"
-    },
-    {
-      "id": 36828,
-      "title": "Caligula",
-      "type": "TV"
-    },
-    {
-      "id": 36934,
-      "title": "Captain Tsubasa (2018)",
-      "type": "TV"
-    },
-    {
-      "id": 33354,
-      "title": "Cardcaptor Sakura: Clear Card-hen",
-      "type": "TV"
-    },
-    {
-      "id": 35821,
-      "title": "Chio-chan no Tsuugakuro",
-      "type": "TV"
-    },
-    {
-      "id": 37338,
-      "title": "Chuukan Kanriroku Tonegawa",
-      "type": "TV"
-    },
-    {
-      "id": 35608,
-      "title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
-      "type": "Movie"
-    },
-    {
-      "id": 37422,
-      "title": "Cinderella Girls Gekijou 3rd Season",
-      "type": "OVA"
-    },
-    {
-      "id": 34382,
-      "title": "Citrus",
-      "type": "TV"
-    },
-    {
-      "id": 35334,
-      "title": "ClassicaLoid 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": 35756,
-      "title": "Comic Girls",
-      "type": "TV"
-    },
-    {
-      "id": 37823,
-      "title": "Conception",
-      "type": "TV"
-    },
-    {
-      "id": 36976,
-      "title": "Cutie Honey Universe",
-      "type": "TV"
-    },
-    {
-      "id": 36049,
-      "title": "Dagashi Kashi 2",
-      "type": "OVA"
-    },
-    {
-      "id": 37597,
-      "title": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
-      "type": "TV"
-    },
-    {
-      "id": 35988,
-      "title": "Dame x Prince Anime Caravan",
-      "type": "TV"
-    },
-    {
-      "id": 35849,
-      "title": "Darling in the FranXX",
-      "type": "TV"
-    },
-    {
-      "id": 34513,
-      "title": "Days: Touin Gakuen-sen!",
-      "type": "OVA"
-    },
-    {
-      "id": 34497,
-      "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-      "type": "TV"
-    },
-    {
-      "id": 35120,
-      "title": "Devilman: Crybaby",
-      "type": "TV"
-    },
-    {
-      "id": 35928,
-      "title": "Devils Line",
-      "type": "TV"
-    },
-    {
-      "id": 36515,
-      "title": "Dies Irae: To the Ring Reincarnation",
-      "type": "OVA"
-    },
-    {
-      "id": 25687,
-      "title": "Digimon Adventure tri.",
-      "type": "Movie"
-    },
-    {
-      "id": 36525,
-      "title": "Dorei-ku The Animation",
-      "type": "TV"
-    },
-    {
-      "id": 37496,
-      "title": "Double Decker! Doug & Kirill",
-      "type": "TV"
-    },
-    {
-      "id": 37150,
-      "title": "Douluo Dalu",
-      "type": "TV"
-    },
-    {
-      "id": 30694,
-      "title": "Dragon Ball Super",
-      "type": "TV"
-    },
-    {
-      "id": 33047,
-      "title": "Fate/Extra: Last Encore",
-      "type": "TV"
-    },
-    {
-      "id": 34100,
-      "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
-      "type": "Movie"
-    },
-    {
-      "id": 36704,
-      "title": "Free!: Dive to the Future",
-      "type": "TV"
-    },
-    {
-      "id": 35198,
-      "title": "Free!: Take Your Marks",
-      "type": "Movie"
-    },
-    {
-      "id": 31931,
-      "title": "Full Metal Panic! Invisible Victory",
-      "type": "TV"
-    },
-    {
-      "id": 37188,
-      "title": "Fumikiri Jikan",
-      "type": "OVA"
-    },
-    {
-      "id": 36317,
-      "title": "Gaikotsu Shotenin Honda-san",
-      "type": "OVA"
-    },
-    {
-      "id": 35222,
-      "title": "Gakuen Babysitters",
-      "type": "TV"
-    },
-    {
-      "id": 37657,
-      "title": "Gakuen Basara",
-      "type": "TV"
-    },
-    {
-      "id": 36144,
-      "title": "Garo: Vanishing Line",
-      "type": "TV"
-    },
-    {
-      "id": 35757,
-      "title": "Gin no Guardian 2nd Season",
-      "type": "OVA"
-    },
-    {
-      "id": 31433,
-      "title": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
-      "type": "TV"
-    },
-    {
-      "id": 36838,
-      "title": "Gintama.: Shirogane no Tamashii-hen",
-      "type": "TV"
-    },
-    {
-      "id": 37349,
-      "title": "Goblin Slayer",
-      "type": "TV"
-    },
-    {
-      "id": 33280,
-      "title": "Gochuumon wa Usagi Desu ka??: Dear My Sister",
-      "type": "Movie"
-    },
-    {
-      "id": 33783,
-      "title": "Godzilla",
-      "type": "Movie"
-    },
-    {
-      "id": 36028,
-      "title": "Golden Kamuy",
-      "type": "TV"
-    },
-    {
-      "id": 34279,
-      "title": "Grancrest Senki",
-      "type": "TV"
-    },
-    {
-      "id": 37105,
-      "title": "Grand Blue",
-      "type": "TV"
-    },
-    {
-      "id": 37245,
-      "title": "Gundam Build Divers",
-      "type": "TV"
-    },
-    {
-      "id": 35183,
-      "title": "Gurazeni",
-      "type": "TV"
-    },
-    {
-      "id": 35889,
-      "title": "Hakata Tonkotsu Ramens",
-      "type": "TV"
-    },
-    {
-      "id": 36094,
-      "title": "Hakumei to Mikochi",
-      "type": "TV"
-    },
-    {
-      "id": 36029,
-      "title": "Hakyuu Houshin Engi",
-      "type": "TV"
-    },
-    {
-      "id": 37259,
-      "title": "Hanebado!",
-      "type": "TV"
-    },
-    {
-      "id": 37555,
-      "title": "Hangyakusei Million Arthur",
-      "type": "TV"
-    },
-    {
-      "id": 37517,
-      "title": "Happy Sugar Life",
-      "type": "TV"
-    },
-    {
-      "id": 35983,
-      "title": "Harukana Receive",
-      "type": "TV"
-    },
-    {
-      "id": 38254,
-      "title": "Hashiri Tsuzukete Yokattatte.",
-      "type": "OVA"
-    },
-    {
-      "id": 36784,
-      "title": "Hataraku Onii-san!",
-      "type": "OVA"
-    },
-    {
-      "id": 37141,
-      "title": "Hataraku Saibou",
-      "type": "TV"
-    },
-    {
-      "id": 38628,
-      "title": "Hero Mask",
-      "type": "TV"
-    },
-    {
-      "id": 34281,
-      "title": "High School DxD Hero",
-      "type": "TV"
-    },
-    {
-      "id": 21877,
-      "title": "High Score Girl",
-      "type": "TV"
-    },
-    {
-      "id": 36945,
-      "title": "Himote House",
-      "type": "OVA"
-    },
-    {
-      "id": 36296,
-      "title": "Hinamatsuri",
-      "type": "TV"
-    },
-    {
-      "id": 37007,
-      "title": "Hinomaruzumou",
-      "type": "TV"
-    },
-    {
-      "id": 36884,
-      "title": "Hisone to Maso-tan",
-      "type": "TV"
-    },
-    {
-      "id": 37029,
-      "title": "Hoozuki no Reitetsu 2nd Season: Sono Ni",
-      "type": "TV"
-    },
-    {
-      "id": 37446,
-      "title": "Hyakuren no Haou to Seiyaku no Valkyria",
-      "type": "TV"
-    },
-    {
-      "id": 33899,
-      "title": "IDOLiSH7",
-      "type": "TV"
-    },
-    {
-      "id": 33733,
-      "title": "Inazuma Eleven: Ares no Tenbin",
-      "type": "TV"
-    },
-    {
-      "id": 37438,
-      "title": "Ingress the Animation",
-      "type": "TV"
-    },
-    {
-      "id": 37497,
-      "title": "Irozuku Sekai no Ashita kara",
-      "type": "TV"
-    },
-    {
-      "id": 34420,
-      "title": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
-      "type": "OVA"
-    },
-    {
-      "id": 37210,
-      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-      "type": "TV"
-    },
-    {
-      "id": 33012,
-      "title": "Island",
-      "type": "TV"
-    },
-    {
-      "id": 36124,
-      "title": "Itou Junji: Collection",
-      "type": "TV"
-    },
-    {
-      "id": 37021,
-      "title": "Iya na Kao sare nagara Opantsu Misete Moraitai",
-      "type": "OVA"
-    },
-    {
-      "id": 36906,
-      "title": "Jashin-chan Dropkick",
-      "type": "TV"
-    },
-    {
-      "id": 37992,
-      "title": "Jingai-san no Yome",
-      "type": "OVA"
-    },
-    {
-      "id": 37991,
-      "title": "JoJo no Kimyou na Bouken: Ougon no Kaze",
-      "type": "TV"
-    },
-    {
-      "id": 33531,
-      "title": "Juushinki Pandora",
-      "type": "TV"
-    },
-    {
-      "id": 36196,
-      "title": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
-      "type": "OVA"
-    },
-    {
-      "id": 36754,
-      "title": "Kakuriyo no Yadomeshi",
-      "type": "TV"
-    },
-    {
-      "id": 35860,
-      "title": "Karakai Jouzu no Takagi-san",
-      "type": "TV"
-    },
-    {
-      "id": 38083,
-      "title": "Ken En Ken: Aoki Kagayaki",
-      "type": "TV"
-    },
-    {
-      "id": 34964,
-      "title": "Killing Bites",
-      "type": "TV"
-    },
-    {
-      "id": 33218,
-      "title": "Kimi no Koe wo Todoketai",
-      "type": "Movie"
-    },
-    {
-      "id": 33191,
-      "title": "Kishibe Rohan wa Ugokanai",
-      "type": "OVA"
-    },
-    {
-      "id": 37475,
-      "title": "Kishuku Gakkou no Juliet",
-      "type": "TV"
-    },
-    {
-      "id": 34984,
-      "title": "Koi wa Ameagari no You ni",
-      "type": "TV"
-    },
-    {
-      "id": 36548,
-      "title": "Kokkoku",
-      "type": "TV"
-    },
-    {
-      "id": 37458,
-      "title": "Kyoto Teramachi Sanjou no Holmes",
-      "type": "TV"
-    },
-    {
-      "id": 37254,
-      "title": "Last Period: Owarinaki Rasen no Monogatari",
-      "type": "TV"
-    },
-    {
-      "id": 36522,
-      "title": "Ling Qi 2",
-      "type": "TV"
-    },
-    {
-      "id": 35677,
-      "title": "Liz to Aoi Tori",
-      "type": "Movie"
-    },
-    {
-      "id": 37601,
-      "title": "Lord of Vermilion: Guren no Ou",
-      "type": "TV"
-    },
-    {
-      "id": 34338,
-      "title": "Lost Song",
-      "type": "TV"
-    },
-    {
-      "id": 34607,
-      "title": "Lostorage Conflated WIXOSS",
-      "type": "TV"
-    },
-    {
-      "id": 35857,
-      "title": "Lupin III: Part 5",
-      "type": "TV"
-    },
-    {
-      "id": 36902,
-      "title": "Mahou Shoujo Ore",
-      "type": "TV"
-    },
-    {
-      "id": 36266,
-      "title": "Mahou Shoujo Site",
-      "type": "TV"
-    },
-    {
-      "id": 32900,
-      "title": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
-      "type": "Movie"
-    },
-    {
-      "id": 35062,
-      "title": "Mahoutsukai no Yome",
-      "type": "TV"
-    },
-    {
-      "id": 36565,
-      "title": "Major 2nd",
-      "type": "TV"
-    },
-    {
-      "id": 34541,
-      "title": "Mary to Majo no Hana",
-      "type": "Movie"
-    },
-    {
-      "id": 36563,
-      "title": "Megalo Box",
-      "type": "TV"
-    },
-    {
-      "id": 37232,
-      "title": "Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo",
-      "type": "TV"
-    },
-    {
-      "id": 37175,
-      "title": "Mi Yu Xing Zhe",
-      "type": "TV"
-    },
-    {
-      "id": 35828,
-      "title": "Miira no Kaikata",
-      "type": "TV"
-    },
-    {
-      "id": 35078,
-      "title": "Mitsuboshi Colors",
-      "type": "TV"
-    },
-    {
-      "id": 37208,
-      "title": "Mo Dao Zu Shi",
-      "type": "TV"
-    },
-    {
-      "id": 10937,
-      "title": "Mobile Suit Gundam: The Origin",
-      "type": "OVA"
-    },
-    {
-      "id": 31631,
-      "title": "Monster Hunter Stories: Ride On",
-      "type": "TV"
-    },
-    {
-      "id": 37487,
-      "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
-      "type": "TV"
-    },
-    {
-      "id": 35997,
-      "title": "Märchen Mädchen",
-      "type": "TV"
-    },
-    {
-      "id": 36847,
-      "title": "Nanatsu no Bitoku",
-      "type": "OVA"
-    },
-    {
-      "id": 34577,
-      "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
-      "type": "TV"
-    },
-    {
-      "id": 37983,
-      "title": "Nekopara: Koneko no Hi no Yakusoku",
-      "type": "OVA"
-    },
-    {
-      "id": 33850,
-      "title": "Nil Admirari no Tenbin",
-      "type": "TV"
-    },
-    {
-      "id": 36517,
-      "title": "Ninja Batman",
-      "type": "Movie"
-    },
-    {
-      "id": 33674,
-      "title": "No Game No Life: Zero",
-      "type": "Movie"
-    },
-    {
-      "id": 37126,
-      "title": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
-      "type": "OVA"
-    },
-    {
-      "id": 37258,
-      "title": "Omae wa Mada Gunma wo Shiranai",
-      "type": "OVA"
-    },
-    {
-      "id": 36431,
-      "title": "One Room 2nd Season",
-      "type": "OVA"
-    },
-    {
-      "id": 37481,
-      "title": "Ongaku Shoujo",
-      "type": "TV"
-    },
-    {
-      "id": 36632,
-      "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
-      "type": "TV"
-    },
-    {
-      "id": 35067,
-      "title": "Osomatsu-san 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": 38395,
-      "title": "Otona no Bouguya-san",
-      "type": "OVA"
-    },
-    {
-      "id": 35073,
-      "title": "Overlord",
-      "type": "TV"
-    },
-    {
-      "id": 36023,
-      "title": "Persona 5 the Animation",
-      "type": "TV"
-    },
-    {
-      "id": 37598,
-      "title": "Phantom in the Twilight",
-      "type": "TV"
-    },
-    {
-      "id": 36652,
-      "title": "Piano no Mori",
-      "type": "TV"
-    },
-    {
-      "id": 36259,
-      "title": "Pingu in the City",
-      "type": "OVA"
-    },
-    {
-      "id": 37578,
-      "title": "Planet With",
-      "type": "TV"
-    },
-    {
-      "id": 34540,
-      "title": "Pokemon: Kimi ni Kimeta!",
-      "type": "Movie"
-    },
-    {
-      "id": 35330,
-      "title": "Poputepipikku",
-      "type": "OVA"
-    },
-    {
-      "id": 35835,
-      "title": "RErideD: Tokigoe no Derrida",
-      "type": "TV"
-    },
-    {
-      "id": 35298,
-      "title": "Ramen Daisuki Koizumi-san",
-      "type": "TV"
-    },
-    {
-      "id": 36286,
-      "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow",
-      "type": "OVA"
-    },
-    {
-      "id": 37221,
-      "title": "Release the Spyce",
-      "type": "TV"
-    },
-    {
-      "id": 36513,
-      "title": "Rokuhoudou Yotsuiro Biyori",
-      "type": "TV"
-    },
-    {
-      "id": 35905,
-      "title": "Ryuuou no Oshigoto!",
-      "type": "TV"
-    },
-    {
-      "id": 35847,
-      "title": "SSSS.Gridman",
-      "type": "TV"
-    },
-    {
-      "id": 34612,
-      "title": "Saiki Kusuo no Ψ-nan 2",
-      "type": "TV"
-    },
-    {
-      "id": 34839,
-      "title": "Sanrio Danshi",
-      "type": "TV"
-    },
-    {
-      "id": 33889,
-      "title": "Saredo Tsumibito wa Ryuu to Odoru",
-      "type": "TV"
-    },
-    {
-      "id": 35994,
-      "title": "Satsuriku no Tenshi",
-      "type": "TV"
-    },
-    {
-      "id": 35851,
-      "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
-      "type": "Movie"
-    },
-    {
-      "id": 37450,
-      "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-      "type": "TV"
-    },
-    {
-      "id": 37571,
-      "title": "Senjuushi",
-      "type": "TV"
-    },
-    {
-      "id": 36037,
-      "title": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
-      "type": "TV"
-    },
-    {
-      "id": 36316,
-      "title": "Shichisei no Subaru",
-      "type": "TV"
-    },
-    {
-      "id": 35760,
-      "title": "Shingeki no Kyojin Season 3",
-      "type": "TV"
-    },
-    {
-      "id": 36688,
-      "title": "Shinmai Maou no Testament Departures",
-      "type": "OVA"
-    },
-    {
-      "id": 36397,
-      "title": "Shiyan Pin Jiating",
-      "type": "OVA"
-    },
-    {
-      "id": 36949,
-      "title": "Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen",
-      "type": "TV"
-    },
-    {
-      "id": 35503,
-      "title": "Shoujo☆Kageki Revue Starlight",
-      "type": "TV"
-    },
-    {
-      "id": 37569,
-      "title": "Sirius",
-      "type": "TV"
-    },
-    {
-      "id": 35540,
-      "title": "Slow Start",
-      "type": "TV"
-    },
-    {
-      "id": 36000,
-      "title": "Sora to Umi no Aida",
-      "type": "TV"
-    },
-    {
-      "id": 35839,
-      "title": "Sora yori mo Tooi Basho",
-      "type": "TV"
-    },
-    {
-      "id": 36655,
-      "title": "Souten no Ken: Regenesis",
-      "type": "TV"
-    },
-    {
-      "id": 30484,
-      "title": "Steins;Gate 0",
-      "type": "TV"
-    },
-    {
-      "id": 36817,
-      "title": "Sunohara-sou no Kanrinin-san",
-      "type": "TV"
-    },
-    {
-      "id": 36475,
-      "title": "Sword Art Online Alternative: Gun Gale Online",
-      "type": "TV"
-    },
-    {
-      "id": 27783,
-      "title": "Sword Gai: The Animation",
-      "type": "TV"
-    },
-    {
-      "id": 36943,
-      "title": "Tachibanakan Triangle",
-      "type": "OVA"
-    },
-    {
-      "id": 36470,
-      "title": "Tada-kun wa Koi wo Shinai",
-      "type": "TV"
-    },
-    {
-      "id": 36108,
-      "title": "Takunomi.",
-      "type": "OVA"
-    },
-    {
-      "id": 37430,
-      "title": "Tensei shitara Slime Datta Ken",
-      "type": "TV"
-    },
-    {
-      "id": 35589,
-      "title": "Toji no Miko",
-      "type": "TV"
-    },
-    {
-      "id": 36511,
-      "title": "Tokyo Ghoul:re",
-      "type": "TV"
-    },
-    {
-      "id": 37579,
-      "title": "Tonari no Kyuuketsuki-san",
-      "type": "TV"
-    },
-    {
-      "id": 36654,
-      "title": "Tsukumogami Kashimasu",
-      "type": "TV"
-    },
-    {
-      "id": 35044,
-      "title": "Tu Bian Ying Xiong Leaf",
-      "type": "TV"
-    },
-    {
-      "id": 37722,
-      "title": "Uchi no Maid ga Uzasugiru!",
-      "type": "TV"
-    },
-    {
-      "id": 34498,
-      "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
-      "type": "Movie"
-    },
-    {
-      "id": 36267,
-      "title": "Uchuu Senkan Tiramisù",
-      "type": "OVA"
-    },
-    {
-      "id": 36510,
-      "title": "Ulysses: Jehanne Darc to Renkin no Kishi",
-      "type": "TV"
-    },
-    {
-      "id": 35249,
-      "title": "Uma Musume: Pretty Derby",
-      "type": "TV"
-    },
-    {
-      "id": 33352,
-      "title": "Violet Evergarden",
-      "type": "TV"
-    },
-    {
-      "id": 37433,
-      "title": "Wakaokami wa Shougakusei!",
-      "type": "OVA"
-    },
-    {
-      "id": 38217,
-      "title": "Wei, Kanjian Erduo La!",
-      "type": "OVA"
-    },
-    {
-      "id": 37564,
-      "title": "Wo De Ni Tian Shen Qi",
-      "type": "OVA"
-    },
-    {
-      "id": 35968,
-      "title": "Wotaku ni Koi wa Muzukashii",
-      "type": "TV"
-    },
-    {
-      "id": 37786,
-      "title": "Yagate Kimi ni Naru",
-      "type": "TV"
-    },
-    {
-      "id": 35672,
-      "title": "Yama no Susume: Third Season",
-      "type": "OVA"
-    },
-    {
-      "id": 37893,
-      "title": "Yami Shibai 6",
-      "type": "OVA"
-    },
-    {
-      "id": 19157,
-      "title": "Youkai Watch",
-      "type": "TV"
-    },
-    {
-      "id": 35789,
-      "title": "Yowamushi Pedal: Glory Line",
-      "type": "TV"
-    },
-    {
-      "id": 33966,
-      "title": "Yume Oukoku to Nemureru 100-nin no Ouji-sama",
-      "type": "TV"
-    },
-    {
-      "id": 36726,
-      "title": "Yuragi-sou no Yuuna-san",
-      "type": "TV"
-    },
-    {
-      "id": 34798,
-      "title": "Yuru Camp△",
-      "type": "TV"
-    },
-    {
-      "id": 34863,
-      "title": "Zoku Touken Ranbu: Hanamaru",
-      "type": "TV"
-    },
-    {
-      "id": 37976,
-      "title": "Zombieland Saga",
-      "type": "TV"
+      "presetValues": [
+"Kokkoku",
+"Attack on Titan",
+"Happy Sugar Life",
+"Angels of Death ",
+"B: The Beginning",
+"Mobile Suit Gundam: The Origin",
+"Golden Kamuy",
+"Devilman: Crybaby",
+"Steins;Gate 0"
+      ]
     }
   ]
 }
