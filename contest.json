@@ -21,14 +21,14 @@
         "Movie"
       ],
       "presetValues": [
-"March Comes In Like A Lion",
 "A Place Further Than The Universe",
-"Golden Kamuy",
+"After the Rain",
 "Bloom Into You",
+"Golden Kamuy",
 "High Score Girl",
-"Mobile Suit Gundam: The Origin",
 "MEGALOBOX",
-"After the Rain"
+"March Comes In Like A Lion",
+"Mobile Suit Gundam: The Origin"
       ]
     },
     {
@@ -41,15 +41,15 @@
         "Movie"
       ],
       "presetValues": [
-"Violet Evergarden",
-"The Ancient Magus' Bride",
 "Bloom Into You",
 "Iroduku: The World in Colors",
-"SSSS.Gridman",
 "Liz and the Blue Bird",
 "MEGALOBOX",
 "Mobile Suit Gundam: The Origin",
-"No Game No Life: Zero"
+"No Game No Life: Zero",
+"SSSS.Gridman",
+"The Ancient Magus' Bride",
+"Violet Evergarden"
       ]
     },
     {
@@ -62,13 +62,13 @@
         "Movie"
       ],
       "presetValues": [
-"Golden Kamuy",
-"Planet With",
+"A Place Further Than The Universe",
 "Attack on Titan",
-"My Hero Academia 3",
 "Full Metal Panic! Invisible Victory",
 "Goblin Slayer",
-"A Place Further Than The Universe"
+"Golden Kamuy",
+"My Hero Academia 3",
+"Planet With"
       ]
     },
     {
@@ -81,15 +81,15 @@
         "Movie"
       ],
       "presetValues": [
-"The Ancient Magus' Bride",
-"Goblin Slayer",
-"No Game No Life: Zero",
-"Maquia: When the Promised Flower Blooms",
-"Devilman: Crybaby",
-"Kokkoku",
-"Violet Evergarden",
 "Attack on Titan",
-"Overlord"
+"Devilman: Crybaby",
+"Goblin Slayer",
+"Kokkoku",
+"Maquia: When the Promised Flower Blooms",
+"No Game No Life: Zero",
+"Overlord",
+"The Ancient Magus' Bride",
+"Violet Evergarden"
       ]
     },
     {
@@ -102,12 +102,12 @@
         "Movie"
       ],
       "presetValues": [
-"Planet With",
-"Mobile Suit Gundam: The Origin",
-"SSSS.Gridman",
+"DARLING in the FRANXX",
 "Full Metal Panic! Invisible Victory",
 "Legend of the Galactic Heroes: Die Neue These",
-"DARLING in the FRANXX"
+"Mobile Suit Gundam: The Origin",
+"Planet With",
+"SSSS.Gridman"
       ]
     },
     {
@@ -120,12 +120,12 @@
         "Movie"
       ],
       "presetValues": [
-"March Comes In Like A Lion",
-"Violet Evergarden",
-"After the Rain",
 "A Place Further Than The Universe",
+"After the Rain",
+"Bloom Into You",
+"March Comes In Like A Lion",
 "Rascal Does Not Dream of Bunny Girl Senpai",
-"Bloom Into You"
+"Violet Evergarden"
       ]
     },
     {
@@ -138,12 +138,12 @@
         "Movie"
       ],
       "presetValues": [
-"Bloom Into You",
 "After the Rain",
-"Rascal Does Not Dream of Bunny Girl Senpai",
+"Asagao to Kase-san.",
+"Bloom Into You",
 "High Score Girl",
-"Wotakoi: Love is Hard for Otaku",
-"Asagao to Kase-san."
+"Rascal Does Not Dream of Bunny Girl Senpai",
+"Wotakoi: Love is Hard for Otaku"
       ]
     },
     {
@@ -156,13 +156,13 @@
         "Movie"
       ],
       "presetValues": [
-"Hinamatsuri",
-"Grand Blue",
-"Zombie Land Saga",
-"Pop Team Epic",
 "Asobi Asobase: Workshop Of Fun",
+"Double Decker! Doug & Kirill",
+"Grand Blue",
+"Hinamatsuri",
+"Pop Team Epic",
 "The Disastrous Life of Saiki K. 2",
-"Double Decker! Doug & Kirill"
+"Zombie Land Saga"
       ]
     },
     {
@@ -175,13 +175,13 @@
         "Movie"
       ],
       "presetValues": [
-"Laid-Back Camp",
 "A Place Further Than The Universe",
-"March Comes In Like A Lion",
-"Hakumei and Mikochi",
 "Amanchu! Advance",
+"Cells at Work!",
+"Hakumei and Mikochi",
 "How to Keep a Mummy",
-"Cells at Work!"
+"Laid-Back Camp",
+"March Comes In Like A Lion"
       ]
     },
     {
@@ -194,13 +194,13 @@
         "Movie"
       ],
       "presetValues": [
-"MEGALOBOX",
-"Harukana Receive",
-"Major 2nd",
-"Uma Musume: Pretty Derby",
 "Gurazeni",
 "Hanebado!",
+"Harukana Receive",
+"MEGALOBOX",
+"Major 2nd",
 "The Ryuo's Work is Never Done!",
+"Uma Musume: Pretty Derby",
 "Yowamushi Pedal: Glory Line"
       ]
     },
@@ -214,10 +214,10 @@
       "presetValues": [
 "A Place Further Than The Universe",
 "Golden Kamuy",
-"March Comes In Like A Lion",
-"Rascal Does Not Dream of Bunny Girl Senpai",
 "Hinamatsuri",
-"Laid-Back Camp"
+"Laid-Back Camp",
+"March Comes In Like A Lion",
+"Rascal Does Not Dream of Bunny Girl Senpai"
       ]
     },
     {
@@ -228,12 +228,12 @@
         "OVA"
       ],
       "presetValues": [
+"Aggretsuko",
 "Asagao to Kase-san.",
+"Encouragement of Climb Season 3",
+"Frankenstein Family",
 "Mobile Suit Gundam: The Origin",
 "Pop Team Epic",
-"Encouragement of Climb Season 3",
-"Aggretsuko",
-"Frankenstein Family",
 "Today's Menu for the Emiya Family",
 "Wakaokami wa Shougakusei!",
 "Wei, Kanjian Erduo La!"
@@ -247,11 +247,11 @@
         "Movie"
       ],
       "presetValues": [
-"Liz and the Blue Bird",
-"No Game No Life: Zero",
-"Maquia: When the Promised Flower Blooms",
 "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+"Liz and the Blue Bird",
 "Love, Chunibyo and Other Delusions! Take On Me",
+"Maquia: When the Promised Flower Blooms",
+"No Game No Life: Zero",
 "Pokémon the Movie: I Choose You!"
       ]
     },
@@ -265,15 +265,15 @@
         "Movie"
       ],
       "presetValues": [
-"Asirpa",
-"Mai Sakurajima",
-"Hinata Kawamoto",
-"Chise Hatori",
-"Shirase Kobuchizawa",
-"Akira Tachibana",
-"Yuu Koito",
-"Rin Shima",
-"Violet Evergarden"
+"Akira Tachibana / After the Rain",
+"Asirpa / Golden Kamuy",
+"Chise Hatori / The Ancient Magus' Bride",
+"Hinata Kawamoto / March Comes In Like A Lion",
+"Mai Sakurajima / Rascal Does Not Dream of Bunny Girl Senpai",
+"Rin Shima / Laid-Back Camp",
+"Shirase Kobuchizawa / A Place Further Than The Universe",
+"Violet Evergarden / Violet Evergarden",
+"Yuu Koito / Bloom Into You"
       ]
     },
     {
@@ -286,12 +286,12 @@
         "Movie"
       ],
       "presetValues": [
-"Saichi Sugimoto",
-"Sakuta Azusagawa",
-"Masami Kondou",
-"Goblin Slayer",
-"Souya Kuroi",
-"Rei Kiriyama"
+"Goblin Slayer / Goblin Slayer",
+"Masami Kondou / After the Rain",
+"Rei Kiriyama / March Comes In Like A Lion 2nd Season",
+"Saichi Sugimoto / Golden Kamuy",
+"Sakuta Azusagawa / Rascal Does Not Dream of Bunny Girl Senpai",
+"Souya Kuroi / Planet With"
       ]
     },
     {
@@ -304,12 +304,12 @@
         "Movie"
       ],
       "presetValues": [
-"Tsurumi",
-"Satan",
-"Yuuri",
-"Akane Shinjou",
-"Kenny Ackerman",
-"Takashi Ryuuzouji"
+"Akane Shinjou / SSSS.Gridman",
+"Kenny Ackerman / Attack on Titan Season 3",
+"Satan / Devilman: Crybaby",
+"Takashi Ryuuzouji / Planet With",
+"Tsurumi / Golden Kamuy",
+"Yuuri / MEGALOBOX"
       ]
     },
     {
@@ -322,15 +322,15 @@
         "Movie"
       ],
       "presetValues": [
-"Hitomi Mishima",
-"Kesshouban",
-"Anzu",
-"Hinata Miyake",
-"Sayla Mass",
-"Tae Yamada",
-"Gold Ship",
-"Saki Nikaidou",
-"Historia Reiss"
+"Anzu / Hinamatsuri",
+"Gold Ship / Uma Musume: Pretty Derby",
+"Hinata Miyake / A Place Further Than The Universe",
+"Historia Reiss / Attack on Titan Season 3",
+"Hitomi Mishima / Hinamatsuri",
+"Kesshouban / Cells at Work!",
+"Saki Nikaidou / Zombie Land Saga",
+"Sayla Mass / Mobile Suit Gundam: The Origin",
+"Tae Yamada / Zombie Land Saga"
       ]
     },
     {
@@ -343,15 +343,15 @@
         "Movie"
       ],
       "presetValues": [
-"The Ancient Magus' Bride",
+"Cells at Work!",
 "Golden Kamuy",
+"Kokkoku",
+"Laid-Back Camp",
 "Mobile Suit Gundam: The Origin",
 "No Game No Life: Zero",
-"Violet Evergarden",
 "SSSS.Gridman",
-"Laid-Back Camp",
-"Cells at Work!",
-"Kokkoku"
+"The Ancient Magus' Bride",
+"Violet Evergarden"
       ]
     },
     {
@@ -364,15 +364,15 @@
         "Movie"
       ],
       "presetValues": [
-"DARLING in the FRANXX OP1",
 "Asobi Asobase: Workshop Of Fun ED1",
-"Zombie Land Saga OP1",
+"Bloom Into You OP1",
+"DARLING in the FRANXX OP1",
 "Golden Kamuy OP1",
 "March Comes In Like A Lion 2nd Season OP1",
 "Pop Team Epic OP1",
-"Bloom Into You OP1",
 "SSSS.Gridman OP1",
-"The Ancient Magus' Bride OP1"
+"The Ancient Magus' Bride OP1",
+"Zombie Land Saga OP1"
       ]
     },
     {
@@ -385,13 +385,13 @@
         "Movie"
       ],
       "presetValues": [
+"After the Rain",
 "Devilman: Crybaby",
+"Laid-Back Camp",
 "Liz and the Blue Bird",
 "MEGALOBOX",
-"Violet Evergarden",
 "March Comes In Like A Lion",
-"Laid-Back Camp",
-"After the Rain"
+"Violet Evergarden"
       ]
     },
     {
@@ -404,15 +404,15 @@
         "Movie"
       ],
       "presetValues": [
-"That Time I Got Reincarnated as a Slime",
-"JoJo no Kimyou na Bouken: Ougon no Kaze",
-"GeGeGe no Kitaro",
-"Run with the Wind",
-"Hinomaru Sumo",
-"Sword Art Online: Alicization",
-"One Piece",
 "Captain Tsubasa",
-"Le Cirque de Karakuri"
+"GeGeGe no Kitaro",
+"Hinomaru Sumo",
+"JoJo no Kimyou na Bouken: Ougon no Kaze",
+"Le Cirque de Karakuri",
+"One Piece",
+"Run with the Wind",
+"Sword Art Online: Alicization",
+"That Time I Got Reincarnated as a Slime"
       ]
     },
     {
@@ -426,14 +426,14 @@
       ],
       "presetValues": [
 "A Place Further Than The Universe",
-"Goblin Slayer",
-"Planet With",
-"March Comes In Like A Lion",
-"SSSS.Gridman",
-"No Game No Life: Zero",
-"Dragon Pilot: Hisone and Masotan",
 "Devilman: Crybaby",
-"MEGALOBOX"
+"Dragon Pilot: Hisone and Masotan",
+"Goblin Slayer",
+"MEGALOBOX",
+"March Comes In Like A Lion",
+"No Game No Life: Zero",
+"Planet With",
+"SSSS.Gridman"
       ]
     },
     {
@@ -446,15 +446,15 @@
         "Movie"
       ],
       "presetValues": [
-"Kana Hanazawa",
-"Kaede Hondo",
-"Miyuki Sawashiro",
 "Ai Kayano",
+"Asami Seto",
 "Haruka Shiraishi",
-"Tomokazu Sugita",
 "Inori Minase",
-"Yui Ishikawa",
-"Asami Seto"
+"Kaede Hondo",
+"Kana Hanazawa",
+"Miyuki Sawashiro",
+"Tomokazu Sugita",
+"Yui Ishikawa"
       ]
     },
     {
@@ -467,15 +467,15 @@
         "Movie"
       ],
       "presetValues": [
-"Director / 3-gatsu no Lion 2nd Season",
-"Director / Yagate Kimi ni Naru",
 "Character Design / Hisone to Maso-tan",
-"Director / No Game No Life: Zero",
+"Director / 3-gatsu no Lion 2nd Season",
 "Director / Devilman: Crybaby",
-"Series Composition / Sora yori mo Tooi Basho",
 "Director / Goblin Slayer",
+"Director / Liz and the Blue Bird",
+"Director / No Game No Life: Zero",
+"Director / Yagate Kimi ni Naru",
 "Music / Overlord",
-"Director / Liz and the Blue Bird"
+"Series Composition / Sora yori mo Tooi Basho"
       ]
     },
     {
@@ -488,13 +488,13 @@
         "Movie"
       ],
       "presetValues": [
-"Violet Evergarden",
+"After the Rain",
 "Bloom Into You",
 "Liz and the Blue Bird",
-"After the Rain",
-"SSSS.Gridman",
 "March Comes In Like A Lion",
-"The Ancient Magus' Bride"
+"SSSS.Gridman",
+"The Ancient Magus' Bride",
+"Violet Evergarden"
       ]
     },
     {
@@ -507,15 +507,15 @@
         "Movie"
       ],
       "presetValues": [
-"Rascal Does Not Dream of Bunny Girl Senpai",
 "A Place Further Than The Universe",
-"Golden Kamuy",
 "Bloom Into You",
-"Zombie Land Saga",
+"Cells at Work!",
+"Goblin Slayer",
+"Golden Kamuy",
 "Hinamatsuri",
 "March Comes In Like A Lion",
-"Goblin Slayer",
-"Cells at Work!"
+"Rascal Does Not Dream of Bunny Girl Senpai",
+"Zombie Land Saga"
       ]
     },
     {
@@ -528,14 +528,14 @@
         "Movie"
       ],
       "presetValues": [
-"Kokkoku",
-"Attack on Titan",
-"Happy Sugar Life",
 "Angels of Death ",
+"Attack on Titan",
 "B: The Beginning",
-"Mobile Suit Gundam: The Origin",
-"Golden Kamuy",
 "Devilman: Crybaby",
+"Golden Kamuy",
+"Happy Sugar Life",
+"Kokkoku",
+"Mobile Suit Gundam: The Origin",
 "Steins;Gate 0"
       ]
     }
