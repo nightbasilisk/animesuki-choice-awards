@@ -1,41 +1,23 @@
 <!DOCTYPE html>
-<title>AnimeSuki ChoiceAwards Helper</title>
-<script src="lib/react.js"></script>
-<link rel="stylesheet" href="css/bootstrap.min.css"/>
-<link rel="stylesheet" href="css/style.css"/>
+<html>
 
-<div id="app-main" class="container">
-</div>
-	
+<head>
+<title>AnimeSuki ChoiceAwards Helper</title>
+<link rel="stylesheet" href="dist/antd.css"/>
+<link rel="stylesheet" href="main.css"/>
+</head>
+
+<body>
+
+<div id="root"></div>
+
 <noscript>
 	<h1>This site requires javascript to function.</h1>
 	<p class="lead">Please whitelist this site in your javascript blocking extention.</p>
 	<p>If you have javascript disabled globablly please enable it.</p>
 </noscript>
 
-<script>
-	// application configuration
-	window.App = { 
-		input: window.location.href + "contest.json" 
-	};
-</script>
+<script src="dist/bundle.js"></script>
 
-<!-- 3rd party dependencies -->
-<script src="lib/jquery-latest.min.js"></script>
-<script src="lib/jquery.zclip.min.js"></script>
-<script src="lib/underscore.js"></script>
-<script src="lib/Class.js"></script>
-<!-- components, application logic, etc -->
-<script src="build/formatters/List.js"></script>
-<script src="build/formatters/Inline.js"></script>
-<script src="build/ChoiceAwardsCategory.js"></script>
-<script src="build/ChoiceAwardsSeries.js"></script>
-<script src="build/ChoiceAwards.js"></script>
-<script src="build/Votelog.js"></script>
-<script src="build/components/SeriesSelect.js"></script>
-<script src="build/components/PresetSelect.js"></script>
-<script src="build/components/Post.js"></script>
-<script src="build/components/Votes.js"></script>
-<script src="build/components/Vote.js"></script>
-<script src="build/components/BBCode.js"></script>
-<script src="build/main.js"></script>
+</body>
+</html>

@@ -1,26 +1,17 @@
-/** @jsx React.DOM */
-(function () {
+import ReactDOM from 'react-dom';
+import React from 'react';
+import { ChoiceAwards } from './ChoiceAwards';
+const el = el => document.querySelector(el);
 
-	var domMain = document.getElementById('app-main');
+(async () => {
 
-	domMain.innerHtml = 'Loading, please wait...';
+    const contestRes = await fetch('contest.json');
+    const contest = await contestRes.json();
 
-	jQuery.ajax({ dataType: "json", url: App.input })
-		.done(function (conf) {
-			var choice_awards = new ChoiceAwards(conf);
-			var votelog = new Votelog(choice_awards);
-			domMain.innerHtml = '';
-			React.renderComponent(
-				<div>
-					<h1>AnimeSuki ChoiceAwards Helper</h1>
-					<Post context={choice_awards} votes={votelog}/>
-				</div>,
-				domMain
-			);
-		})
-		.fail(function (error) {
-			domMain.innerHtml = 'Loading, please wait... <b>failed to load</b>';
-			console.log('Failed to GET json data. Error code:', error.status)
-		});
-
-}());
+    // console.log('contest', contest);
+    
+    ReactDOM.render (
+        <ChoiceAwards contest={contest}/>, 
+        el('#root')
+    );
+})();

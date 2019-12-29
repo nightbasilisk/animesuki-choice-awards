@@ -1,8 +1,12 @@
 {
+  "year": 2019,
+  "phase": "main",
   "rules": {
     "limited-series-genres": 2,
     "tally-weights": [
-      2,
+      1,
+      1,
+      1,
       1,
       1
     ]
@@ -10,221 +14,50 @@
   "categories": [
     {
       "code": "A1",
-      "name": "Best Storyline & Plot",
+      "name": "Best Storyline",
       "type": "series",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
       "code": "A2",
-      "name": "Best Visuals & Animation",
+      "name": "Best Visuals",
       "type": "series",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
-      "code": "B1",
-      "name": "Best Action-Adventure",
+      "code": "A3",
+      "name": "Best Action",
       "type": "series",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
-      "code": "B2",
-      "name": "Best Fantasy & Supernatural",
+      "code": "A4",
+      "name": "Best Sound Direction",
       "type": "series",
       "allowedTypes": [
         "TV",
         "OVA",
         "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
-      "code": "B3",
-      "name": "Best Science Fiction",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "B4",
-      "name": "Best Drama",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "B5",
-      "name": "Best Romance",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "B6",
-      "name": "Best Comedy",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "B7",
-      "name": "Best Slice of Life",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "B8",
-      "name": "Best Sports Series",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "C1",
-      "name": "Best TV Series",
-      "type": "series",
-      "allowedTypes": [
-        "TV"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "C2",
-      "name": "Best OVA",
-      "type": "series",
-      "allowedTypes": [
-        "OVA"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "C3",
-      "name": "Best Movie",
-      "type": "series",
-      "allowedTypes": [
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "D1",
-      "name": "Best Female Lead",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "D2",
-      "name": "Best Male Lead",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "D3",
-      "name": "Best Antagonist",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "D4",
-      "name": "Best Side-Character",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": [
-
-      ]
-    },
-    {
-      "code": "D5",
+      "code": "A5",
       "name": "Best World Setting",
       "type": "series",
       "allowedTypes": [
@@ -232,1155 +65,2593 @@
         "OVA",
         "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
-      "code": "D6",
+      "code": "B1",
+      "name": "Best Fantasy & Supernatural",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "B2",
+      "name": "Best Science Fiction",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "B3",
+      "name": "Best Sports Series",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "C1",
+      "name": "Best Romance",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "C2",
+      "name": "Best Comedy",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "C3",
+      "name": "Best Drama",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "C4",
+      "name": "Best Slice of Life",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "C5",
+      "name": "Best Relaxing & Carefree",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "D1",
+      "name": "Best TV Series",
+      "type": "series",
+      "allowedTypes": [
+        "TV"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "D2",
+      "name": "Best OVA",
+      "type": "series",
+      "allowedTypes": [
+        "OVA"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "D3",
+      "name": "Best Movie",
+      "type": "series",
+      "allowedTypes": [
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "E1",
+      "name": "Best Female Lead",
+      "type": "character",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "E2",
+      "name": "Best Male Lead",
+      "type": "character",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "E3",
+      "name": "Best Antagonist",
+      "type": "character",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "E4",
+      "name": "Best Side-Character",
+      "type": "character",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "E5",
+      "name": "Best Female VA",
+      "type": "freeform",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "E6",
+      "name": "Best Male VA",
+      "type": "freeform",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "X1",
+      "name": "Best Ongoing Series",
+      "type": "freeform",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "X2",
       "name": "Best Credits Theme",
       "type": "credits-song",
       "allowedTypes": [
         "TV",
         "OVA",
-        "Movie",
-        "Ongoing"
+        "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
-      "code": "D7",
-      "name": "Best Soundtrack",
+      "code": "X3",
+      "name": "Best Adventure Series",
       "type": "series",
       "allowedTypes": [
         "TV",
         "OVA",
-        "Movie",
-        "Ongoing"
+        "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
     },
     {
-      "code": "D8",
-      "name": "Best Ongoing Series",
-      "type": "freeform",
+      "code": "X4",
+      "name": "Best Character Design",
+      "type": "series",
       "allowedTypes": [
-        "Ongoing"
+        "TV",
+        "OVA",
+        "Movie"
       ],
-      "presetValues": [
-
-      ]
+      "presetValues": []
+    },
+    {
+      "code": "X5",
+      "name": "Best Surprise",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
+    },
+    {
+      "code": "X6",
+      "name": "Guilty Pleasure",
+      "type": "series",
+      "allowedTypes": [
+        "TV",
+        "OVA",
+        "Movie"
+      ],
+      "presetValues": []
     }
   ],
   "series": [
     {
-      "id": "35248",
-      "title": "18if",
+      "id": 37956,
+      "title": "3D Kanojo: Real Girl 2nd Season",
+      "alias": [
+        "3D Kanojo: Real Girl 2nd Season",
+        "3D彼女 リアルガール第2シーズン",
+        "3D Girlfriend 2nd Season"
+      ],
+      "rating": 454,
       "type": "TV"
     },
     {
-      "id": "31646",
-      "title": "3-gatsu no Lion",
+      "id": 38735,
+      "title": "7 Seeds",
+      "alias": [
+        "7 Seeds",
+        "7 Seeds",
+        "7SEEDS",
+        "Seven Seeds"
+      ],
+      "rating": 75,
       "type": "TV"
     },
     {
-      "id": "33337",
-      "title": "ACCA: 13-ku Kansatsu-ka",
+      "id": 36432,
+      "title": "A Certain Magical Index III",
+      "alias": [
+        "Toaru Majutsu no Index III",
+        "A Certain Magical Index III",
+        "とある魔術の禁書目録Ⅲ",
+        "Toaru Majutsu no Index 3",
+        "Toaru Majutsu no Kinsho Mokuroku 3"
+      ],
+      "rating": 531,
       "type": "TV"
     },
     {
-      "id": "34800",
-      "title": "Action Heroine Cheer Fruits",
+      "id": 38480,
+      "title": "A Certain Scientific Accelerator",
+      "alias": [
+        "Toaru Kagaku no Accelerator",
+        "A Certain Scientific Accelerator",
+        "とある科学の一方通行〈アクセラレータ〉",
+        "To Aru Majutsu no Index Gaiden",
+        "Toaru Kagaku no Ippou Tsuukou"
+      ],
+      "rating": 396,
       "type": "TV"
     },
     {
-      "id": "34881",
-      "title": "Aho Girl",
-      "type": "TV"
-    },
-    {
-      "id": "34051",
-      "title": "Akiba's Trip The Animation",
-      "type": "TV"
-    },
-    {
-      "id": "34350",
-      "title": "Alice to Zouroku",
-      "type": "TV"
-    },
-    {
-      "id": "31588",
-      "title": "All Out!!",
-      "type": "TV"
-    },
-    {
-      "id": "35015",
-      "title": "Ani ni Tsukeru Kusuri wa Nai!",
-      "type": "TV"
-    },
-    {
-      "id": "35427",
-      "title": "Animegataris",
-      "type": "TV"
-    },
-    {
-      "id": "33820",
-      "title": "Ao Oni The Animation (Movie)",
+      "id": 38017,
+      "title": "ANNA (kidnapper)",
+      "alias": [
+        "Yuukai Anna",
+        "ANNA (kidnapper)",
+        "誘拐アンナ",
+        "ANNA Voleuse"
+      ],
+      "rating": 0,
       "type": "Movie"
     },
     {
-      "id": "33506",
-      "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+      "id": 37490,
+      "title": "Ace Attorney Season 2",
+      "alias": [
+        "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+        "Ace Attorney Season 2",
+        "逆転裁判 ～その「真実」、異議あり！～ Season 2",
+        "Phoenix Wright: Ace Attorney Season 2"
+      ],
+      "rating": 59,
       "type": "TV"
     },
     {
-      "id": "33564",
-      "title": "Armed Blue Gunvolt",
+      "id": 38670,
+      "title": "Actors: Songs Connection",
+      "alias": [
+        "Actors: Songs Connection",
+        "ACTORS -Songs Connection-"
+      ],
+      "rating": 34,
+      "type": "TV"
+    },
+    {
+      "id": 39590,
+      "title": "Africa Salaryman",
+      "alias": [
+        "Africa no Salaryman (TV)",
+        "Africa Salaryman",
+        "アフリカのサラリーマン (TV)",
+        "Businessman in Africa (TV)",
+        "African Office Worker (TV)",
+        "Africa no Salaryman (TV)",
+        "Africa no Salaryman"
+      ],
+      "rating": 11,
+      "type": "TV"
+    },
+    {
+      "id": 37952,
+      "title": "Afterlost",
+      "alias": [
+        "Shoumetsu Toshi",
+        "Afterlost",
+        "消滅都市"
+      ],
+      "rating": 52,
+      "type": "TV"
+    },
+    {
+      "id": 37985,
+      "title": "Aggressive Retsuko 2nd Season",
+      "alias": [
+        "Aggressive Retsuko (ONA) 2nd Season",
+        "アグレッシブ烈子第2期",
+        "Aggretsuko 2nd Season",
+        "Aggressive Retsuko (ONA) 2nd Season",
+        "Aggressive Retsuko 2nd Season"
+      ],
+      "rating": 78,
       "type": "OVA"
     },
     {
-      "id": "33371",
-      "title": "Atom: The Beginning",
+      "id": 37403,
+      "title": "Ahiru no Sora",
+      "alias": [
+        "Ahiru no Sora",
+        "あひるの空"
+      ],
+      "rating": 222,
       "type": "TV"
     },
     {
-      "id": "34669",
-      "title": "Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao Di Er Ji",
+      "id": 37204,
+      "title": "Aikatsu Friends!",
+      "alias": [
+        "Aikatsu Friends!",
+        "アイカツフレンズ！"
+      ],
+      "rating": 59,
       "type": "TV"
     },
     {
-      "id": "34636",
-      "title": "Ballroom e Youkoso",
-      "type": "TV"
-    },
-    {
-      "id": "33573",
-      "title": "BanG Dream!",
-      "type": "TV"
-    },
-    {
-      "id": "33184",
-      "title": "Battle Girl High School",
-      "type": "TV"
-    },
-    {
-      "id": "32670",
-      "title": "Battle Spirits: Double Drive",
-      "type": "TV"
-    },
-    {
-      "id": "34055",
-      "title": "Berserk 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "31049",
-      "title": "Beyblade Burst",
-      "type": "TV"
-    },
-    {
-      "id": "35182",
-      "title": "Binan Koukou Chikyuu Bouei-bu LOVE! LOVE! LOVE!",
+      "id": 38226,
+      "title": "Amazing Stranger",
+      "alias": [
+        "Choukadou Girl ⅙",
+        "Amazing Stranger",
+        "超可動ガール1/6",
+        "Chou Kadou Girl 1/6"
+      ],
+      "rating": 17,
       "type": "OVA"
     },
     {
-      "id": "34618",
-      "title": "Blend S",
-      "type": "TV"
-    },
-    {
-      "id": "33486",
-      "title": "Boku no Hero Academia 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "35712",
-      "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
-      "type": "TV"
-    },
-    {
-      "id": "33475",
-      "title": "Busou Shoujo Machiavellianism",
-      "type": "TV"
-    },
-    {
-      "id": "35320",
-      "title": "Cardcaptor Sakura: Clear Card-hen Prologue - Sakura to Futatsu no Kuma",
+      "id": 38778,
+      "title": "Ao-chan Can't Study!",
+      "alias": [
+        "Midara na Ao-chan wa Benkyou ga Dekinai",
+        "Ao-chan Can't Study!",
+        "淫らな青ちゃんは勉強ができない"
+      ],
+      "rating": 287,
       "type": "OVA"
     },
     {
-      "id": "34077",
-      "title": "Cardfight!! Vanguard G: Next",
-      "type": "TV"
-    },
-    {
-      "id": "34525",
-      "title": "Centaur no Nayami",
-      "type": "TV"
-    },
-    {
-      "id": "30485",
-      "title": "Ch oS;Child",
-      "type": "TV"
-    },
-    {
-      "id": "28833",
-      "title": "Chain Chronicle: Haecceitas no Hikari",
-      "type": "TV"
-    },
-    {
-      "id": "35883",
-      "title": "Cinderella Girls Gekijou 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "31157",
-      "title": "ClassicaLoid",
-      "type": "TV"
-    },
-    {
-      "id": "35114",
-      "title": "Clione no Akari",
-      "type": "TV"
-    },
-    {
-      "id": "32407",
-      "title": "Clockwork Planet",
-      "type": "TV"
-    },
-    {
-      "id": "31456",
-      "title": "Code:Realize: Sousei no Himegimi",
-      "type": "TV"
-    },
-    {
-      "id": "33685",
-      "title": "Cyborg 009",
+      "id": 34974,
+      "title": "Aragne: Sign of Vermillion",
+      "alias": [
+        "Aragne no Mushikago",
+        "Aragne: Sign of Vermillion",
+        "アラーニェの虫籠"
+      ],
+      "rating": 1,
       "type": "Movie"
     },
     {
-      "id": "33988",
-      "title": "Demi-chan wa Kataritai",
-      "type": "TV"
-    },
-    {
-      "id": "32271",
-      "title": "Dies Irae",
-      "type": "TV"
-    },
-    {
-      "id": "33314",
-      "title": "Digimon Universe: Appli Monsters",
-      "type": "TV"
-    },
-    {
-      "id": "34543",
-      "title": "Dive!!",
-      "type": "TV"
-    },
-    {
-      "id": "32582",
-      "title": "Duel Masters VSRF",
-      "type": "TV"
-    },
-    {
-      "id": "32887",
-      "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
-      "type": "TV"
-    },
-    {
-      "id": "34771",
-      "title": "Dynamic Chord",
-      "type": "TV"
-    },
-    {
-      "id": "32901",
-      "title": "Eromanga-sensei",
-      "type": "TV"
-    },
-    {
-      "id": "34662",
-      "title": "Fate/Apocrypha",
-      "type": "TV"
-    },
-    {
-      "id": "36618",
-      "title": "Flowering Heart 2",
-      "type": "TV"
-    },
-    {
-      "id": "34223",
-      "title": "Forest Fairy Five",
-      "type": "TV"
-    },
-    {
-      "id": "34427",
-      "title": "Frame Arms Girl",
-      "type": "TV"
-    },
-    {
-      "id": "33203",
-      "title": "Fukumenkei Noise",
-      "type": "TV"
-    },
-    {
-      "id": "13163",
-      "title": "Furusato Saisei: Nihon no Mukashibanashi",
-      "type": "TV"
-    },
-    {
-      "id": "32785",
-      "title": "Future Card Buddyfight DDD",
-      "type": "TV"
-    },
-    {
-      "id": "33743",
-      "title": "Fuuka",
-      "type": "TV"
-    },
-    {
-      "id": "33731",
-      "title": "Gabriel DropOut",
-      "type": "TV"
-    },
-    {
-      "id": "34280",
-      "title": "Gamers!",
-      "type": "TV"
-    },
-    {
-      "id": "34488",
-      "title": "Gan Gan Ganko-chan",
-      "type": "TV"
-    },
-    {
-      "id": "32071",
-      "title": "Gantz:O",
-      "type": "Movie"
-    },
-    {
-      "id": "32936",
-      "title": "Gin no Guardian",
-      "type": "TV"
-    },
-    {
-      "id": "34096",
-      "title": "Gintama.",
-      "type": "TV"
-    },
-    {
-      "id": "31629",
-      "title": "Granblue Fantasy The Animation",
-      "type": "TV"
-    },
-    {
-      "id": "23279",
-      "title": "Gyakusatsu Kikan",
-      "type": "Movie"
-    },
-    {
-      "id": "34403",
-      "title": "Hajimete no Gal",
-      "type": "TV"
-    },
-    {
-      "id": "32981",
-      "title": "Hand Shakers",
-      "type": "TV"
-    },
-    {
-      "id": "33434",
-      "title": "Heybot!",
-      "type": "TV"
-    },
-    {
-      "id": "35376",
-      "title": "Himouto! Umaru-chan R",
-      "type": "TV"
-    },
-    {
-      "id": "34834",
-      "title": "Hina Logi: From Luck & Logic",
-      "type": "TV"
-    },
-    {
-      "id": "33948",
-      "title": "Hinako Note",
-      "type": "TV"
-    },
-    {
-      "id": "33654",
-      "title": "Hitorijime My Hero",
-      "type": "TV"
-    },
-    {
-      "id": "35075",
-      "title": "Hoozuki no Reitetsu 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "35557",
-      "title": "Houseki no Kuni (TV)",
-      "type": "TV"
-    },
-    {
-      "id": "33797",
-      "title": "ID-0",
-      "type": "TV"
-    },
-    {
-      "id": "34028",
-      "title": "Idol Jihen",
-      "type": "TV"
-    },
-    {
-      "id": "33027",
-      "title": "Infini-T Force",
-      "type": "TV"
-    },
-    {
-      "id": "34542",
-      "title": "Inuyashiki",
-      "type": "TV"
-    },
-    {
-      "id": "34012",
-      "title": "Isekai Shokudou",
-      "type": "TV"
-    },
-    {
-      "id": "35203",
-      "title": "Isekai wa Smartphone to Tomo ni.",
-      "type": "TV"
-    },
-    {
-      "id": "36220",
-      "title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
-      "type": "TV"
-    },
-    {
-      "id": "34966",
-      "title": "Jigoku Shoujo: Yoi no Togi",
-      "type": "TV"
-    },
-    {
-      "id": "34565",
-      "title": "Jikan no Shihaisha",
-      "type": "TV"
-    },
-    {
-      "id": "35639",
-      "title": "Just Because!",
-      "type": "TV"
-    },
-    {
-      "id": "35076",
-      "title": "Juuni Taisen",
-      "type": "TV"
-    },
-    {
-      "id": "33840",
-      "title": "Kabuki-bu!",
-      "type": "TV"
-    },
-    {
-      "id": "34725",
-      "title": "Kaito x Ansa",
-      "type": "TV"
-    },
-    {
-      "id": "34933",
-      "title": "Kakegurui",
-      "type": "TV"
-    },
-    {
-      "id": "31418",
-      "title": "KanColle Movie",
-      "type": "Movie"
-    },
-    {
-      "id": "33018",
-      "title": "Katsugeki/Touken Ranbu",
-      "type": "TV"
-    },
-    {
-      "id": "34451",
-      "title": "Kekkai Sensen & Beyond",
-      "type": "TV"
-    },
-    {
-      "id": "33089",
-      "title": "Kemono Friends",
-      "type": "TV"
-    },
-    {
-      "id": "34501",
-      "title": "Kenka Banchou Otome: Girl Beats Boys",
-      "type": "TV"
-    },
-    {
-      "id": "34825",
-      "title": "Keppeki Danshi! Aoyama-kun",
-      "type": "TV"
-    },
-    {
-      "id": "35159",
-      "title": "Kimi no Hikari: Asagao to Kase-san.",
+      "id": 39456,
+      "title": "Are You Lost?",
+      "alias": [
+        "Sounan Desu ka?",
+        "Are You Lost?",
+        "ソウナンですか?"
+      ],
+      "rating": 152,
       "type": "OVA"
     },
     {
-      "id": "32281",
-      "title": "Kimi no Na wa.",
+      "id": 36882,
+      "title": "Arifureta: From Commonplace to World's Strongest",
+      "alias": [
+        "Arifureta Shokugyou de Sekai Saikyou",
+        "Arifureta: From Commonplace to World's Strongest",
+        "ありふれた職業で世界最強",
+        "From Common Job Class to the Strongest in the World"
+      ],
+      "rating": 1955,
+      "type": "TV"
+    },
+    {
+      "id": 39468,
+      "title": "Ascendance of a Bookworm",
+      "alias": [
+        "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "Ascendance of a Bookworm",
+        "本好きの下剋上 ～司書になるためには手段を選んでいられません～"
+      ],
+      "rating": 178,
+      "type": "TV"
+    },
+    {
+      "id": 38464,
+      "title": "Ashita Sekai ga Owaru toshitemo",
+      "alias": [
+        "Ashita Sekai ga Owaru toshitemo",
+        "あした世界が終わるとしても"
+      ],
+      "rating": 37,
       "type": "Movie"
     },
     {
-      "id": "33034",
-      "title": "Kiniro Mosaic: Pretty Days",
+      "id": 38572,
+      "title": "Assassins Pride",
+      "alias": [
+        "Assassins Pride",
+        "アサシンズプライド"
+      ],
+      "rating": 471,
+      "type": "TV"
+    },
+    {
+      "id": 39198,
+      "title": "Astra Lost in Space",
+      "alias": [
+        "Kanata no Astra",
+        "Astra Lost in Space",
+        "彼方のアストラ",
+        "Astra Lost in Space"
+      ],
+      "rating": 1165,
+      "type": "TV"
+    },
+    {
+      "id": 38524,
+      "title": "Attack on Titan Season 3 Part 2",
+      "alias": [
+        "Shingeki no Kyojin Season 3 Part 2",
+        "Attack on Titan Season 3 Part 2",
+        "進撃の巨人 Season3 Part.2"
+      ],
+      "rating": 14481,
+      "type": "TV"
+    },
+    {
+      "id": 38328,
+      "title": "Azur Lane",
+      "alias": [
+        "Azur Lane",
+        "アズールレーン"
+      ],
+      "rating": 506,
+      "type": "TV"
+    },
+    {
+      "id": 36483,
+      "title": "B-Project: Zecchou*Emotion",
+      "alias": [
+        "B-Project: Zecchou*Emotion",
+        "B-PROJECT～絶頂＊エモーション～"
+      ],
+      "rating": 58,
+      "type": "TV"
+    },
+    {
+      "id": 37525,
+      "title": "Babylon",
+      "alias": [
+        "Babylon",
+        "バビロン"
+      ],
+      "rating": 139,
+      "type": "TV"
+    },
+    {
+      "id": 38860,
+      "title": "Bakumatsu: Crisis",
+      "alias": [
+        "Bakumatsu: Crisis",
+        "BAKUMATSU ~恋愛幕末カレシ 外伝~ クライシス",
+        "Renai Bakumatsu Kareshi Gaiden",
+        "Bakumatsu Second Season",
+        "Bakumatsu 2nd Season"
+      ],
+      "rating": 18,
+      "type": "TV"
+    },
+    {
+      "id": 37869,
+      "title": "BanG Dream! 2nd Season",
+      "alias": [
+        "BanG Dream! 2nd Season",
+        "BanG Dream!（バンドリ！）第2期"
+      ],
+      "rating": 286,
+      "type": "TV"
+    },
+    {
+      "id": 39195,
+      "title": "Beastars",
+      "alias": [
+        "Beastars",
+        "BEASTARS"
+      ],
+      "rating": 1019,
+      "type": "TV"
+    },
+    {
+      "id": 39221,
+      "title": "Bem",
+      "alias": [
+        "Bem",
+        "BEM"
+      ],
+      "rating": 54,
+      "type": "TV"
+    },
+    {
+      "id": 38199,
+      "title": "Bermuda Triangle: Colorful Pastrale",
+      "alias": [
+        "Bermuda Triangle: Colorful Pastrale",
+        "バミューダトライアングル ～カラフル・パストラーレ～",
+        "Colorful Pastrale: From Bermuda Triangle",
+        "Bermuda△: Colorful Pastrale"
+      ],
+      "rating": 14,
+      "type": "TV"
+    },
+    {
+      "id": 36896,
+      "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+      "alias": [
+        "Boku no Hero Academia the Movie 1: Futari no Hero",
+        "僕のヒーローアカデミア THE MOVIE ～2人の英雄（ヒーロー）～",
+        "My Hero Academia the Movie: The Two Heroes"
+      ],
+      "rating": 876,
+      "type": "Movie"
+    },
+    {
+      "id": 37451,
+      "title": "Boogiepop wa Warawanai (2019)",
+      "alias": [
+        "Boogiepop wa Warawanai (2019)",
+        "ブギーポップは笑わない",
+        "Boogiepop Never Laughs",
+        "Boogiepop Doesn't Laugh"
+      ],
+      "rating": 452,
+      "type": "TV"
+    },
+    {
+      "id": 38003,
+      "title": "Bungou Stray Dogs 3rd Season",
+      "alias": [
+        "Bungou Stray Dogs 3rd Season",
+        "文豪ストレイドッグス 第3期",
+        "Bungo Stray Dogs 3"
+      ],
+      "rating": 1369,
+      "type": "TV"
+    },
+    {
+      "id": 39523,
+      "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+      "alias": [
+        "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+        "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+        "超人高校生たちは異世界でも余裕で生き抜くようです！",
+        "Super Human High Schoolers Are in Another World",
+        "But Seem to be Living in Comfort!"
+      ],
+      "rating": 195,
+      "type": "TV"
+    },
+    {
+      "id": 40256,
+      "title": "Cannon Busters",
+      "alias": [
+        "Cannon Busters",
+        "Cannon Busters",
+        "Cannon Busters"
+      ],
+      "rating": 30,
+      "type": "TV"
+    },
+    {
+      "id": 36934,
+      "title": "Captain Tsubasa (2018)",
+      "alias": [
+        "Captain Tsubasa (2018)",
+        "キャプテン翼"
+      ],
+      "rating": 215,
+      "type": "TV"
+    },
+    {
+      "id": 37476,
+      "title": "Cardfight!! Vanguard (2018)",
+      "alias": [
+        "Cardfight!! Vanguard (2018)",
+        "カードファイト!! ヴァンガード (2018)"
+      ],
+      "rating": 35,
+      "type": "TV"
+    },
+    {
+      "id": 37435,
+      "title": "Carole & Tuesday",
+      "alias": [
+        "Carole & Tuesday",
+        "キャロル&チューズデイ"
+      ],
+      "rating": 1166,
+      "type": "TV"
+    },
+    {
+      "id": 38161,
+      "title": "Case File nº221: Kabukicho",
+      "alias": [
+        "Kabukichou Sherlock",
+        "Case File nº221: Kabukicho",
+        "歌舞伎町シャーロック"
+      ],
+      "rating": 69,
+      "type": "TV"
+    },
+    {
+      "id": 38659,
+      "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+      "alias": [
+        "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+        "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+        "慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~",
+        "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
+      ],
+      "rating": 493,
+      "type": "TV"
+    },
+    {
+      "id": 38529,
+      "title": "Chidori RSC",
+      "alias": [
+        "Rifle Is Beautiful",
+        "Chidori RSC",
+        "ライフル・イズ・ビューティフル"
+      ],
+      "rating": 17,
+      "type": "TV"
+    },
+    {
+      "id": 37379,
+      "title": "Chihayafuru 3",
+      "alias": [
+        "Chihayafuru 3",
+        "ちはやふる 3",
+        "Chihayafull 3"
+      ],
+      "rating": 305,
+      "type": "TV"
+    },
+    {
+      "id": 39638,
+      "title": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+      "alias": [
+        "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+        "超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷのなつやすみ~"
+      ],
+      "rating": 18,
       "type": "OVA"
     },
     {
-      "id": "35079",
-      "title": "Kino no Tabi: The Beautiful World - The Animated Series",
+      "id": 38157,
+      "title": "Circlet Princess",
+      "alias": [
+        "Circlet Princess",
+        "CIRCLET PRINCESS（サークレット・プリンセス）"
+      ],
+      "rating": 20,
       "type": "TV"
     },
     {
-      "id": "33191",
-      "title": "Kishibe Rohan wa Ugokanai: Fugou Mura",
+      "id": 38940,
+      "title": "Cop Craft",
+      "alias": [
+        "Cop Craft",
+        "COP CRAFT [コップクラフト]"
+      ],
+      "rating": 138,
+      "type": "TV"
+    },
+    {
+      "id": 36633,
+      "title": "Date A Live III",
+      "alias": [
+        "Date A Live III",
+        "デート・ア・ライブⅢ",
+        "Date A Live 3",
+        "Date A Live 3rd Season",
+        "DAL 3"
+      ],
+      "rating": 1106,
+      "type": "TV"
+    },
+    {
+      "id": 38297,
+      "title": "Demon Lord, Retry!",
+      "alias": [
+        "Maou-sama, Retry!",
+        "Demon Lord, Retry!",
+        "魔王様、リトライ！"
+      ],
+      "rating": 305,
+      "type": "TV"
+    },
+    {
+      "id": 38000,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "alias": [
+        "Kimetsu no Yaiba",
+        "Demon Slayer: Kimetsu no Yaiba",
+        "鬼滅の刃",
+        "Blade of Demon Destruction"
+      ],
+      "rating": 21523,
+      "type": "TV"
+    },
+    {
+      "id": 38731,
+      "title": "Diamond no Ace: Act II",
+      "alias": [
+        "Diamond no Ace: Act II",
+        "ダイヤのA[エース] actII",
+        "Ace of Diamond Act II",
+        "Daiya no Ace: Act II"
+      ],
+      "rating": 274,
+      "type": "TV"
+    },
+    {
+      "id": 37393,
+      "title": "Didn't I Say to Make My Abilities Average in the Next Life?!",
+      "alias": [
+        "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+        "Didn't I Say to Make My Abilities Average in the Next Life?!",
+        "私、能力は平均値でって言ったよね!",
+        "Noukin"
+      ],
+      "rating": 124,
+      "type": "TV"
+    },
+    {
+      "id": 38449,
+      "title": "Dimension High School",
+      "alias": [
+        "Dimension High School",
+        "Dimensionハイスクール"
+      ],
+      "rating": 14,
       "type": "OVA"
     },
     {
-      "id": "9260",
-      "title": "Kizumonogatari",
+      "id": 37982,
+      "title": "Domestic Girlfriend",
+      "alias": [
+        "Domestic na Kanojo",
+        "Domestic Girlfriend",
+        "ドメスティックな彼女",
+        "Dome x Kano",
+        "Domekano"
+      ],
+      "rating": 1932,
+      "type": "TV"
+    },
+    {
+      "id": 35086,
+      "title": "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai",
+      "alias": [
+        "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai",
+        "曇天に笑う＜外伝＞ ～決別、犲の誓い～",
+        "Cloudy Laugh Gaiden",
+        "Laughing Under the Clouds Gaiden"
+      ],
+      "rating": 18,
       "type": "Movie"
     },
     {
-      "id": "34104",
-      "title": "Knight's & Magic",
+      "id": 37520,
+      "title": "Dororo",
+      "alias": [
+        "Dororo",
+        "Dororo",
+        "どろろ",
+        "Dororo to Hyakkimaru"
+      ],
+      "rating": 5428,
       "type": "TV"
     },
     {
-      "id": "33206",
-      "title": "Kobayashi-san Chi no Maid Dragon",
+      "id": 38691,
+      "title": "Dr. Stone",
+      "alias": [
+        "Dr. Stone",
+        "ドクターストーン"
+      ],
+      "rating": 6151,
       "type": "TV"
     },
     {
-      "id": "28851",
-      "title": "Koe no Katachi",
+      "id": 36946,
+      "title": "Dragon Ball Super: Broly",
+      "alias": [
+        "Dragon Ball Super Movie: Broly",
+        "Dragon Ball Super: Broly",
+        "ドラゴンボール超（スーパー） ブロリー"
+      ],
+      "rating": 930,
       "type": "Movie"
     },
     {
-      "id": "34934",
-      "title": "Koi to Uso",
+      "id": 38544,
+      "title": "Egao no Daika",
+      "alias": [
+        "Egao no Daika",
+        "エガオノダイカ",
+        "The Cost of Smiles",
+        "The Price of Smiles"
+      ],
+      "rating": 35,
       "type": "TV"
     },
     {
-      "id": "35434",
-      "title": "Konbini Kareshi",
+      "id": 38062,
+      "title": "Endro~!",
+      "alias": [
+        "Endro~!",
+        "えんどろ～！",
+        "Endoro~!"
+      ],
+      "rating": 104,
       "type": "TV"
     },
     {
-      "id": "33240",
-      "title": "Koneko no Chii: Ponponra Daibouken",
+      "id": 32212,
+      "title": "Ensemble Stars!",
+      "alias": [
+        "Ensemble Stars!",
+        "あんさんぶるスターズ！"
+      ],
+      "rating": 259,
       "type": "TV"
     },
     {
-      "id": "15227",
-      "title": "Kono Sekai no Katasumi ni",
-      "type": "Movie"
-    },
-    {
-      "id": "32937",
-      "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
-      "type": "TV"
-    },
-    {
-      "id": "35241",
-      "title": "Konohana Kitan",
-      "type": "TV"
-    },
-    {
-      "id": "33263",
-      "title": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+      "id": 36792,
+      "title": "Eromanga-sensei OVA",
+      "alias": [
+        "Eromanga-sensei OVA",
+        "エロマンガ先生 OVA",
+        "Ero Manga Sensei: Imouto to Akazu no Ma OVA"
+      ],
+      "rating": 175,
       "type": "OVA"
     },
     {
-      "id": "34712",
-      "title": "Kujira no Kora wa Sajou ni Utau",
-      "type": "TV"
-    },
-    {
-      "id": "31658",
-      "title": "Kuroko no Basket: Last Game",
-      "type": "Movie"
-    },
-    {
-      "id": "31812",
-      "title": "Kuroshitsuji Movie: Book of the Atlantic",
-      "type": "Movie"
-    },
-    {
-      "id": "32949",
-      "title": "Kuzu no Honkai",
-      "type": "TV"
-    },
-    {
-      "id": "34106",
-      "title": "Kyoukai no Rinne (TV) 3rd Season",
-      "type": "TV"
-    },
-    {
-      "id": "34151",
-      "title": "Landreaall",
+      "id": 38664,
+      "title": "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+      "alias": [
+        "Final Fantasy XV: Episode Ardyn - Prologue",
+        "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+        "FINAL FANTASY XV EPISODE ARDYN - PROLOGUE"
+      ],
+      "rating": 2,
       "type": "OVA"
     },
     {
-      "id": "33489",
-      "title": "Little Witch Academia (TV)",
-      "type": "TV"
-    },
-    {
-      "id": "30652",
-      "title": "Long Riders!",
-      "type": "TV"
-    },
-    {
-      "id": "36083",
-      "title": "Lostorage Conflated WIXOSS: Missing Link",
+      "id": 35842,
+      "title": "FLCL Alternative",
+      "alias": [
+        "FLCL Alternative",
+        "フリクリ オルタナ",
+        "FLCL 3",
+        "Fooly Cooly Alternative",
+        "Furi Kuri Alternative"
+      ],
+      "rating": 88,
       "type": "OVA"
     },
     {
-      "id": "34402",
-      "title": "Love Kome",
+      "id": 39063,
+      "title": "Fairy Gone",
+      "alias": [
+        "Fairy Gone",
+        "Fairy gone フェアリーゴーン"
+      ],
+      "rating": 187,
       "type": "TV"
     },
     {
-      "id": "34973",
-      "title": "Love Live! Sunshine!! 2nd Season",
+      "id": 35972,
+      "title": "Fairy Tail Final Series",
+      "alias": [
+        "Fairy Tail: Final Series",
+        "Fairy Tail Final Series",
+        "FAIRY TAIL ファイナルシリーズ",
+        "Fairy Tail Season 3",
+        "Fairy Tail (2018)"
+      ],
+      "rating": 3333,
       "type": "TV"
     },
     {
-      "id": "34021",
-      "title": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
+      "id": 38897,
+      "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+      "alias": [
+        "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+        "プリズマ☆ファンタズム"
+      ],
+      "rating": 13,
       "type": "OVA"
     },
     {
-      "id": "34599",
-      "title": "Made in Abyss",
+      "id": 38671,
+      "title": "Fire Force",
+      "alias": [
+        "Enen no Shouboutai",
+        "Fire Force",
+        "炎炎ノ消防隊",
+        "Fire Brigade of Flames"
+      ],
+      "rating": 1754,
       "type": "TV"
     },
     {
-      "id": "34745",
-      "title": "Mahoujin Guruguru (2017)",
+      "id": 39940,
+      "title": "Food Wars! The Fourth Plate",
+      "alias": [
+        "Shokugeki no Souma: Shin no Sara",
+        "Food Wars! The Fourth Plate",
+        "食戟のソーマ 神ノ皿",
+        "Shokugeki no Soma 4th Season"
+      ],
+      "rating": 835,
       "type": "TV"
     },
     {
-      "id": "31884",
-      "title": "Mahoutsukai Precure!",
+      "id": 38680,
+      "title": "Fruits Basket 1st Season",
+      "alias": [
+        "Fruits Basket 1st Season",
+        "フルーツバスケット 1st season",
+        "Fruits Basket (2019)",
+        "Furuba",
+        "Fruits Basket (Zenpen)"
+      ],
+      "rating": 2395,
       "type": "TV"
     },
     {
-      "id": "33788",
-      "title": "Marginal#4: Kiss kara Tsukuru Big Bang",
+      "id": 36587,
+      "title": "GRANBLUE FANTASY The Animation Season2",
+      "alias": [
+        "Granblue Fantasy The Animation Season 2",
+        "GRANBLUE FANTASY The Animation Season2",
+        "グランブルーファンタジー The Animation Season2"
+      ],
+      "rating": 66,
       "type": "TV"
     },
     {
-      "id": "33487",
-      "title": "Masamune-kun no Revenge",
+      "id": 37998,
+      "title": "Girly Air Force",
+      "alias": [
+        "Girly Air Force",
+        "ガーリー・エアフォース"
+      ],
+      "rating": 112,
       "type": "TV"
     },
     {
-      "id": "31422",
-      "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
+      "id": 39533,
+      "title": "Given",
+      "alias": [
+        "Given",
+        "ギヴン"
+      ],
+      "rating": 1954,
       "type": "TV"
     },
     {
-      "id": "33051",
-      "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "33724",
-      "title": "Monster Strike The Movie: Hajimari no Basho e",
+      "id": 33783,
+      "title": "Godzilla: Planet of the Monsters",
+      "alias": [
+        "Godzilla 1: Kaijuu Wakusei",
+        "Godzilla: Planet of the Monsters",
+        "GODZILLA -怪獣惑星-",
+        "Godzilla"
+      ],
+      "rating": 60,
       "type": "Movie"
     },
     {
-      "id": "34580",
-      "title": "Nana Maru San Batsu",
+      "id": 39417,
+      "title": "Granbelm",
+      "alias": [
+        "Granbelm",
+        "グランベルム"
+      ],
+      "rating": 116,
       "type": "TV"
     },
     {
-      "id": "34591",
-      "title": "Natsume Yuujinchou Roku",
+      "id": 37154,
+      "title": "Grimms Notes The Animation",
+      "alias": [
+        "Grimms Notes The Animation",
+        "グリムノーツ"
+      ],
+      "rating": 55,
       "type": "TV"
     },
     {
-      "id": "34658",
-      "title": "Nekopara",
+      "id": 37806,
+      "title": "Gunjou no Magmell",
+      "alias": [
+        "Gunjou no Magmell",
+        "群青のマグメル",
+        "Magmel of the Sea Blue",
+        "Gunjou no Magmel",
+        "Ultramarine Magmell"
+      ],
+      "rating": 131,
+      "type": "TV"
+    },
+    {
+      "id": 38091,
+      "title": "Hachigatsu no Cinderella Nine",
+      "alias": [
+        "Hachigatsu no Cinderella Nine (TV)",
+        "八月のシンデレラナイン (TV)",
+        "Hachigatsu no Cinderella Nine (TV)",
+        "Hachigatsu no Cinderella Nine"
+      ],
+      "rating": 35,
+      "type": "TV"
+    },
+    {
+      "id": 33378,
+      "title": "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
+      "alias": [
+        "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
+        "劇場版 はいからさんが通る 前編 ～紅緒、花の17歳～",
+        "Gekijouban Haikara-san ga Tooru Zenpen",
+        "Smart-san",
+        "Mademoiselle Anne",
+        "There Goes the Modern Girl",
+        "Here Comes Miss Modern",
+        "Here Comes a Dandy"
+      ],
+      "rating": 29,
+      "type": "Movie"
+    },
+    {
+      "id": 39326,
+      "title": "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
+      "alias": [
+        "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
+        "Hensuki: Are you willing to fall in love with a pervert, as long as she's a cutie?",
+        "可愛ければ変態でも好きになってくれますか？",
+        "Would you love a pervert as long as she's cute?"
+      ],
+      "rating": 389,
+      "type": "TV"
+    },
+    {
+      "id": 40154,
+      "title": "Hero Mask (2019)",
+      "alias": [
+        "Hero Mask (2019)",
+        "ヒーローマスク パート",
+        "Hero Mask Part II"
+      ],
+      "rating": 2,
       "type": "OVA"
     },
     {
-      "id": "36038",
-      "title": "Net-juu no Susume",
-      "type": "TV"
-    },
-    {
-      "id": "34383",
-      "title": "Netsuzou TRap",
-      "type": "TV"
-    },
-    {
-      "id": "34914",
-      "title": "New Game!!",
-      "type": "TV"
-    },
-    {
-      "id": "32829",
-      "title": "Nobunaga no Shinobi",
-      "type": "TV"
-    },
-    {
-      "id": "32447",
-      "title": "Nora to Oujo to Noraneko Heart",
-      "type": "TV"
-    },
-    {
-      "id": "34148",
-      "title": "Nyanko Days",
-      "type": "TV"
-    },
-    {
-      "id": "34392",
-      "title": "One Room",
-      "type": "TV"
-    },
-    {
-      "id": "33983",
-      "title": "Onihei",
-      "type": "TV"
-    },
-    {
-      "id": "35484",
-      "title": "Osake wa Fuufu ni Natte kara",
-      "type": "TV"
-    },
-    {
-      "id": "36027",
-      "title": "Ousama Game The Animation",
-      "type": "TV"
-    },
-    {
-      "id": "34262",
-      "title": "Oushitsu Kyoushi Heine",
-      "type": "TV"
-    },
-    {
-      "id": "35247",
-      "title": "Owarimonogatari 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "33447",
-      "title": "Piace: Watashi no Italian",
-      "type": "TV"
-    },
-    {
-      "id": "34852",
-      "title": "Pikaia!!",
-      "type": "TV"
-    },
-    {
-      "id": "34540",
-      "title": "Pokemon: Kimi ni Kimeta!",
-      "type": "Movie"
-    },
-    {
-      "id": "23135",
-      "title": "PriPara",
-      "type": "TV"
-    },
-    {
-      "id": "35240",
-      "title": "Princess Principal",
-      "type": "TV"
-    },
-    {
-      "id": "34561",
-      "title": "Re:Creators",
-      "type": "TV"
-    },
-    {
-      "id": "33019",
-      "title": "Reikenzan: Eichi e no Shikaku",
-      "type": "TV"
-    },
-    {
-      "id": "32262",
-      "title": "Renai Boukun",
-      "type": "TV"
-    },
-    {
-      "id": "34126",
-      "title": "Rewrite 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "34754",
-      "title": "Rilu Rilu Fairilu: Yousei no Door",
-      "type": "TV"
-    },
-    {
-      "id": "34903",
-      "title": "RoboMasters the Animated Series",
-      "type": "TV"
-    },
-    {
-      "id": "32951",
-      "title": "Rokudenashi Majutsu Koushi to Akashic Records",
-      "type": "TV"
-    },
-    {
-      "id": "31373",
-      "title": "Rudolf to Ippaiattena",
-      "type": "Movie"
-    },
-    {
-      "id": "30727",
-      "title": "Saenai Heroine no Sodatekata ♭",
-      "type": "TV"
-    },
-    {
-      "id": "33726",
-      "title": "Saiyuuki Reload Blast",
-      "type": "TV"
-    },
-    {
-      "id": "34494",
-      "title": "Sakura Quest",
-      "type": "TV"
-    },
-    {
-      "id": "34102",
-      "title": "Sakurada Reset",
-      "type": "TV"
-    },
-    {
-      "id": "34289",
-      "title": "Schoolgirl Strikers: Animation Channel",
-      "type": "TV"
-    },
-    {
-      "id": "32032",
-      "title": "Seikaisuru Kado",
-      "type": "TV"
-    },
-    {
-      "id": "33836",
-      "title": "Seiren",
-      "type": "TV"
-    },
-    {
-      "id": "35251",
-      "title": "Sengoku Night Blood",
-      "type": "TV"
-    },
-    {
-      "id": "32836",
-      "title": "Senki Zesshou Symphogear AXZ",
-      "type": "TV"
-    },
-    {
-      "id": "30736",
-      "title": "Shingeki no Bahamut: Virgin Soul",
-      "type": "TV"
-    },
-    {
-      "id": "25777",
-      "title": "Shingeki no Kyojin Season 2",
-      "type": "TV"
-    },
-    {
-      "id": "36107",
-      "title": "Shirotan: Shirotan ga Ippai!",
-      "type": "TV"
-    },
-    {
-      "id": "35838",
-      "title": "Shoujo Shuumatsu Ryokou",
-      "type": "TV"
-    },
-    {
-      "id": "34547",
-      "title": "Shoukoku no Altair",
-      "type": "TV"
-    },
-    {
-      "id": "33095",
-      "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
-      "type": "TV"
-    },
-    {
-      "id": "33502",
-      "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
-      "type": "TV"
-    },
-    {
-      "id": "33834",
-      "title": "Sin: Nanatsu no Taizai",
-      "type": "TV"
-    },
-    {
-      "id": "35629",
-      "title": "Skirt no Naka wa Kedamono Deshita.",
-      "type": "TV"
-    },
-    {
-      "id": "34823",
-      "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-      "type": "TV"
-    },
-    {
-      "id": "32105",
-      "title": "Sousei no Onmyouji",
-      "type": "TV"
-    },
-    {
-      "id": "33362",
-      "title": "Starmyu 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "33286",
-      "title": "Strike the Blood II",
+      "id": 39570,
+      "title": "High Score Girl II",
+      "alias": [
+        "High Score Girl II",
+        "ハイスコアガール II",
+        "High Score Girl 2"
+      ],
+      "rating": 160,
       "type": "OVA"
     },
     {
-      "id": "33036",
-      "title": "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai",
-      "type": "Movie"
-    },
-    {
-      "id": "33417",
-      "title": "Super Lovers 2",
-      "type": "TV"
-    },
-    {
-      "id": "31765",
-      "title": "Sword Art Online Movie: Ordinal Scale",
-      "type": "Movie"
-    },
-    {
-      "id": "34411",
-      "title": "Taishou Mebiusline: Chicchai-san",
-      "type": "TV"
-    },
-    {
-      "id": "34086",
-      "title": "Tales of Zestiria the X 2nd Season",
-      "type": "TV"
-    },
-    {
-      "id": "35370",
-      "title": "Teekyuu 9",
-      "type": "TV"
-    },
-    {
-      "id": "31861",
-      "title": "Tenchi Muyou! Ryououki 4th Season",
+      "id": 38422,
+      "title": "High Score Girl: Extra Stage",
+      "alias": [
+        "High Score Girl: Extra Stage",
+        "ハイスコアガール EXTRA STAGE",
+        "High Score Girl OVA"
+      ],
+      "rating": 93,
       "type": "OVA"
     },
     {
-      "id": "34177",
-      "title": "Tenshi no 3P!",
+      "id": 37007,
+      "title": "Hinomaru Sumo",
+      "alias": [
+        "Hinomaruzumou",
+        "Hinomaru Sumo",
+        "火ノ丸相撲",
+        "Sumo of the Rising Sun",
+        "Sumo Wrestler Hinomaru"
+      ],
+      "rating": 206,
       "type": "TV"
     },
     {
-      "id": "35204",
-      "title": "The King of Fighters: Destiny",
+      "id": 37614,
+      "title": "Hitoribocchi no Marumaru Seikatsu",
+      "alias": [
+        "Hitoribocchi no Marumaru Seikatsu",
+        "ひとりぼっちの○○生活",
+        "Hitoribocchi no ○○ Seikatsu",
+        "Hitori Bocchi's ○○ Lifestyle"
+      ],
+      "rating": 588,
       "type": "TV"
     },
     {
-      "id": "34449",
-      "title": "The Reflection",
+      "id": 38276,
+      "title": "Houkago Saikoro Club",
+      "alias": [
+        "Houkago Saikoro Club",
+        "放課後さいころ倶楽部",
+        "Afterschool Dice Club",
+        "Houkago Saikoro Kurabu"
+      ],
+      "rating": 27,
       "type": "TV"
     },
     {
-      "id": "34915",
-      "title": "The iDOLM@STER SideM",
-      "type": "TV"
-    },
-    {
-      "id": "32881",
-      "title": "Tiger Mask W",
-      "type": "TV"
-    },
-    {
-      "id": "33026",
-      "title": "Time Bokan 24",
-      "type": "TV"
-    },
-    {
-      "id": "33377",
-      "title": "Trickster: Edogawa Ranpo \\\"Shounen Tanteidan\\\" yori",
-      "type": "TV"
-    },
-    {
-      "id": "33581",
-      "title": "Trinity Seven Movie: Eternity Library to Alchemic Girl",
+      "id": 37920,
+      "title": "How clumsy you are, Miss Ueno.",
+      "alias": [
+        "Ueno-san wa Bukiyou",
+        "How clumsy you are, Miss Ueno.",
+        "上野さんは不器用"
+      ],
+      "rating": 130,
       "type": "OVA"
     },
     {
-      "id": "34019",
-      "title": "Tsugumomo",
+      "id": 39026,
+      "title": "How heavy are the dumbbells you lift?",
+      "alias": [
+        "Dumbbell Nan Kilo Moteru?",
+        "How heavy are the dumbbells you lift?",
+        "ダンベル何キロ持てる？",
+        "How Many Kilograms are the Dumbbells You Lift?"
+      ],
+      "rating": 531,
       "type": "TV"
     },
     {
-      "id": "34822",
-      "title": "Tsuki ga Kirei",
-      "type": "TV"
+      "id": 36098,
+      "title": "I want to eat your pancreas",
+      "alias": [
+        "Kimi no Suizou wo Tabetai",
+        "I want to eat your pancreas",
+        "君の膵臓をたべたい",
+        "KimiSui",
+        "Let Me Eat Your Pancreas"
+      ],
+      "rating": 3906,
+      "type": "Movie"
     },
     {
-      "id": "34474",
-      "title": "Tsukipro The Animation",
-      "type": "TV"
-    },
-    {
-      "id": "34902",
-      "title": "Tsurezure Children",
-      "type": "TV"
-    },
-    {
-      "id": "35543",
-      "title": "Turning Mecard W Season 2",
-      "type": "TV"
-    },
-    {
-      "id": "33532",
-      "title": "Twin Angel Break",
-      "type": "TV"
-    },
-    {
-      "id": "36009",
-      "title": "Two Car",
-      "type": "TV"
-    },
-    {
-      "id": "33478",
-      "title": "UQ Holder!: Mahou Sensei Negima! 2",
-      "type": "TV"
-    },
-    {
-      "id": "34076",
-      "title": "Uchouten Kazoku 2",
-      "type": "TV"
-    },
-    {
-      "id": "35250",
-      "title": "Urahara",
-      "type": "TV"
-    },
-    {
-      "id": "32924",
-      "title": "Urara Meirochou",
-      "type": "TV"
-    },
-    {
-      "id": "34368",
-      "title": "Vatican Kiseki Chousakan",
-      "type": "TV"
-    },
-    {
-      "id": "34522",
-      "title": "Wake Up, Girls! Shin Shou",
-      "type": "TV"
-    },
-    {
-      "id": "34550",
-      "title": "Warau Salesman New",
-      "type": "TV"
-    },
-    {
-      "id": "35332",
-      "title": "World Fool News (TV) Part II",
-      "type": "TV"
-    },
-    {
-      "id": "35673",
-      "title": "Yama no Susume: Omoide Present",
+      "id": 38425,
+      "title": "Ikkitousen: Western Wolves",
+      "alias": [
+        "Ikkitousen: Western Wolves",
+        "一騎当千 Western Wolves",
+        "Ikki Tousen: Western Wolves"
+      ],
+      "rating": 11,
       "type": "OVA"
     },
     {
-      "id": "35626",
-      "title": "Yao Shen Ji",
+      "id": 38235,
+      "title": "Inazuma Eleven: Orion no Kokuin",
+      "alias": [
+        "Inazuma Eleven: Orion no Kokuin",
+        "イナズマイレブン オリオンの刻印"
+      ],
+      "rating": 64,
       "type": "TV"
     },
     {
-      "id": "34792",
-      "title": "Yoake Tsugeru Lu no Uta",
-      "type": "Movie"
-    },
-    {
-      "id": "34537",
-      "title": "Yoru wa Mijikashi Arukeyo Otome",
-      "type": "Movie"
-    },
-    {
-      "id": "32615",
-      "title": "Youjo Senki",
+      "id": 37347,
+      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+      "alias": [
+        "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+        "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+        "ダンジョンに出会いを求めるのは間違っているだろうかII",
+        "DanMachi 2nd Season",
+        "Is It Wrong That I Want to Meet You in a Dungeon 2nd Season"
+      ],
+      "rating": 1617,
       "type": "TV"
     },
     {
-      "id": "35220",
-      "title": "Youkai Apartment no Yuuga na Nichijou",
-      "type": "TV"
-    },
-    {
-      "id": "35507",
-      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
-      "type": "TV"
-    },
-    {
-      "id": "35383",
-      "title": "Yousei Land Mukashibanashi",
-      "type": "TV"
-    },
-    {
-      "id": "31783",
-      "title": "Yowamushi Pedal: New Generation",
-      "type": "TV"
-    },
-    {
-      "id": "34284",
-      "title": "Yuuki Yuuna wa Yuusha de Aru",
-      "type": "TV"
-    },
-    {
-      "id": "33035",
-      "title": "Yuyushiki: Komarasetari, Komarasaretari",
+      "id": 38333,
+      "title": "Is the Order a Rabbit?? OVA",
+      "alias": [
+        "Gochuumon wa Usagi Desu ka??: Sing for You",
+        "Is the Order a Rabbit?? OVA",
+        "ご注文はうさぎですか?? ~Sing For You~",
+        "Gochuumon wa Usagi desu ka? OVA",
+        "GochiUsa OVA"
+      ],
+      "rating": 31,
       "type": "OVA"
     },
     {
-      "id": "21639",
-      "title": "Yu☆Gi☆Oh! Arc-V",
+      "id": 37744,
+      "title": "Isekai Cheat Magician",
+      "alias": [
+        "Isekai Cheat Magician",
+        "異世界チート魔術師〈マジシャン〉",
+        "Isekai Cheat Majutsushi"
+      ],
+      "rating": 395,
       "type": "TV"
     },
     {
-      "id": "28771",
-      "title": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
+      "id": 38472,
+      "title": "Isekai Quartet",
+      "alias": [
+        "Isekai Quartet",
+        "異世界かるてっと"
+      ],
+      "rating": 793,
+      "type": "OVA"
+    },
+    {
+      "id": 37991,
+      "title": "JoJo`s Bizarre Adventure: Golden Wind",
+      "alias": [
+        "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "JoJo`s Bizarre Adventure: Golden Wind",
+        "ジョジョの奇妙な冒険 黄金の風",
+        "JoJo's Bizarre Adventure Part 5: Golden Wind",
+        "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "Le Bizzarre Avventure Di GioGio Parte 5: Vento Aureo"
+      ],
+      "rating": 9405,
+      "type": "TV"
+    },
+    {
+      "id": 38295,
+      "title": "Joshi Kausei",
+      "alias": [
+        "Joshikausei",
+        "Joshi Kausei",
+        "女子かう生",
+        "Jyoshi Kausei"
+      ],
+      "rating": 18,
+      "type": "OVA"
+    },
+    {
+      "id": 39421,
+      "title": "Journal of the Mysterious Creatures",
+      "alias": [
+        "Yichang Shengwu Jianwenlu",
+        "Journal of the Mysterious Creatures",
+        "異常生物見聞録",
+        "Ijou Seibutsu Kenbunroku",
+        "The Record of Unusual Creatures",
+        "Fantastic Creatures' Travelogue",
+        "Abnormal Creature Memoirs"
+      ],
+      "rating": 5,
+      "type": "TV"
+    },
+    {
+      "id": 37999,
+      "title": "Kaguya-sama: Love is War",
+      "alias": [
+        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "Kaguya-sama: Love is War",
+        "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+        "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains"
+      ],
+      "rating": 7707,
+      "type": "TV"
+    },
+    {
+      "id": 37586,
+      "title": "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
+      "alias": [
+        "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
+        "怪獣娘～ウルトラ怪獣擬人化計画～",
+        "Kaijuu Girls Black"
+      ],
+      "rating": 1,
       "type": "Movie"
     },
     {
-      "id": "34176",
-      "title": "Zero kara Hajimeru Mahou no Sho",
+      "id": 37086,
+      "title": "Kakegurui××",
+      "alias": [
+        "Kakegurui××",
+        "賭ケグルイ××",
+        "Kakegurui 2nd Season",
+        "Kakegurui: Compulsive Gambler 2nd Season"
+      ],
+      "rating": 698,
       "type": "TV"
     },
     {
-      "id": "32878",
-      "title": "ēlDLIVE",
+      "id": 40196,
+      "title": "Kandagawa Jet Girls",
+      "alias": [
+        "Kandagawa Jet Girls",
+        "神田川JET GIRLS"
+      ],
+      "rating": 20,
       "type": "TV"
+    },
+    {
+      "id": 38993,
+      "title": "Karakai Jouzu no Takagi-san 2",
+      "alias": [
+        "Karakai Jouzu no Takagi-san 2",
+        "からかい上手の高木さん2",
+        "Skilled Teaser Takagi-san 2nd Season",
+        "Karakai Jouzu no Takagi-san Second Season"
+      ],
+      "rating": 1047,
+      "type": "TV"
+    },
+    {
+      "id": 39567,
+      "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+      "alias": [
+        "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+        "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-",
+        "Special Crime Investigation Unit - Special 7"
+      ],
+      "rating": 27,
+      "type": "TV"
+    },
+    {
+      "id": 35313,
+      "title": "Kemono Friends 2",
+      "alias": [
+        "Kemono Friends 2",
+        "けものフレンズ2"
+      ],
+      "rating": 42,
+      "type": "TV"
+    },
+    {
+      "id": 39030,
+      "title": "Kemono Michi: Rise Up",
+      "alias": [
+        "Hataage! Kemono Michi",
+        "Kemono Michi: Rise Up",
+        "旗揚! けものみち"
+      ],
+      "rating": 144,
+      "type": "TV"
+    },
+    {
+      "id": 37302,
+      "title": "Kemurikusa",
+      "alias": [
+        "Kemurikusa (TV)",
+        "ケムリクサ",
+        "Kemurikusa (TV)",
+        "Kemurikusa"
+      ],
+      "rating": 104,
+      "type": "TV"
+    },
+    {
+      "id": 36903,
+      "title": "Kengan Ashura",
+      "alias": [
+        "Kengan Ashura",
+        "ケンガンアシュラ"
+      ],
+      "rating": 124,
+      "type": "TV"
+    },
+    {
+      "id": 36040,
+      "title": "Knights of the Zodiac: Saint Seiya",
+      "alias": [
+        "Knights of the Zodiac: Saint Seiya",
+        "Knights of the Zodiac 聖闘士星矢（仮）"
+      ],
+      "rating": 35,
+      "type": "TV"
+    },
+    {
+      "id": 38920,
+      "title": "Kochouki: Wakaki Nobunaga",
+      "alias": [
+        "Kochouki: Wakaki Nobunaga",
+        "胡蝶綺 ~若き信長~",
+        "Gorgeous Butterfly: Young Nobunaga"
+      ],
+      "rating": 51,
+      "type": "TV"
+    },
+    {
+      "id": 38080,
+      "title": "Kono Oto Tomare!: Sounds of Life",
+      "alias": [
+        "Kono Oto Tomare!",
+        "Kono Oto Tomare!: Sounds of Life",
+        "この音とまれ！",
+        "Stop This Sound!"
+      ],
+      "rating": 448,
+      "type": "TV"
+    },
+    {
+      "id": 38558,
+      "title": "Laidbackers",
+      "alias": [
+        "Laidbackers",
+        "レイドバッカーズ",
+        "Raidbackers"
+      ],
+      "rating": 3,
+      "type": "Movie"
+    },
+    {
+      "id": 37023,
+      "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+      "alias": [
+        "Layton Mystery Tanteisha: Katri no Nazotoki File",
+        "レイトン ミステリー探偵社~カトリーのナゾトキファイル~"
+      ],
+      "rating": 39,
+      "type": "TV"
+    },
+    {
+      "id": 37447,
+      "title": "Le Cirque de Karakuri",
+      "alias": [
+        "Karakuri Circus (TV)",
+        "Le Cirque de Karakuri",
+        "からくりサーカス",
+        "Karakuri Circus (TV)",
+        "Karakuri Circus"
+      ],
+      "rating": 226,
+      "type": "TV"
+    },
+    {
+      "id": 39574,
+      "title": "Levius",
+      "alias": [
+        "Levius",
+        "Levius -レビウス-"
+      ],
+      "rating": 14,
+      "type": "TV"
+    },
+    {
+      "id": 38959,
+      "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+      "alias": [
+        "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+        "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
+        "Lord El-Melloi II Case Files: Rail Zeppelin Grace Note"
+      ],
+      "rating": 240,
+      "type": "TV"
+    },
+    {
+      "id": 37027,
+      "title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+      "alias": [
+        "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+        "ラブライブ！サンシャイン!!The School Idol Movie Over the Rainbow"
+      ],
+      "rating": 152,
+      "type": "Movie"
+    },
+    {
+      "id": 39487,
+      "title": "Lupin the IIIrd: Mine Fujiko no Uso",
+      "alias": [
+        "Lupin the IIIrd: Mine Fujiko no Uso",
+        "LUPIN THE IIIRD 峰不二子の嘘"
+      ],
+      "rating": 4,
+      "type": "Movie"
+    },
+    {
+      "id": 37979,
+      "title": "Magical Girl Spec-Ops Asuka",
+      "alias": [
+        "Mahou Shoujo Tokushusen Asuka",
+        "Magical Girl Spec-Ops Asuka",
+        "魔法少女特殊戦あすか"
+      ],
+      "rating": 98,
+      "type": "TV"
+    },
+    {
+      "id": 38610,
+      "title": "Magical Sempai",
+      "alias": [
+        "Tejina-senpai",
+        "Magical Sempai",
+        "手品先輩"
+      ],
+      "rating": 247,
+      "type": "OVA"
+    },
+    {
+      "id": 35984,
+      "title": "Mahou Shoujo Lyrical Nanoha: Detonation",
+      "alias": [
+        "Mahou Shoujo Lyrical Nanoha: Detonation",
+        "魔法少女リリカルなのは Detonation",
+        "Magical Girl Lyrical Nanoha: Detonation"
+      ],
+      "rating": 19,
+      "type": "Movie"
+    },
+    {
+      "id": 34209,
+      "title": "Meiji Tokyo Renka",
+      "alias": [
+        "Meiji Tokyo Renka",
+        "明治東亰恋伽"
+      ],
+      "rating": 121,
+      "type": "TV"
+    },
+    {
+      "id": 37964,
+      "title": "Midnight Occult Civil Servants",
+      "alias": [
+        "Mayonaka no Occult Koumuin",
+        "Midnight Occult Civil Servants",
+        "真夜中のオカルト公務員"
+      ],
+      "rating": 70,
+      "type": "TV"
+    },
+    {
+      "id": 38673,
+      "title": "Mini Toji",
+      "alias": [
+        "Mini Toji",
+        "みにとじ"
+      ],
+      "rating": 4,
+      "type": "OVA"
+    },
+    {
+      "id": 36936,
+      "title": "Mirai",
+      "alias": [
+        "Mirai no Mirai",
+        "Mirai",
+        "未来のミライ",
+        "Mirai of the Future"
+      ],
+      "rating": 121,
+      "type": "Movie"
+    },
+    {
+      "id": 38935,
+      "title": "Miru Tights",
+      "alias": [
+        "Miru Tights",
+        "みるタイツ"
+      ],
+      "rating": 220,
+      "type": "OVA"
+    },
+    {
+      "id": 38098,
+      "title": "Mix",
+      "alias": [
+        "Mix",
+        "MIX（ミックス）",
+        "Mix: Meisei Story"
+      ],
+      "rating": 45,
+      "type": "TV"
+    },
+    {
+      "id": 38450,
+      "title": "Mo Dao Zu Shi 2",
+      "alias": [
+        "Mo Dao Zu Shi 2"
+      ],
+      "rating": 469,
+      "type": "OVA"
+    },
+    {
+      "id": 37510,
+      "title": "Mob Psycho 100",
+      "alias": [
+        "Mob Psycho 100 II",
+        "Mob Psycho 100",
+        "モブサイコ100 II",
+        "Mob Psycho 100 2nd Season",
+        "Mob Psycho Hyaku",
+        "Mob Psycho One Hundred"
+      ],
+      "rating": 10218,
+      "type": "TV"
+    },
+    {
+      "id": 39651,
+      "title": "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+      "alias": [
+        "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+        "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅",
+        "Mob Psycho 100: The Spirits and Such Consultation Office's First Company Outing - A Healing Trip That Warms the Heart"
+      ],
+      "rating": 17,
+      "type": "OVA"
+    },
+    {
+      "id": 37764,
+      "title": "Mobile Suit Gundam Narrative",
+      "alias": [
+        "Mobile Suit Gundam NT",
+        "Mobile Suit Gundam Narrative",
+        "機動戦士ガンダムNT（ナラティブ）",
+        "Kidou Senshi Gundam NT",
+        "Kidou Senshi Gundam Narrative"
+      ],
+      "rating": 27,
+      "type": "Movie"
+    },
+    {
+      "id": 39592,
+      "title": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+      "alias": [
+        "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "機動戦士ガンダム THE ORIGIN 前夜 赤い彗星",
+        "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei",
+        "Mobile Suit Gundam: The Origin (TV)"
+      ],
+      "rating": 29,
+      "type": "TV"
+    },
+    {
+      "id": 37623,
+      "title": "Modest Heroes",
+      "alias": [
+        "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen",
+        "Modest Heroes",
+        "ちいさな英雄－カニとタマゴと透明人間－",
+        "Ponoc Tanpen Gekijou",
+        "Ponoc Short Films Theatre"
+      ],
+      "rating": 11,
+      "type": "OVA"
+    },
+    {
+      "id": 38408,
+      "title": "My Hero Academia 4",
+      "alias": [
+        "Boku no Hero Academia 4th Season",
+        "My Hero Academia 4",
+        "僕のヒーローアカデミア 4thシーズン"
+      ],
+      "rating": 2930,
+      "type": "TV"
+    },
+    {
+      "id": 38145,
+      "title": "My Roommate is a Cat",
+      "alias": [
+        "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+        "My Roommate is a Cat",
+        "同居人はひざ、時々、頭のうえ。",
+        "My roommate is sometimes on my knees",
+        "sometimes on my head",
+        "Hizaue"
+      ],
+      "rating": 624,
+      "type": "TV"
+    },
+    {
+      "id": 31537,
+      "title": "Mysteria Friends",
+      "alias": [
+        "Manaria Friends",
+        "Mysteria Friends",
+        "マナリアフレンズ",
+        "Rage of Bahamut: Manaria Friends",
+        "Shingeki no Bahamut: Manaria Friends"
+      ],
+      "rating": 178,
+      "type": "OVA"
+    },
+    {
+      "id": 38150,
+      "title": "NAMUAMIDABUTSU! -UTENA-",
+      "alias": [
+        "Namu Amida Butsu!: Rendai Utena",
+        "NAMUAMIDABUTSU! -UTENA-",
+        "なむあみだ仏っ! -蓮台 UTENA-",
+        "Namuamida Butsu! Rendai Utena"
+      ],
+      "rating": 16,
+      "type": "TV"
+    },
+    {
+      "id": 35946,
+      "title": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+      "alias": [
+        "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+        "劇場版 七つの大罪 天空の囚われ人",
+        "The Seven Deadly Sins: Prisoners of the Sky"
+      ],
+      "rating": 314,
+      "type": "Movie"
+    },
+    {
+      "id": 38397,
+      "title": "Nande Koko ni Sensei ga!?",
+      "alias": [
+        "Nande Koko ni Sensei ga!?",
+        "なんでここに先生が!?",
+        "Why the hell are you here",
+        "Teacher!?"
+      ],
+      "rating": 525,
+      "type": "OVA"
+    },
+    {
+      "id": 36538,
+      "title": "Natsume Yujin-cho the Movie: Ephemeral Bond",
+      "alias": [
+        "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+        "Natsume Yujin-cho the Movie: Ephemeral Bond",
+        "劇場版 夏目友人帳 ～うつせみに結ぶ～",
+        "Gekijouban Natsume Yuujinchou",
+        "Natsume's Book of Friends Movie: Ephemeral Bond"
+      ],
+      "rating": 102,
+      "type": "Movie"
+    },
+    {
+      "id": 39539,
+      "title": "No Guns Life",
+      "alias": [
+        "No Guns Life",
+        "No Guns Life",
+        "ノー・ガンズ・ライフ"
+      ],
+      "rating": 134,
+      "type": "TV"
+    },
+    {
+      "id": 38814,
+      "title": "Nobunaga-sensei no Osanazuma",
+      "alias": [
+        "Nobunaga-sensei no Osanazuma",
+        "ノブナガ先生の幼な妻",
+        "Mr. Nobunaga's Young Bride"
+      ],
+      "rating": 68,
+      "type": "OVA"
+    },
+    {
+      "id": 36990,
+      "title": "Non Non Biyori Movie: Vacation",
+      "alias": [
+        "Non Non Biyori Movie: Vacation",
+        "劇場版 のんのんびより ばけーしょん"
+      ],
+      "rating": 70,
+      "type": "Movie"
+    },
+    {
+      "id": 38753,
+      "title": "O Maidens in Your Savage Season",
+      "alias": [
+        "Araburu Kisetsu no Otome-domo yo.",
+        "O Maidens in Your Savage Season",
+        "荒ぶる季節の乙女どもよ。",
+        "Maidens of the Savage Season"
+      ],
+      "rating": 721,
+      "type": "TV"
+    },
+    {
+      "id": 38483,
+      "title": "ORESUKI Are you the only one who loves me?",
+      "alias": [
+        "Ore wo Suki nano wa Omae dake ka yo",
+        "ORESUKI Are you the only one who loves me?",
+        "俺を好きなのはお前だけかよ"
+      ],
+      "rating": 968,
+      "type": "TV"
+    },
+    {
+      "id": 37682,
+      "title": "Okko's Inn",
+      "alias": [
+        "Wakaokami wa Shougakusei! Movie",
+        "Okko's Inn",
+        "映画 若おかみは小学生！"
+      ],
+      "rating": 13,
+      "type": "Movie"
+    },
+    {
+      "id": 34134,
+      "title": "One Punch Man 2nd Season",
+      "alias": [
+        "One Punch Man 2nd Season",
+        "ワンパンマン",
+        "One Punch-Man 2",
+        "One-Punch Man 2",
+        "OPM 2"
+      ],
+      "rating": 3975,
+      "type": "TV"
+    },
+    {
+      "id": 38026,
+      "title": "Ookami to Koushinryou VR",
+      "alias": [
+        "Ookami to Koushinryou VR",
+        "狼と香辛料VR",
+        "Spice and Wolf VR",
+        "Spice & Wolf VR"
+      ],
+      "rating": 55,
+      "type": "OVA"
+    },
+    {
+      "id": 38268,
+      "title": "Operation Han-Gyaku-Sei Million Arthur 2nd Season",
+      "alias": [
+        "Hangyakusei Million Arthur 2nd Season",
+        "Operation Han-Gyaku-Sei Million Arthur 2nd Season",
+        "叛逆性ミリオンアーサー 第2シーズン"
+      ],
+      "rating": 12,
+      "type": "TV"
+    },
+    {
+      "id": 38390,
+      "title": "Outburst Dreamer Boys",
+      "alias": [
+        "Chuubyou Gekihatsu Boy",
+        "Outburst Dreamer Boys",
+        "厨病激発ボーイ",
+        "Juubyou Gekikatsu Boy",
+        "Young Disease Outburst Boy"
+      ],
+      "rating": 59,
+      "type": "TV"
+    },
+    {
+      "id": 37374,
+      "title": "Pastel Memories",
+      "alias": [
+        "Pastel Memories",
+        "ぱすてるメモリーズ"
+      ],
+      "rating": 17,
+      "type": "TV"
+    },
+    {
+      "id": 37407,
+      "title": "Penguin Highway",
+      "alias": [
+        "Penguin Highway",
+        "ペンギン・ハイウェイ"
+      ],
+      "rating": 114,
+      "type": "Movie"
+    },
+    {
+      "id": 37975,
+      "title": "Piano no Mori 2nd Season",
+      "alias": [
+        "Piano no Mori (TV) 2nd Season",
+        "ピアノの森 第2シリーズ",
+        "Piano Forest Second Season",
+        "Piano no Mori (TV) 2nd Season",
+        "Piano no Mori 2nd Season"
+      ],
+      "rating": 45,
+      "type": "TV"
+    },
+    {
+      "id": 34034,
+      "title": "Pokémon the Series: Sun & Moon",
+      "alias": [
+        "Pokemon Sun & Moon",
+        "Pokémon the Series: Sun & Moon",
+        "ポケットモンスター サン＆ムーン",
+        "Pocket Monsters Sun & Moon",
+        "Pokémon Sun & Moon"
+      ],
+      "rating": 417,
+      "type": "TV"
+    },
+    {
+      "id": 39491,
+      "title": "Psycho-Pass 3",
+      "alias": [
+        "Psycho-Pass 3",
+        "PSYCHO-PASS サイコパス 3"
+      ],
+      "rating": 264,
+      "type": "OVA"
+    },
+    {
+      "id": 37440,
+      "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+      "alias": [
+        "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "PSYCHO-PASS サイコパス|SS(Sinners of the System) Case.1「罪と罰」",
+        "Psycho-Pass SS Case 1: Tsumi to Batsu"
+      ],
+      "rating": 37,
+      "type": "Movie"
+    },
+    {
+      "id": 38009,
+      "title": "Re:Stage! Dream Days♪",
+      "alias": [
+        "Re:Stage! Dream Days♪",
+        "Re:ステージ! ドリームデイズ♪"
+      ],
+      "rating": 35,
+      "type": "TV"
+    },
+    {
+      "id": 37436,
+      "title": "Revisions",
+      "alias": [
+        "Revisions",
+        "revisions リヴィジョンズ"
+      ],
+      "rating": 68,
+      "type": "TV"
+    },
+    {
+      "id": 38162,
+      "title": "Rinshi!! Ekoda-chan",
+      "alias": [
+        "Rinshi!! Ekoda-chan",
+        "臨死!!江古田ちゃん",
+        "Near Death!! Ekoda-chan"
+      ],
+      "rating": 13,
+      "type": "OVA"
+    },
+    {
+      "id": 38707,
+      "title": "RobiHachi",
+      "alias": [
+        "RobiHachi",
+        "ロビハチ"
+      ],
+      "rating": 55,
+      "type": "TV"
+    },
+    {
+      "id": 37965,
+      "title": "Run with the Wind",
+      "alias": [
+        "Kaze ga Tsuyoku Fuiteiru",
+        "Run with the Wind",
+        "風が強く吹いている",
+        "Kaze ga Tsuyoku Fuite Iru"
+      ],
+      "rating": 2246,
+      "type": "TV"
+    },
+    {
+      "id": 40542,
+      "title": "Saiki Kusuo no Ψ-nan: Shidou-hen",
+      "alias": [
+        "Saiki Kusuo no Ψ-nan: Shidou-hen",
+        "斉木楠雄のΨ難 Ψ始動編",
+        "The Disastrous Life of Saiki K. Restart Arc"
+      ],
+      "rating": 25,
+      "type": "OVA"
+    },
+    {
+      "id": 37426,
+      "title": "Sarazanmai",
+      "alias": [
+        "Sarazanmai",
+        "さらざんまい"
+      ],
+      "rating": 776,
+      "type": "TV"
+    },
+    {
+      "id": 32843,
+      "title": "Senki Zesshou Symphogear XV",
+      "alias": [
+        "Senki Zesshou Symphogear XV",
+        "戦姫絶唱シンフォギアXV"
+      ],
+      "rating": 482,
+      "type": "TV"
+    },
+    {
+      "id": 38787,
+      "title": "Senryuu Shoujo",
+      "alias": [
+        "Senryuu Shoujo",
+        "川柳少女",
+        "Senryuu Girl"
+      ],
+      "rating": 262,
+      "type": "OVA"
+    },
+    {
+      "id": 39194,
+      "title": "Shin Chuuka Ichiban!",
+      "alias": [
+        "Shin Chuuka Ichiban!",
+        "真・中華一番!",
+        "New Cooking Master Boy"
+      ],
+      "rating": 10,
+      "type": "TV"
+    },
+    {
+      "id": 38331,
+      "title": "Stand My Heroes: Piece of Truth",
+      "alias": [
+        "Stand My Heroes: Piece of Truth",
+        "Stand My Heroes: Piece of Truth",
+        "スタンドマイヒーローズ PIECE OF TRUTH"
+      ],
+      "rating": 41,
+      "type": "TV"
+    },
+    {
+      "id": 33064,
+      "title": "Star Blazers: Space Battleship Yamato 2202",
+      "alias": [
+        "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi",
+        "Star Blazers: Space Battleship Yamato 2202",
+        "宇宙戦艦ヤマト2202 愛の戦士たち"
+      ],
+      "rating": 56,
+      "type": "OVA"
+    },
+    {
+      "id": 36536,
+      "title": "Starmyu 3rd Season",
+      "alias": [
+        "Starmyu 3rd Season",
+        "高校星歌劇[スタミュ] 3rdシーズン",
+        "Koukou Hoshi Kageki 3rd Season",
+        "High School Star Musical 3rd Season",
+        "Starmu"
+      ],
+      "rating": 33,
+      "type": "TV"
+    },
+    {
+      "id": 37972,
+      "title": "Stars Align",
+      "alias": [
+        "Hoshiai no Sora",
+        "Stars Align",
+        "星合の空"
+      ],
+      "rating": 329,
+      "type": "TV"
+    },
+    {
+      "id": 38004,
+      "title": "Strike Witches: 501st Joint Fighter Wing Take Off!",
+      "alias": [
+        "Strike Witches: 501 Butai Hasshin Shimasu!",
+        "Strike Witches: 501st Joint Fighter Wing Take Off!",
+        "ストライクウィッチーズ 501部隊発進しますっ！"
+      ],
+      "rating": 20,
+      "type": "OVA"
+    },
+    {
+      "id": 36474,
+      "title": "Sword Art Online: Alicization",
+      "alias": [
+        "Sword Art Online: Alicization",
+        "Sword Art Online: Alicization",
+        "ソードアート・オンライン アリシゼーション",
+        "Sword Art Online III",
+        "SAO Alicization",
+        "Sword Art Online 3",
+        "SAO 3"
+      ],
+      "rating": 4491,
+      "type": "TV"
+    },
+    {
+      "id": 37430,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "alias": [
+        "Tensei shitara Slime Datta Ken",
+        "That Time I Got Reincarnated as a Slime",
+        "転生したらスライムだった件",
+        "TenSura"
+      ],
+      "rating": 7383,
+      "type": "TV"
+    },
+    {
+      "id": 39071,
+      "title": "The Demon Girl Next Door",
+      "alias": [
+        "Machikado Mazoku",
+        "The Demon Girl Next Door",
+        "まちカドまぞく"
+      ],
+      "rating": 294,
+      "type": "TV"
+    },
+    {
+      "id": 38759,
+      "title": "The Helpful Fox Senko-san",
+      "alias": [
+        "Sewayaki Kitsune no Senko-san",
+        "The Helpful Fox Senko-san",
+        "世話やきキツネの仙狐さん",
+        "Meddlesome Kitsune Senko-san"
+      ],
+      "rating": 908,
+      "type": "TV"
+    },
+    {
+      "id": 38915,
+      "title": "The Island of Giant Insects",
+      "alias": [
+        "Kyochuu Rettou",
+        "The Island of Giant Insects",
+        "巨蟲列島"
+      ],
+      "rating": 6,
+      "type": "OVA"
+    },
+    {
+      "id": 38301,
+      "title": "The Magnificent Kotobuki",
+      "alias": [
+        "Kouya no Kotobuki Hikoutai",
+        "The Magnificent Kotobuki",
+        "荒野のコトブキ飛行隊",
+        "The Kotobuki Squadron in the Wilderness"
+      ],
+      "rating": 52,
+      "type": "TV"
+    },
+    {
+      "id": 37958,
+      "title": "The Morose Mononokean II",
+      "alias": [
+        "Fukigen na Mononokean Tsuzuki",
+        "The Morose Mononokean II",
+        "不機嫌なモノノケ庵 續",
+        "Fukigen na Mononokean 2nd Season"
+      ],
+      "rating": 97,
+      "type": "TV"
+    },
+    {
+      "id": 37926,
+      "title": "The Ones Within",
+      "alias": [
+        "Nakanohito Genome [Jikkyouchuu]",
+        "The Ones Within",
+        "ナカノヒトゲノム【実況中】",
+        "Naka no Hito Genome [Jikkyouchuu]"
+      ],
+      "rating": 293,
+      "type": "TV"
+    },
+    {
+      "id": 37779,
+      "title": "The Promised Neverland",
+      "alias": [
+        "Yakusoku no Neverland",
+        "The Promised Neverland",
+        "約束のネバーランド"
+      ],
+      "rating": 12029,
+      "type": "TV"
+    },
+    {
+      "id": 38101,
+      "title": "The Quintessential Quintuplets",
+      "alias": [
+        "5-toubun no Hanayome",
+        "The Quintessential Quintuplets",
+        "五等分の花嫁",
+        "Gotoubun no Hanayome",
+        "The Five Wedded Brides"
+      ],
+      "rating": 2987,
+      "type": "TV"
+    },
+    {
+      "id": 35790,
+      "title": "The Rising of the Shield Hero",
+      "alias": [
+        "Tate no Yuusha no Nariagari",
+        "The Rising of the Shield Hero",
+        "盾の勇者の成り上がり"
+      ],
+      "rating": 10986,
+      "type": "TV"
+    },
+    {
+      "id": 39199,
+      "title": "To the Abandoned Sacred Beasts",
+      "alias": [
+        "Katsute Kami Datta Kemono-tachi e",
+        "To the Abandoned Sacred Beasts",
+        "かつて神だった獣たちへ",
+        "To the Abandoned Sacred Beasts"
+      ],
+      "rating": 135,
+      "type": "TV"
+    },
+    {
+      "id": 36857,
+      "title": "Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu Movie",
+      "alias": [
+        "Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu Movie",
+        "劇場版 トミカハイパーレスキュー ドライブヘッド 機動救急警察",
+        "Mobile Emergency Police Movie"
+      ],
+      "rating": 1,
+      "type": "Movie"
+    },
+    {
+      "id": 39527,
+      "title": "Try Knights",
+      "alias": [
+        "Try Knights",
+        "トライナイツ"
+      ],
+      "rating": 26,
+      "type": "TV"
+    },
+    {
+      "id": 38573,
+      "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+      "alias": [
+        "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+        "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+        "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power",
+        "Okaasan online"
+      ],
+      "rating": 314,
+      "type": "TV"
+    },
+    {
+      "id": 39324,
+      "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+      "alias": [
+        "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+        "うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。",
+        "If It's for My Daughter",
+        "I'd Even Defeat a Demon Lord",
+        "Uchi no Musume no Tame naraba",
+        "Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+        "UchiMusume"
+      ],
+      "rating": 296,
+      "type": "TV"
+    },
+    {
+      "id": 36871,
+      "title": "Ultraman",
+      "alias": [
+        "Ultraman",
+        "Ultraman",
+        "ULTRAMAN"
+      ],
+      "rating": 44,
+      "type": "TV"
+    },
+    {
+      "id": 39799,
+      "title": "Val x Love",
+      "alias": [
+        "Val x Love",
+        "戦×恋（ヴァルラヴ）",
+        "Vallove",
+        "Ikusa x Koi"
+      ],
+      "rating": 87,
+      "type": "TV"
+    },
+    {
+      "id": 37521,
+      "title": "Vinland Saga",
+      "alias": [
+        "Vinland Saga",
+        "ヴィンランド・サガ"
+      ],
+      "rating": 3124,
+      "type": "TV"
+    },
+    {
+      "id": 38851,
+      "title": "Virtual-san Looking",
+      "alias": [
+        "Virtual-san wa Miteiru",
+        "Virtual-san Looking",
+        "バーチャルさんはみている"
+      ],
+      "rating": 19,
+      "type": "TV"
+    },
+    {
+      "id": 37509,
+      "title": "W'z",
+      "alias": [
+        "W'z",
+        "ウィズ"
+      ],
+      "rating": 39,
+      "type": "TV"
+    },
+    {
+      "id": 38619,
+      "title": "Wasteful Days of High School Girl",
+      "alias": [
+        "Joshikousei no Mudazukai",
+        "Wasteful Days of High School Girl",
+        "女子高生の無駄づかい"
+      ],
+      "rating": 238,
+      "type": "TV"
+    },
+    {
+      "id": 37993,
+      "title": "Wataten! An Angel Flew Down to Me",
+      "alias": [
+        "Watashi ni Tenshi ga Maiorita!",
+        "Wataten! An Angel Flew Down to Me",
+        "私に天使が舞い降りた！"
+      ],
+      "rating": 481,
+      "type": "TV"
+    },
+    {
+      "id": 38186,
+      "title": "We Never Learn",
+      "alias": [
+        "Bokutachi wa Benkyou ga Dekinai",
+        "We Never Learn",
+        "ぼくたちは勉強ができない",
+        "BokuBen",
+        "We Can't Study"
+      ],
+      "rating": 783,
+      "type": "TV"
+    },
+    {
+      "id": 39380,
+      "title": "Wei, Kanjian Erduo La! 2",
+      "alias": [
+        "Wei, Kanjian Erduo La! 2",
+        "喂，看见耳朵啦 第二季",
+        "Hora",
+        "Mimi ga Mieteru yo! 2",
+        "Look",
+        "I Can See Your Ears! 2"
+      ],
+      "rating": 10,
+      "type": "OVA"
+    },
+    {
+      "id": 39196,
+      "title": "Welcome to Demon School! Iruma-kun",
+      "alias": [
+        "Mairimashita! Iruma-kun",
+        "Welcome to Demon School! Iruma-kun",
+        "魔入りました！入間くん"
+      ],
+      "rating": 291,
+      "type": "TV"
+    },
+    {
+      "id": 36407,
+      "title": "Wise Man's Grandchild",
+      "alias": [
+        "Kenja no Mago",
+        "Wise Man's Grandchild",
+        "賢者の孫",
+        "Philosopher's Grandson",
+        "Magi's Grandson"
+      ],
+      "rating": 1302,
+      "type": "TV"
+    },
+    {
+      "id": 39188,
+      "title": "Xie Wang Zhui Qi",
+      "alias": [
+        "Xie Wang Zhui Qi",
+        "邪王追妻",
+        "The Demonic King Who Chases His Wife"
+      ],
+      "rating": 99,
+      "type": "OVA"
+    },
+    {
+      "id": 34620,
+      "title": "YU-NO: A girl who chants love at the bound of this world.",
+      "alias": [
+        "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+        "YU-NO: A girl who chants love at the bound of this world.",
+        "この世の果てで恋を唄う少女YU-NO",
+        "Yuno"
+      ],
+      "rating": 214,
+      "type": "TV"
+    },
+    {
+      "id": 39836,
+      "title": "Yamishibai: Japanese Ghost Stories 7",
+      "alias": [
+        "Yami Shibai 7",
+        "Yamishibai: Japanese Ghost Stories 7",
+        "闇芝居 7期",
+        "Yamishibai: Japanese Ghost Stories Seventh Season",
+        "Theater of Darkness 7th Season"
+      ],
+      "rating": 7,
+      "type": "OVA"
+    },
+    {
+      "id": 37940,
+      "title": "Yatogame-chan Kansatsu Nikki",
+      "alias": [
+        "Yatogame-chan Kansatsu Nikki",
+        "八十亀ちゃんかんさつにっき"
+      ],
+      "rating": 8,
+      "type": "OVA"
+    },
+    {
+      "id": 37969,
+      "title": "Youkai Watch Movie 5: Forever Friends",
+      "alias": [
+        "Youkai Watch Movie 5: Forever Friends",
+        "映画 妖怪ウォッチ FOREVER FRIENDS",
+        "Eiga Youkai Watch: Forever Friends"
+      ],
+      "rating": 3,
+      "type": "Movie"
+    },
+    {
+      "id": 34866,
+      "title": "Yu-Gi-Oh! VRAINS",
+      "alias": [
+        "Yu☆Gi☆Oh! VRAINS",
+        "Yu-Gi-Oh! VRAINS",
+        "遊戯王VRAINS",
+        "Yuu Gi Ou!",
+        "Yugioh"
+      ],
+      "rating": 187,
+      "type": "TV"
+    },
+    {
+      "id": 37268,
+      "title": "Z/X: Code Reunion",
+      "alias": [
+        "Z/X: Code Reunion",
+        "Z/X Code Reunion"
+      ],
+      "rating": 20,
+      "type": "TV"
+    },
+    {
+      "id": 37395,
+      "title": "Zoids Wild",
+      "alias": [
+        "Zoids Wild",
+        "ゾイドワイルド"
+      ],
+      "rating": 16,
+      "type": "TV"
+    },
+    {
+      "id": 36999,
+      "title": "Zoku Owarimonogatari",
+      "alias": [
+        "Zoku Owarimonogatari",
+        "続・終物語"
+      ],
+      "rating": 466,
+      "type": "Movie"
     }
   ]
 }

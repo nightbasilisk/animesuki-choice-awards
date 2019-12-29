@@ -1,0 +1,48 @@
+#root {
+    height: 100%;
+}
+
+.svg-icon {
+    display: inline-block;
+    padding-right: 3px;
+    position: relative;
+    top: 2px;
+}
+
+.picker .ant-select-selection {
+    height: 77px;
+}
+
+.picker .ant-select-selection-selected-value img {
+    height: 75px;
+}
+
+.picker .ant-select-selection-selected-value .series-title {
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.awards {
+    display: flex;
+    height: 100%;
+}
+
+.awards > .eligible {
+    flex: 1.5;
+    overflow-y: scroll;
+    height: 100%;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.awards > .choices {
+    flex: 3;
+    padding: 16px;
+    overflow-y: scroll;
+}
+
+.awards > .preview {
+    flex: 2;
+    padding: 16px;
+    overflow-y: scroll;
+}

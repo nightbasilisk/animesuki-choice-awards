@@ -1,55 +1,65 @@
-/** @jsx React.DOM */
-var ChoiceAwards = Class.extend({
+import React, { useState } from 'react';
+import { Eligible } from './Eligible';
+import { Choices } from './Choices';
+import { PostPreview } from './PostPreview'
+const store = require('store2');
 
-	init: function (conf) {
-		var self = this;
-		this._listeners = [];
-		// read rules
-		this._rules = conf.rules;
-		// read categories
-		this._categories = [];
-		self._category_refs = {};
-		_.each(conf.categories, function (entry) {
-			var category = new ChoiceAwardsCategory(entry, self)
-			self._categories.push(category);
-			self._category_refs[category.code()] = category;
-		});
-		// read series
-		this._series = [];
-		this._series_refs = {};
-		_.each(conf.series, function (entry) {
-			var series = new ChoiceAwardsSeries(entry, self)
-			self._series.push(series);
-			self._series_refs[series.id()] = series;
-		});
-	},
+function emptyCatState(contest) {
+    let res = {};
 
-	categories: function () {
-		return this._categories;
-	},
+    for (let cat of contest.categories) {
+        res[cat.code] = [];
+    }
 
-	series: function (allowedTypes) {
-		var filtered_series = [];
-		
-		_.each(this._series, function (entry) {
-			if (_.contains(allowedTypes, entry.type())) {
-				filtered_series.push(entry);
-			}
-		});
+    return res;
+}
 
-		return filtered_series;
-	},
+export function ChoiceAwards(props) {
+    const { contest } = props;
+    const seriesCache = store.namespace(`${contest.year}`);
 
-	tallyWeights: function () {
-		return this._rules['tally-weights'];
-	},
+    let [ post, update ] = useState({ 
+        picks: emptyCatState(contest),
+        selected: {
+            list: seriesCache('selected.list') || [],
+            hide: false
+        }
+    });
 
-	getCategory: function (code) {
-		return this._category_refs[code];
-	},
+    let [ refreshId, refresh ] = useState(0);
 
-	getSeries: function (series_id) {
-		return this._series_refs[series_id];	
-	}
+    let state = { 
+        post, 
+        updatePost: post => {
+            update(post);
+            refresh(refreshId + 1);
+            seriesCache('selected.list', post.selected.list);
+        }
+    };
 
-});
+    // console.log('post', post);
+
+    return (
+        <div className="awards">
+
+            { contest.phase == 'main' ? 
+                <div className="eligible">
+                    <h2>Eligible Entries</h2>
+                    <Eligible contest={contest} state={state}/>
+                </div>
+                : null }
+
+            <div className="choices">
+                <h1>Choice Awards</h1>
+                <p><a href="https://www.youtube.com/watch?v=3Y3jE3B8HsE" target="_blank">Instant-Runoff Voting rules</a> apply. Your first choice applies so long as it's not the least popular, in which case your next choice is applied, et cetera. Repeats until 50%+1 concensus is achieved or nobody has any backup options left.</p>
+                <Choices contest={contest} state={state}/>
+            </div>
+
+            <div className="preview">
+                <h2>Post Preview</h2>
+                <PostPreview contest={contest} state={state}/>
+            </div>
+        
+        </div>
+    )
+}
