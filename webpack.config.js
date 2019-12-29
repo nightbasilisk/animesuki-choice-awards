@@ -22,7 +22,7 @@ module.exports = {
     new CopyWebpackPlugin([
         { from: 'node_modules/antd/dist/antd.css' }
     ]),
-    new BundleAnalyzerPlugin(),
+    // new BundleAnalyzerPlugin(),
     new webpack.ContextReplacementPlugin(/moment[\/\\]locale$/, /en/)
   ],
   output: {

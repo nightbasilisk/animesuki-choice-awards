@@ -52,7 +52,7 @@ export function Picker(props) {
             for (let entry of entries) {
                 optionNodes.push (
                     <Option key={entry.id} value={entry.id}>
-                        <img height={50} src={`/images/${entry.id}.jpg`} />&nbsp;
+                        <img height={50} src={`images/${entry.id}.jpg`} />&nbsp;
                         <span className="series-title">{entry.title}</span>
                     </Option>
                 );
@@ -123,7 +123,7 @@ export function Picker(props) {
             for (let entry of entries) {
                 optionNodes.push (
                     <Option key={entry.id} value={entry.id}>
-                        <img height={50} src={`/images/${entry.id}.jpg`} />&nbsp;
+                        <img height={50} src={`images/${entry.id}.jpg`} />&nbsp;
                         <span className="series-title">{entry.title}</span>
                     </Option>
                 );
@@ -207,7 +207,7 @@ export function Picker(props) {
             for (let entry of entries) {
                 optionNodes.push (
                     <Option key={entry.id} value={entry.id}>
-                        <img height={50} src={`/images/${entry.id}.jpg`} />&nbsp;
+                        <img height={50} src={`images/${entry.id}.jpg`} />&nbsp;
                         <span className="series-title">{entry.title}</span>
                     </Option>
                 );
