@@ -21,7 +21,7 @@ export function PostPreview(props) {
             let first = true;
             for (let pick of picks) {
                 if (first) {
-                    preview += `  [*] [u]${pick.value.preview}[/u]\n`
+                    preview += `  [*] [color=blue]${pick.value.preview}[/color]\n`
                 }
                 else {
                     preview += `  [*] ${pick.value.preview}\n`
