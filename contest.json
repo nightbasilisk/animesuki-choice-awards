@@ -439,16 +439,6 @@
       "type": "OVA"
     },
     {
-      "id": 37403,
-      "title": "Ahiru no Sora",
-      "alias": [
-        "Ahiru no Sora",
-        "あひるの空"
-      ],
-      "rating": 222,
-      "type": "TV"
-    },
-    {
       "id": 37204,
       "title": "Aikatsu Friends!",
       "alias": [
@@ -740,17 +730,6 @@
         "キャロル&チューズデイ"
       ],
       "rating": 1166,
-      "type": "TV"
-    },
-    {
-      "id": 38161,
-      "title": "Case File nº221: Kabukicho",
-      "alias": [
-        "Kabukichou Sherlock",
-        "Case File nº221: Kabukicho",
-        "歌舞伎町シャーロック"
-      ],
-      "rating": 69,
       "type": "TV"
     },
     {
@@ -1804,17 +1783,6 @@
       "type": "OVA"
     },
     {
-      "id": 38408,
-      "title": "My Hero Academia 4",
-      "alias": [
-        "Boku no Hero Academia 4th Season",
-        "My Hero Academia 4",
-        "僕のヒーローアカデミア 4thシーズン"
-      ],
-      "rating": 2930,
-      "type": "TV"
-    },
-    {
       "id": 38145,
       "title": "My Roommate is a Cat",
       "alias": [
@@ -2528,17 +2496,6 @@
       ],
       "rating": 10,
       "type": "OVA"
-    },
-    {
-      "id": 39196,
-      "title": "Welcome to Demon School! Iruma-kun",
-      "alias": [
-        "Mairimashita! Iruma-kun",
-        "Welcome to Demon School! Iruma-kun",
-        "魔入りました！入間くん"
-      ],
-      "rating": 291,
-      "type": "TV"
     },
     {
       "id": 36407,
