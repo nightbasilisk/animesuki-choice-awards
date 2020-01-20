@@ -13,6 +13,12 @@
     height: 77px;
 }
 
+.picker.simple .ant-select-selection {
+    height: 42px;
+    padding: 4px;
+    margin-top: 16px;
+}
+
 .picker .ant-select-selection-selected-value img {
     height: 75px;
 }

@@ -87,14 +87,32 @@ export function Choices(props) {
             );
         }
 
+        let idx = picks.length + 1;
+
+        let suffix = 'th';
+        if (idx % 10 == 1) {
+            suffix = 'st';
+        }
+        else if (idx % 10 == 2) {
+            suffix = 'nd';
+        }
+        else if (idx % 10 == 3) {
+            suffix = 'rd';
+        }
+        else {
+            suffix = 'th';
+        }
+
         categoryNodes.push (
             <div key={cat.code} style={{ marginBottom: 24 }}>
                 <h2><code>-{`{${cat.code}}`}- [{cat.name}]</code></h2>
                 <div style={{ padding: 16 }}>
                     {pickNodes}
-                    <Button onClick={addNewChoice} type={ picks.length > 0 ? 'default' : 'primary' }>
-                        Add&nbsp;{ picks.length > 0 ? 'Backup' : <b>Primary</b> }&nbsp;Choice
-                    </Button>
+                    { picks.length < contest.rules['tally-weights'].length ?
+                        <Button onClick={addNewChoice} type={ idx > 1 ? 'default' : 'primary' }>
+                            Add&nbsp;{ idx > 1 ? `${idx}${ suffix }` : <b>Primary</b> }&nbsp;Choice
+                        </Button>
+                        : null }
                 </div>
             </div>
         );

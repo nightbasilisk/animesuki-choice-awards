@@ -11,7 +11,55 @@ export function Picker(props) {
     const { contest, code, value, onChange } = props;
     const category = find(contest.categories, { code });
 
-    if (category.type == 'series') {
+    if (category.type == 'pick') {
+        const selectProps = {
+            value: value != null ? value.id : null,
+            showSearch: true,
+            className: 'picker simple',
+            style: { width: 500 },
+            placeholder: 'Select or Search...',
+            onChange: value => {
+                let entry = value;
+                onChange({
+                    type: 'pick',
+                    id: value,
+                    preview: value
+                });
+            },
+            filterOption: (input, option) => {
+                let entry = option.props.value;
+
+                if (entry == null) {
+                    return true;
+                }
+
+                if (entry.toLowerCase().indexOf(input.toLowerCase()) >= 0) {
+                    return true;
+                }
+
+                return false;
+            }
+        };
+
+        let optionNodes = [];
+        const entries = category.presetValues;
+
+        for (let entry of entries) {
+            optionNodes.push (
+                <Option key={entry} value={entry}>
+                    <span className="series-title">{entry}</span>
+                </Option>
+            );
+        }
+        
+
+        return (
+            <Select {...selectProps}>
+                {optionNodes}
+            </Select>
+        );
+    }
+    else if (category.type == 'series') {
         const selectProps = {
             value: value != null ? value.id : null,
             showSearch: true,
