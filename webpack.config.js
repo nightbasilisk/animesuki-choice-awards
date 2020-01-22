@@ -3,8 +3,10 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const webpack = require('webpack');
 
+let dev = false;
+
 module.exports = {
-  mode: false ? 'development' : 'production',
+  mode: dev ? 'development' : 'production',
   entry: path.resolve(__dirname, 'src/main.js'),
   module: {
     rules: [

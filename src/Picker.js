@@ -44,10 +44,13 @@ export function Picker(props) {
         let optionNodes = [];
         const entries = category.presetValues;
 
-        for (let entry of entries) {
+        for (let option of entries) {
             optionNodes.push (
-                <Option key={entry} value={entry}>
-                    <span className="series-title">{entry}</span>
+                <Option key={option.entry} value={option.entry}>
+                    <div className="preset-pick">
+                        <img className="series-title-img" src={option.image == "" ? 'https://i.vgy.me/el2was.jpg' : option.image}/>&nbsp;
+                        <span className="series-title">{option.entry}</span>
+                    </div>
                 </Option>
             );
         }

@@ -14,13 +14,27 @@
 }
 
 .picker.simple .ant-select-selection {
-    height: 42px;
+    height: 65px;
     padding: 4px;
-    margin-top: 16px;
+    margin-top: 5px;
 }
 
 .picker .ant-select-selection-selected-value img {
     height: 75px;
+}
+
+.picker .ant-select-selection-selected-value .preset-pick img {
+    height: auto;
+    width: 100px;
+}
+
+.preset-pick .series-title-img {
+    width: 200px;
+}
+
+.preset-pick .series-title {
+    font-size: 18px;
+    padding: 20px;
 }
 
 .picker .ant-select-selection-selected-value .series-title {

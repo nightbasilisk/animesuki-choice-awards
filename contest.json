@@ -18,11 +18,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Vinland Saga",
-        "The Promised Neverland",
-        "Dororo",
-        "Boogiepop and Others",
-        "Attack on Titan Season 3 Part 2"
+        {
+          "entry": "Attack on Titan Season 3 Part 2",
+          "image": ""
+        },
+        {
+          "entry": "Boogiepop and Others",
+          "image": "https://i.vgy.me/Ww6iGx.jpg"
+        },
+        {
+          "entry": "Dororo",
+          "image": "https://i.vgy.me/Fe5C90.jpg"
+        },
+        {
+          "entry": "The Promised Neverland",
+          "image": "https://i.vgy.me/otNEQj.jpg"
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": "https://i.vgy.me/el2was.jpg"
+        }
       ]
     },
     {
@@ -31,11 +46,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Mob Psycho 100",
-        "Demon Slayer",
-        "Vinland Saga",
-        "Fire Force",
-        "Dr. Stone"
+        {
+          "entry": "Demon Slayer",
+          "image": "https://i.vgy.me/YPbd98.jpg"
+        },
+        {
+          "entry": "Dr. Stone",
+          "image": "https://i.vgy.me/Sh5nyt.jpg"
+        },
+        {
+          "entry": "Fire Force",
+          "image": "https://i.vgy.me/JoNBK5.jpg"
+        },
+        {
+          "entry": "Mob Psycho 100",
+          "image": "https://i.vgy.me/xCIWG7.jpg"
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": "https://i.vgy.me/5Bdg7r.jpg"
+        }
       ]
     },
     {
@@ -44,11 +74,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Vinland Saga",
-        "Mob Psycho 100",
-        "Demon Slayer",
-        "Dororo",
-        "JoJo`s Bizarre Adventure: Golden Wind"
+        {
+          "entry": "Demon Slayer",
+          "image": "https://i.vgy.me/z8a3TA.jpg"
+        },
+        {
+          "entry": "Dororo",
+          "image": "https://i.vgy.me/vOTqqT.jpg"
+        },
+        {
+          "entry": "JoJo`s Bizarre Adventure: Golden Wind",
+          "image": "https://i.vgy.me/DcVpgd.jpg"
+        },
+        {
+          "entry": "Mob Psycho 100",
+          "image": "https://i.vgy.me/J7gWpR.jpg"
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": "https://i.vgy.me/8jMzX5.jpg"
+        }
       ]
     },
     {
@@ -57,11 +102,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Kono Oto Tomare!: Sounds of Life",
-        "Boogiepop and Others",
-        "Yakusoku no Neverland",
-        "BanG Dream! 2nd Season",
-        "Granbelm"
+        {
+          "entry": "BanG Dream! 2nd Season",
+          "image": "https://i.vgy.me/Qamy3N.png"
+        },
+        {
+          "entry": "Boogiepop and Others",
+          "image": "https://i.vgy.me/pBUI2V.jpg"
+        },
+        {
+          "entry": "Granbelm",
+          "image": "https://i.vgy.me/QJL52v.jpg"
+        },
+        {
+          "entry": "Kono Oto Tomare!: Sounds of Life",
+          "image": "https://i.vgy.me/NXfA7J.jpg"
+        },
+        {
+          "entry": "The Promised Neverland",
+          "image": "https://i.vgy.me/bBg48C.jpg"
+        }
       ]
     },
     {
@@ -70,11 +130,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Kemurikusa",
-        "The Promised Neverland",
-        "Vinland Saga",
-        "Ascendance of a Bookworm",
-        "Fire Force"
+        {
+          "entry": "Ascendance of a Bookworm",
+          "image": ""
+        },
+        {
+          "entry": "Fire Force",
+          "image": ""
+        },
+        {
+          "entry": "Kemurikusa",
+          "image": ""
+        },
+        {
+          "entry": "The Promised Neverland",
+          "image": ""
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": ""
+        }
       ]
     },
     {
@@ -83,11 +158,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Dororo",
-        "Boogiepop and Others",
-        "Ascendance of a Bookworm",
-        "Demon Slayer",
-        "Sarazanmai"
+        {
+          "entry": "Ascendance of a Bookworm",
+          "image": ""
+        },
+        {
+          "entry": "Boogiepop and Others",
+          "image": ""
+        },
+        {
+          "entry": "Demon Slayer",
+          "image": ""
+        },
+        {
+          "entry": "Dororo",
+          "image": ""
+        },
+        {
+          "entry": "Sarazanmai",
+          "image": ""
+        }
       ]
     },
     {
@@ -96,11 +186,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Astra Lost in Space",
-        "Kemurikusa",
-        "Dr. Stone",
-        "The Promised Neverland",
-        "Psycho-Pass 3"
+        {
+          "entry": "Astra Lost in Space",
+          "image": ""
+        },
+        {
+          "entry": "Dr. Stone",
+          "image": ""
+        },
+        {
+          "entry": "Kemurikusa",
+          "image": ""
+        },
+        {
+          "entry": "Psycho-Pass 3",
+          "image": ""
+        },
+        {
+          "entry": "The Promised Neverland",
+          "image": ""
+        }
       ]
     },
     {
@@ -109,11 +214,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Stars Align",
-        "Mix",
-        "Run with the Wind",
-        "Kandagawa Jet Girls",
-        "Hinomaru Sumo"
+        {
+          "entry": "Hinomaru Sumo",
+          "image": ""
+        },
+        {
+          "entry": "Kandagawa Jet Girls",
+          "image": ""
+        },
+        {
+          "entry": "Mix",
+          "image": ""
+        },
+        {
+          "entry": "Run with the Wind",
+          "image": ""
+        },
+        {
+          "entry": "Stars Align",
+          "image": ""
+        }
       ]
     },
     {
@@ -122,11 +242,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Kaguya-sama: Love is War",
-        "High Score Girl II",
-        "Senryuu Girl",
-        "Fruits Basket 1st Season",
-        "Given"
+        {
+          "entry": "Fruits Basket 1st Season",
+          "image": ""
+        },
+        {
+          "entry": "Given",
+          "image": ""
+        },
+        {
+          "entry": "High Score Girl II",
+          "image": ""
+        },
+        {
+          "entry": "Kaguya-sama: Love is War",
+          "image": ""
+        },
+        {
+          "entry": "Senryuu Girl",
+          "image": ""
+        }
       ]
     },
     {
@@ -135,11 +270,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Kaguya-sama: Love is War",
-        "O Maidens in Your Savage Season",
-        "How heavy are the dumbbells you lift?",
-        "The Disastrous Life of Saiki K: Reawakened",
-        "Isekai Quartet"
+        {
+          "entry": "How heavy are the dumbbells you lift?",
+          "image": ""
+        },
+        {
+          "entry": "Isekai Quartet",
+          "image": ""
+        },
+        {
+          "entry": "Kaguya-sama: Love is War",
+          "image": ""
+        },
+        {
+          "entry": "O Maidens in Your Savage Season",
+          "image": ""
+        },
+        {
+          "entry": "The Disastrous Life of Saiki K: Reawakened",
+          "image": ""
+        }
       ]
     },
     {
@@ -148,11 +298,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Vinland Saga",
-        "Kono Oto Tomare!: Sounds of Life",
-        "The Promised Neverland",
-        "Beastars",
-        "Granbelm"
+        {
+          "entry": "Beastars",
+          "image": ""
+        },
+        {
+          "entry": "Granbelm",
+          "image": ""
+        },
+        {
+          "entry": "Kono Oto Tomare!: Sounds of Life",
+          "image": ""
+        },
+        {
+          "entry": "The Promised Neverland",
+          "image": ""
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": ""
+        }
       ]
     },
     {
@@ -161,11 +326,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Fruits Basket 1st Season",
-        "Karakai Jouzu no Takagi-san",
-        "My Roommate is a Cat",
-        "Hitoribocchi no Marumaru Seikatsu",
-        "If It's for My Daughter I'd Even Defeat a Demon Lord"
+        {
+          "entry": "Fruits Basket 1st Season",
+          "image": ""
+        },
+        {
+          "entry": "Hitoribocchi no Marumaru Seikatsu",
+          "image": ""
+        },
+        {
+          "entry": "If It's for My Daughter I'd Even Defeat a Demon Lord",
+          "image": ""
+        },
+        {
+          "entry": "Karakai Jouzu no Takagi-san",
+          "image": ""
+        },
+        {
+          "entry": "My Roommate is a Cat",
+          "image": ""
+        }
       ]
     },
     {
@@ -174,11 +354,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Senryuu Girl",
-        "Teasing Master Takagi-san: Season 2",
-        "Are You Lost?",
-        "If It's for My Daughter I'd Even Defeat a Demon Lord",
-        "How heavy are the dumbbells you lift?"
+        {
+          "entry": "Are You Lost?",
+          "image": ""
+        },
+        {
+          "entry": "How heavy are the dumbbells you lift?",
+          "image": ""
+        },
+        {
+          "entry": "If It's for My Daughter I'd Even Defeat a Demon Lord",
+          "image": ""
+        },
+        {
+          "entry": "Senryuu Girl",
+          "image": ""
+        },
+        {
+          "entry": "Teasing Master Takagi-san: Season 2",
+          "image": ""
+        }
       ]
     },
     {
@@ -189,11 +384,26 @@
         "TV"
       ],
       "presetValues": [
-        "Vinland Saga",
-        "Dororo",
-        "Mob Psycho 100",
-        "Kono Oto Tomare!: Sounds of Life",
-        "Dr. Stone"
+        {
+          "entry": "Dororo",
+          "image": ""
+        },
+        {
+          "entry": "Dr. Stone",
+          "image": ""
+        },
+        {
+          "entry": "Kono Oto Tomare!: Sounds of Life",
+          "image": ""
+        },
+        {
+          "entry": "Mob Psycho 100",
+          "image": ""
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": ""
+        }
       ]
     },
     {
@@ -204,11 +414,26 @@
         "OVA"
       ],
       "presetValues": [
-        "High Score Girl: Extra Stage",
-        "Legend of the Galactic Heroes: Die Neue These",
-        "Miru Tights",
-        "Star Blazers: Space Battleship Yamato 2202",
-        "Is the Order a Rabbit?? OVA"
+        {
+          "entry": "High Score Girl: Extra Stage",
+          "image": ""
+        },
+        {
+          "entry": "Is the Order a Rabbit?? OVA",
+          "image": ""
+        },
+        {
+          "entry": "Legend of the Galactic Heroes: Die Neue These",
+          "image": ""
+        },
+        {
+          "entry": "Miru Tights",
+          "image": ""
+        },
+        {
+          "entry": "Star Blazers: Space Battleship Yamato 2202",
+          "image": ""
+        }
       ]
     },
     {
@@ -219,11 +444,26 @@
         "Movie"
       ],
       "presetValues": [
-        "Penguin Highway",
-        "Fate/stay night: Heaven's Feel - II. Lost Butterfly",
-        "I want to eat your pancreas",
-        "Non Non Biyori Movie: Vacation",
-        "Zoku Owarimonogatari"
+        {
+          "entry": "Fate/stay night: Heaven's Feel - II. Lost Butterfly",
+          "image": ""
+        },
+        {
+          "entry": "I want to eat your pancreas",
+          "image": ""
+        },
+        {
+          "entry": "Non Non Biyori Movie: Vacation",
+          "image": ""
+        },
+        {
+          "entry": "Penguin Highway",
+          "image": ""
+        },
+        {
+          "entry": "Zoku Owarimonogatari",
+          "image": ""
+        }
       ]
     },
     {
@@ -232,11 +472,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Emma",
-        "Dororo",
-        "Maine",
-        "Haru",
-        "Raphtalia"
+        {
+          "entry": "Dororo",
+          "image": ""
+        },
+        {
+          "entry": "Emma",
+          "image": ""
+        },
+        {
+          "entry": "Haru",
+          "image": ""
+        },
+        {
+          "entry": "Maine",
+          "image": ""
+        },
+        {
+          "entry": "Raphtalia",
+          "image": ""
+        }
       ]
     },
     {
@@ -245,11 +500,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Shigeo Kageyama",
-        "Legoshi",
-        "Kei Matoba",
-        "Maki Katsuragi",
-        "Naofumi Iwatani"
+        {
+          "entry": "Kei Matoba",
+          "image": ""
+        },
+        {
+          "entry": "Legoshi",
+          "image": ""
+        },
+        {
+          "entry": "Maki Katsuragi",
+          "image": ""
+        },
+        {
+          "entry": "Naofumi Iwatani",
+          "image": ""
+        },
+        {
+          "entry": "Shigeo Kageyama",
+          "image": ""
+        }
       ]
     },
     {
@@ -258,11 +528,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Askeladd",
-        "Isabella",
-        "Suishou Hakamada",
-        "Tsukasa Shishiou",
-        "Muzan Kibutsuji"
+        {
+          "entry": "Askeladd",
+          "image": ""
+        },
+        {
+          "entry": "Isabella",
+          "image": ""
+        },
+        {
+          "entry": "Muzan Kibutsuji",
+          "image": ""
+        },
+        {
+          "entry": "Suishou Hakamada",
+          "image": ""
+        },
+        {
+          "entry": "Tsukasa Shishiou",
+          "image": ""
+        }
       ]
     },
     {
@@ -271,11 +556,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Thorkell",
-        "Luca Esposito",
-        "Chika Fujiwara",
-        "Arataka Reigen",
-        "Ray"
+        {
+          "entry": "Arataka Reigen",
+          "image": ""
+        },
+        {
+          "entry": "Chika Fujiwara",
+          "image": ""
+        },
+        {
+          "entry": "Luca Esposito",
+          "image": ""
+        },
+        {
+          "entry": "Ray",
+          "image": ""
+        },
+        {
+          "entry": "Thorkell",
+          "image": ""
+        }
       ]
     },
     {
@@ -284,11 +584,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Yuuki Aoi",
-        "Toyosaki Aki",
-        "Tomatsu Haruka",
-        "Uchida Maaya",
-        "Seto Asami"
+        {
+          "entry": "Seto Asami",
+          "image": ""
+        },
+        {
+          "entry": "Tomatsu Haruka",
+          "image": ""
+        },
+        {
+          "entry": "Toyosaki Aki",
+          "image": ""
+        },
+        {
+          "entry": "Uchida Maaya",
+          "image": ""
+        },
+        {
+          "entry": "Yuuki Aoi",
+          "image": ""
+        }
       ]
     },
     {
@@ -297,11 +612,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Uchida Naoya",
-        "Ootsuka Akio",
-        "Nakamura Yuuichi",
-        "Uchida Yuuma",
-        "Kobayashi Yuusuke"
+        {
+          "entry": "Kobayashi Yuusuke",
+          "image": ""
+        },
+        {
+          "entry": "Nakamura Yuuichi",
+          "image": ""
+        },
+        {
+          "entry": "Ootsuka Akio",
+          "image": ""
+        },
+        {
+          "entry": "Uchida Naoya",
+          "image": ""
+        },
+        {
+          "entry": "Uchida Yuuma",
+          "image": ""
+        }
       ]
     },
     {
@@ -310,11 +640,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Chihayafuru 3",
-        "Blade of the Immortal",
-        "Fate/Grand Order: Absolute Demonic Front - Babylonia",
-        "GeGeGe no Kitaro",
-        "Phantasy Star Online 2: Episode Oracle"
+        {
+          "entry": "Blade of the Immortal",
+          "image": ""
+        },
+        {
+          "entry": "Chihayafuru 3",
+          "image": ""
+        },
+        {
+          "entry": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+          "image": ""
+        },
+        {
+          "entry": "GeGeGe no Kitaro",
+          "image": ""
+        },
+        {
+          "entry": "Phantasy Star Online 2: Episode Oracle",
+          "image": ""
+        }
       ]
     },
     {
@@ -323,11 +668,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Vinland Saga ED1",
-        "Kaguya-sama: Love is War OP1",
-        "The Promised Neverland OP1",
-        "Dororo OP1",
-        "Boogiepop and Others OP1"
+        {
+          "entry": "Boogiepop and Others OP1",
+          "image": ""
+        },
+        {
+          "entry": "Dororo OP1",
+          "image": ""
+        },
+        {
+          "entry": "Kaguya-sama: Love is War OP1",
+          "image": ""
+        },
+        {
+          "entry": "The Promised Neverland OP1",
+          "image": ""
+        },
+        {
+          "entry": "Vinland Saga ED1",
+          "image": ""
+        }
       ]
     },
     {
@@ -336,11 +696,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Vinland Saga",
-        "Dororo",
-        "Astra Lost in Space",
-        "Dr. Stone",
-        "Endro~!"
+        {
+          "entry": "Astra Lost in Space",
+          "image": ""
+        },
+        {
+          "entry": "Dororo",
+          "image": ""
+        },
+        {
+          "entry": "Dr. Stone",
+          "image": ""
+        },
+        {
+          "entry": "Endro~!",
+          "image": ""
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": ""
+        }
       ]
     },
     {
@@ -349,11 +724,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Demon Slayer",
-        "Kaguya-sama: Love is Wa",
-        "Dororo",
-        "Vinland Saga",
-        "Hensuki: Are you willing to fall in love with a pervert as long as she's a cutie?"
+        {
+          "entry": "Demon Slayer",
+          "image": ""
+        },
+        {
+          "entry": "Dororo",
+          "image": ""
+        },
+        {
+          "entry": "Hensuki: Are you willing to fall in love with a pervert as long as she's a cutie?",
+          "image": ""
+        },
+        {
+          "entry": "Kaguya-sama: Love is Wa",
+          "image": ""
+        },
+        {
+          "entry": "Vinland Saga",
+          "image": ""
+        }
       ]
     },
     {
@@ -362,11 +752,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "Granbelm",
-        "Ascendance of a Bookworm",
-        "Kaguya-sama: Love is War",
-        "Astra Lost in Space",
-        "My Roommate is a Cat"
+        {
+          "entry": "Ascendance of a Bookworm",
+          "image": ""
+        },
+        {
+          "entry": "Astra Lost in Space",
+          "image": ""
+        },
+        {
+          "entry": "Granbelm",
+          "image": ""
+        },
+        {
+          "entry": "Kaguya-sama: Love is War",
+          "image": ""
+        },
+        {
+          "entry": "My Roommate is a Cat",
+          "image": ""
+        }
       ]
     },
     {
@@ -375,11 +780,26 @@
       "type": "pick",
       "allowedTypes": [],
       "presetValues": [
-        "ORESUKI Are you the only one who loves me?",
-        "Domestic Girlfriend",
-        "Are You Lost?",
-        "How clumsy you are, Miss Ueno.",
-        "Kandagawa Jet Girls"
+        {
+          "entry": "Are You Lost?",
+          "image": ""
+        },
+        {
+          "entry": "Domestic Girlfriend",
+          "image": ""
+        },
+        {
+          "entry": "How clumsy you are, Miss Ueno.",
+          "image": ""
+        },
+        {
+          "entry": "Kandagawa Jet Girls",
+          "image": ""
+        },
+        {
+          "entry": "ORESUKI Are you the only one who loves me?",
+          "image": ""
+        }
       ]
     }
   ],
