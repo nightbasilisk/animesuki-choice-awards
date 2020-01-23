@@ -16,7 +16,7 @@ export function Picker(props) {
             value: value != null ? value.id : null,
             showSearch: true,
             className: 'picker simple',
-            style: { width: 500 },
+            style: { width: '100%', maxWidth: 700 },
             placeholder: 'Select or Search...',
             onChange: value => {
                 let entry = value;

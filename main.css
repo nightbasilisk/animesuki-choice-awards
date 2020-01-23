@@ -59,10 +59,15 @@
     flex: 3;
     padding: 16px;
     overflow-y: scroll;
+    padding-bottom: 700px;
 }
 
 .awards > .preview {
     flex: 2;
     padding: 16px;
     overflow-y: scroll;
+}
+
+.ant-select-dropdown-menu {
+    max-height: 500px !important;
 }

@@ -103,12 +103,17 @@ export function Choices(props) {
             suffix = 'th';
         }
 
+        let maxVotes = 999;
+        if (cat.type == 'pick') {
+            maxVotes = cat.presetValues.length;
+        }
+
         categoryNodes.push (
             <div key={cat.code} style={{ marginBottom: 24 }}>
                 <h2><code>-{`{${cat.code}}`}- [{cat.name}]</code></h2>
                 <div style={{ padding: 16 }}>
                     {pickNodes}
-                    { picks.length < contest.rules['tally-weights'].length ?
+                    { picks.length < maxVotes ?
                         <Button onClick={addNewChoice} type={ idx > 1 ? 'default' : 'primary' }>
                             Add&nbsp;{ idx > 1 ? `${idx}${ suffix }` : <b>Primary</b> }&nbsp;Choice
                         </Button>
