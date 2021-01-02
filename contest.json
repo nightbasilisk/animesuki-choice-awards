@@ -550,6 +550,16 @@
       "type": "TV"
     },
     {
+      "id": 40550,
+      "title": "Assault Lily: Bouquet",
+      "alias": [
+        "Assault Lily: Bouquet",
+        "アサルトリリィ Bouquet"
+      ],
+      "rating": 233,
+      "type": "TV"
+    },
+    {
       "id": 39388,
       "title": "Asteroid in Love",
       "alias": [
@@ -956,17 +966,6 @@
       ],
       "rating": 560,
       "type": "TV"
-    },
-    {
-      "id": 25537,
-      "title": "Fate/stay night: Heaven's Feel - I. Presage Flower",
-      "alias": [
-        "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
-        "Fate/stay night: Heaven's Feel - I. Presage Flower",
-        "劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」"
-      ],
-      "rating": 1700,
-      "type": "Movie"
     },
     {
       "id": 40956,
@@ -1619,6 +1618,18 @@
       ],
       "rating": 43,
       "type": "Movie"
+    },
+    {
+      "id": 37599,
+      "title": "MAGATSU WAHRHEIT",
+      "alias": [
+        "Magatsu Wahrheit: Zuerst",
+        "MAGATSU WAHRHEIT",
+        "禍つヴァールハイト -ZUERST-",
+        "MWZ"
+      ],
+      "rating": 42,
+      "type": "TV"
     },
     {
       "id": 36862,
@@ -2291,6 +2302,19 @@
       ],
       "rating": 45,
       "type": "TV"
+    },
+    {
+      "id": 35678,
+      "title": "Sound! Euphonium: Our Promise: A Brand New Day",
+      "alias": [
+        "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "Sound! Euphonium: Our Promise: A Brand New Day",
+        "劇場版 響け！ユーフォニアム～誓いのフィナーレ～",
+        "Gekijouban Hibike! Euphonium: Chikai no Finale",
+        "Sound! Euphonium: Oath's Finale"
+      ],
+      "rating": 98,
+      "type": "Movie"
     },
     {
       "id": 38005,
