@@ -572,6 +572,18 @@
       "type": "TV"
     },
     {
+      "id": 40028,
+      "title": "Attack on Titan Final Season",
+      "alias": [
+        "Shingeki no Kyojin: The Final Season",
+        "Attack on Titan Final Season",
+        "進撃の巨人 The Final Season",
+        "Shingeki no Kyojin Season 4"
+      ],
+      "rating": 17714,
+      "type": "Ongoing"
+    },
+    {
       "id": 38328,
       "title": "Azur Lane",
       "alias": [
@@ -650,6 +662,17 @@
         "Beyblade Burst GT"
       ],
       "rating": 27,
+      "type": "TV"
+    },
+    {
+      "id": 39806,
+      "title": "Blade of the Immortal",
+      "alias": [
+        "Mugen no Juunin: Immortal",
+        "Blade of the Immortal",
+        "無限の住人-IMMORTAL-"
+      ],
+      "rating": 67,
       "type": "TV"
     },
     {
@@ -788,6 +811,18 @@
       "type": "OVA"
     },
     {
+      "id": 39681,
+      "title": "D4DJ First Mix",
+      "alias": [
+        "D4DJ: First Mix",
+        "D4DJ First Mix",
+        "D4DJ First Mix",
+        "Dig Delight Direct Drive DJ"
+      ],
+      "rating": 97,
+      "type": "Ongoing"
+    },
+    {
       "id": 38656,
       "title": "Darwin's Game",
       "alias": [
@@ -875,6 +910,18 @@
       ],
       "rating": 2718,
       "type": "TV"
+    },
+    {
+      "id": 40906,
+      "title": "Dragon Quest: Dai no Daibouken (2020)",
+      "alias": [
+        "Dragon Quest: Dai no Daibouken (2020)",
+        "ドラゴンクエスト ダイの大冒険",
+        "Dragon Quest: Dai's Great Adventure",
+        "Dragon Quest: Adventure of Dai"
+      ],
+      "rating": 2980,
+      "type": "Ongoing"
     },
     {
       "id": 39274,
@@ -1506,6 +1553,19 @@
       "type": "TV"
     },
     {
+      "id": 486,
+      "title": "Kino's Journey",
+      "alias": [
+        "Kino no Tabi: The Beautiful World",
+        "Kino's Journey",
+        "キノの旅 -the Beautiful World-",
+        "Kino's Travels: The Beautiful World",
+        "Real life"
+      ],
+      "rating": 5799,
+      "type": "Cosmic Horror"
+    },
+    {
       "id": 33191,
       "title": "Kishibe Rohan wa Ugokanai",
       "alias": [
@@ -1895,7 +1955,7 @@
         "Mr. Osomatsu"
       ],
       "rating": 30,
-      "type": "TV"
+      "type": "Ongoing"
     },
     {
       "id": 42714,
@@ -2755,6 +2815,17 @@
       ],
       "rating": 22,
       "type": "OVA"
+    },
+    {
+      "id": 41911,
+      "title": "Yashahime: Princess Half-Demon",
+      "alias": [
+        "Hanyou no Yashahime: Sengoku Otogizoushi",
+        "Yashahime: Princess Half-Demon",
+        "半妖の夜叉姫"
+      ],
+      "rating": 366,
+      "type": "Ongoing"
     },
     {
       "id": 39960,
