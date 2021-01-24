@@ -32,6 +32,11 @@
     width: 200px;
 }
 
+.preset-pick .series-title-img-portrait {
+    width: auto !important;
+    height: 55px !important;
+}
+
 .preset-pick .series-title {
     font-size: 18px;
     padding: 20px;

@@ -45,10 +45,18 @@ export function Picker(props) {
         const entries = category.presetValues;
 
         for (let option of entries) {
+
+            console.log(option);
+
+            let imgClass = 'series-title-img';
+            if (option.kind == 'portrait') {
+                imgClass = 'series-title-img-portrait';
+            }
+
             optionNodes.push (
                 <Option key={option.entry} value={option.entry}>
                     <div className="preset-pick">
-                        <img className="series-title-img" src={option.image == "" ? 'https://i.vgy.me/el2was.jpg' : option.image}/>&nbsp;
+                        <img className={imgClass} src={option.image == "" ? 'https://i.vgy.me/el2was.jpg' : option.image}/>&nbsp;
                         <span className="series-title">{option.entry}</span>
                     </div>
                 </Option>
