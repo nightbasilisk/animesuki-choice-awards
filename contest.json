@@ -586,23 +586,28 @@
       "presetValues": [
         {
           "entry": "Koga Aoi",
-          "image": "https://i.vgy.me/OiaUzJ.jpg"
+          "image": "https://i.vgy.me/OiaUzJ.jpg",
+          "kind": "portrait"
         },
         {
           "entry": "Kurosawa Tomoyo",
-          "image": "https://i.vgy.me/FyWaeK.jpg"
+          "image": "https://i.vgy.me/FyWaeK.jpg",
+          "kind": "portrait"
         },
         {
           "entry": "Minase Inori",
-          "image": "https://i.vgy.me/d4CyWn.jpg"
+          "image": "https://i.vgy.me/d4CyWn.jpg",
+          "kind": "portrait"
         },
         {
           "entry": "Miyuki Sawashiro",
-          "image": "https://i.vgy.me/OMT1WO.jpg"
+          "image": "https://i.vgy.me/OMT1WO.jpg",
+          "kind": "portrait"
         },
         {
           "entry": "Yuuki Aoi",
-          "image": "https://i.vgy.me/PODIn8.jpg"
+          "image": "https://i.vgy.me/PODIn8.jpg",
+          "kind": "portrait"
         }
       ]
     },
@@ -613,24 +618,29 @@
       "allowedTypes": [],
       "presetValues": [
         {
-          "entry": "",
-          "image": "https://i.vgy.me/qVhghd.jpg"
+          "entry": "Kaji Yuki",
+          "image": "https://i.vgy.me/qVhghd.jpg",
+          "kind": "portrait"
         },
         {
-          "entry": "",
-          "image": "https://i.vgy.me/Mz5JUn.jpg"
+          "entry": "Miyano Mamoru",
+          "image": "https://i.vgy.me/Mz5JUn.jpg",
+          "kind": "portrait"
         },
         {
-          "entry": "",
-          "image": "https://i.vgy.me/slviKS.jpg"
+          "entry": "Ono Daisuke",
+          "image": "https://i.vgy.me/slviKS.jpg",
+          "kind": "portrait"
         },
         {
-          "entry": "",
-          "image": "https://i.vgy.me/AqyOtw.jpg"
+          "entry": "Sakurai Takahiro",
+          "image": "https://i.vgy.me/AqyOtw.jpg",
+          "kind": "portrait"
         },
         {
-          "entry": "",
-          "image": "https://i.vgy.me/Fw74nh.jpg"
+          "entry": "Tsuda Kenjirou",
+          "image": "https://i.vgy.me/Fw74nh.jpg",
+          "kind": "portrait"
         }
       ]
     },
