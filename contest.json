@@ -1,6 +1,6 @@
 {
   "year": 2020,
-  "phase": "main",
+  "phase": "vote",
   "rules": {
     "limited-series-genres": 2,
     "tally-weights": [
@@ -15,2863 +15,793 @@
     {
       "code": "A1",
       "name": "Best Storyline",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "A Certain Scientific Railgun T",
+          "image": "https://i.vgy.me/QUiDz7.jpg"
+        },
+        {
+          "entry": "Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/0lkGLE.jpg"
+        },
+        {
+          "entry": "Great Pretender",
+          "image": "https://i.vgy.me/0cg7sp.jpg"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/htS0Sd.jpg"
+        },
+        {
+          "entry": "Toilet-bound Hanako-kun",
+          "image": "https://i.vgy.me/02j44e.jpg"
+        }
+      ]
     },
     {
       "code": "A2",
       "name": "Best Visuals",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Great Pretender",
+          "image": "https://i.vgy.me/4sL7QV.jpg"
+        },
+        {
+          "entry": "Keep Your Hands Off Eizouken!",
+          "image": "https://i.vgy.me/j5vv5w.jpg"
+        },
+        {
+          "entry": "Promare",
+          "image": "https://i.vgy.me/BSxIFd.png"
+        },
+        {
+          "entry": "Somali and the Forest Spirit",
+          "image": "https://i.vgy.me/Ercu0k.jpg"
+        },
+        {
+          "entry": "Weathering With You",
+          "image": "https://i.vgy.me/7Od5uI.jpg"
+        }
+      ]
     },
     {
       "code": "A3",
       "name": "Best Action",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "A Certain Scientific Railgun T",
+          "image": "https://i.vgy.me/8qICyW.jpg"
+        },
+        {
+          "entry": "Akudama Drive",
+          "image": "https://i.vgy.me/TAa5oP.jpg"
+        },
+        {
+          "entry": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+          "image": "https://i.vgy.me/fQZO4a.jpg"
+        },
+        {
+          "entry": "Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/lIEUeU.jpg"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/S4N4XO.jpg"
+        }
+      ]
     },
     {
       "code": "A4",
       "name": "Best Sound Direction",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Dorohedoro",
+          "image": "https://i.vgy.me/FbNN25.jpg"
+        },
+        {
+          "entry": "Great Pretender",
+          "image": "https://i.vgy.me/6gcMG2.jpg"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/omkmb1.jpg"
+        },
+        {
+          "entry": "Somali and the Forest Spirit",
+          "image": "https://i.vgy.me/cY8JTF.jpg"
+        },
+        {
+          "entry": "The Millionaire Detective Balance: UNLIMITED",
+          "image": "https://i.vgy.me/ydExRR.jpg"
+        }
+      ]
     },
     {
       "code": "A5",
       "name": "Best World Setting",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Deca-Dence",
+          "image": "https://i.vgy.me/EiPomU.jpg"
+        },
+        {
+          "entry": "Dorohedoro",
+          "image": "https://i.vgy.me/8G2bfk.jpg"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/ZaYOZN.jpg"
+        },
+        {
+          "entry": "Somali and the Forest Spirit F",
+          "image": "https://i.vgy.me/oMeUGM.jpg"
+        },
+        {
+          "entry": "Tower of God",
+          "image": "https://i.vgy.me/2XZYP3.jpg"
+        }
+      ]
     },
     {
       "code": "B1",
       "name": "Best Fantasy & Supernatural",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Ascendance of a Bookworm Part 2",
+          "image": "https://i.vgy.me/wjageB.jpg"
+        },
+        {
+          "entry": "Dorohedoro",
+          "image": "https://i.vgy.me/PjBPYC.jpg"
+        },
+        {
+          "entry": "Somali and the Forest Spirit",
+          "image": "https://i.vgy.me/rKQDu5.jpg"
+        },
+        {
+          "entry": "Toilet-bound Hanako-kun",
+          "image": "https://i.vgy.me/ha7pKk.jpg"
+        },
+        {
+          "entry": "Tower of God",
+          "image": "https://i.vgy.me/idwugo.jpg"
+        }
+      ]
     },
     {
       "code": "B2",
       "name": "Best Science Fiction",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "7 Seeds 2nd Season",
+          "image": "https://i.vgy.me/qjVjyH.jpg"
+        },
+        {
+          "entry": "A Certain Scientific Railgun T",
+          "image": "https://i.vgy.me/AExwEe.jpg"
+        },
+        {
+          "entry": "Akudama Drive",
+          "image": "https://i.vgy.me/Ysqymi.jpg"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/vodeub.jpg"
+        },
+        {
+          "entry": "No Guns Life",
+          "image": "https://i.vgy.me/DA7fHn.jpg"
+        }
+      ]
     },
     {
       "code": "B3",
       "name": "Best Sports Series",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Ace of Diamond Act II",
+          "image": "https://i.vgy.me/g0z5rf.jpg"
+        },
+        {
+          "entry": "Ahiru no Sora",
+          "image": "https://i.vgy.me/ZTSqPj.jpg"
+        },
+        {
+          "entry": "Chihayafuru 3",
+          "image": "https://i.vgy.me/IDrtoy.jpg"
+        },
+        {
+          "entry": "Haikyuu!!: To the Top",
+          "image": "https://i.vgy.me/BkTEGJ.jpg"
+        },
+        {
+          "entry": "Major 2nd 2nd Season",
+          "image": "https://i.vgy.me/3DpZ9h.jpg"
+        }
+      ]
     },
     {
       "code": "C1",
       "name": "Best Romance",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Adachi and Shimamura",
+          "image": "https://i.vgy.me/l7IQFT.jpg"
+        },
+        {
+          "entry": "Fruits Basket 2nd Season",
+          "image": "https://i.vgy.me/g28GsQ.jpg"
+        },
+        {
+          "entry": "Kaguya-sama: Love is War Season 2",
+          "image": "https://i.vgy.me/faEjQA.jpg"
+        },
+        {
+          "entry": "Sing Yesterday for Me",
+          "image": "https://i.vgy.me/JB53l2.jpg"
+        },
+        {
+          "entry": "TONIKAWA: Over the Moon For You",
+          "image": "https://i.vgy.me/S0FGhQ.jpg"
+        }
+      ]
     },
     {
       "code": "C2",
       "name": "Best Comedy",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/nyIKuE.jpg"
+        },
+        {
+          "entry": "Interspecies Reviewers",
+          "image": "https://i.vgy.me/LnMZmA.png"
+        },
+        {
+          "entry": "Kaguya-sama: Love is War Season 2",
+          "image": "https://i.vgy.me/MK1zDD.jpg"
+        },
+        {
+          "entry": "Sleepy Princess in the Demon Castle",
+          "image": "https://i.vgy.me/05Lb2N.jpg"
+        },
+        {
+          "entry": "Wave, Listen to Me!",
+          "image": "https://i.vgy.me/7x6cQt.jpg"
+        }
+      ]
     },
     {
       "code": "C3",
       "name": "Best Drama",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Fruits Basket 2nd Season",
+          "image": "https://i.vgy.me/IVkeRk.jpg"
+        },
+        {
+          "entry": "Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/ajODM0.jpg"
+        },
+        {
+          "entry": "Sing Yesterday for Me",
+          "image": "https://i.vgy.me/uqYGdf.jpg"
+        },
+        {
+          "entry": "Somali and the Forest Spirit",
+          "image": "https://i.vgy.me/3fdfR0.jpg"
+        },
+        {
+          "entry": "Talentless Nana",
+          "image": "https://i.vgy.me/hFHCqt.jpg"
+        }
+      ]
     },
     {
       "code": "C4",
       "name": "Best Slice of Life",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Adachi and Shimamura",
+          "image": "https://i.vgy.me/MKaTu7.jpg"
+        },
+        {
+          "entry": "Ascendance of a Bookworm Part 2",
+          "image": "https://i.vgy.me/adivhw.jpg"
+        },
+        {
+          "entry": "Kakushigoto",
+          "image": "https://i.vgy.me/Eeq5PH.jpg"
+        },
+        {
+          "entry": "Keep Your Hands Off Eizouken!",
+          "image": "https://i.vgy.me/SQzHtV.jpg"
+        },
+        {
+          "entry": "TONIKAWA: Over the Moon For You",
+          "image": "https://i.vgy.me/O4Wo9d.jpg"
+        }
+      ]
     },
     {
       "code": "C5",
       "name": "Best Relaxing & Carefree",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+          "image": "https://i.vgy.me/G5ZRGM.jpg"
+        },
+        {
+          "entry": "Is the Order a Rabbit? Bloom",
+          "image": "https://i.vgy.me/Ur5A5s.jpg"
+        },
+        {
+          "entry": "Princess Connect!",
+          "image": "https://i.vgy.me/1Eg1kc.jpg"
+        },
+        {
+          "entry": "Sleepy Princess in the Demon Castle",
+          "image": "https://i.vgy.me/gPCbvQ.jpg"
+        },
+        {
+          "entry": "TONIKAWA: Over the Moon For You",
+          "image": "https://i.vgy.me/fs6tB2.jpg"
+        }
+      ]
     },
     {
       "code": "D1",
       "name": "Best TV Series",
-      "type": "series",
+      "type": "pick",
       "allowedTypes": [
         "TV"
       ],
-      "presetValues": []
+      "presetValues": [
+        {
+          "entry": "Dorohedoro",
+          "image": "https://i.vgy.me/2efWEk.png"
+        },
+        {
+          "entry": "Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/a8M4eG.jpg"
+        },
+        {
+          "entry": "Great Pretender",
+          "image": "https://i.vgy.me/qDz6mD.png"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/P793c4.jpg"
+        },
+        {
+          "entry": "Kaguya-sama: Love is War Season 2",
+          "image": "https://i.vgy.me/GB0RkR.jpg"
+        }
+      ]
     },
     {
       "code": "D2",
       "name": "Best OVA",
-      "type": "series",
+      "type": "pick",
       "allowedTypes": [
         "OVA"
       ],
-      "presetValues": []
+      "presetValues": [
+        {
+          "entry": "ACCA: 13-ku Kansatsu-ka - Regards",
+          "image": "https://i.vgy.me/pc1rgC.jpg"
+        },
+        {
+          "entry": "Isekai Quartet 2",
+          "image": "https://i.vgy.me/01CpQ3.jpg"
+        },
+        {
+          "entry": "Natsunagu!",
+          "image": "https://i.vgy.me/acPTT3.jpg"
+        },
+        {
+          "entry": "Rail Romanesque",
+          "image": "https://i.vgy.me/FW4B54.jpg"
+        },
+        {
+          "entry": "Umayon",
+          "image": "https://i.vgy.me/ufd4k7.jpg"
+        }
+      ]
     },
     {
       "code": "D3",
       "name": "Best Movie",
-      "type": "series",
+      "type": "pick",
       "allowedTypes": [
         "Movie"
       ],
-      "presetValues": []
+      "presetValues": [
+        {
+          "entry": "A Whisker Away",
+          "image": "https://i.vgy.me/qfNFrh.jpg"
+        },
+        {
+          "entry": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+          "image": "https://i.vgy.me/nTHabX.jpg"
+        },
+        {
+          "entry": "Made in Abyss: Dawn of the Deep Soul",
+          "image": "https://i.vgy.me/q823ha.jpg"
+        },
+        {
+          "entry": "Promare",
+          "image": "https://i.vgy.me/dp0Yk0.jpg"
+        },
+        {
+          "entry": "Weathering With You",
+          "image": "https://i.vgy.me/D5DfUx.jpg"
+        }
+      ]
     },
     {
       "code": "E1",
       "name": "Best Female Lead",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Chiyuki Fujito / Smile Down the Runway",
+          "image": "https://i.vgy.me/r1L4md.png"
+        },
+        {
+          "entry": "Koharu Hondoumachi / ID: INVADED",
+          "image": "https://i.vgy.me/X9ooWD.jpg"
+        },
+        {
+          "entry": "Minare Koda / Wave, Listen to Me!",
+          "image": "https://i.vgy.me/W4ZwuS.jpg"
+        },
+        {
+          "entry": "Nana Hiiragi / Talentless Nana",
+          "image": "https://i.vgy.me/3hkQXf.jpg"
+        },
+        {
+          "entry": "Tsukasa Yuzaki / TONIKAWA: Over the Moon For You",
+          "image": "https://i.vgy.me/jyxfxb.jpg"
+        }
+      ]
     },
     {
       "code": "E2",
       "name": "Best Male Lead",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Akihito Narihisago / ID: INVADED",
+          "image": "https://i.vgy.me/kUfffo.jpg"
+        },
+        {
+          "entry": "Daigo Shigeno / Major 2nd 2nd Season",
+          "image": "https://i.vgy.me/E6Vjsy.jpg"
+        },
+        {
+          "entry": "Hanako-kun / Toilet-bound Hanako-kun",
+          "image": "https://i.vgy.me/opoA62.jpg"
+        },
+        {
+          "entry": "Nasa Yuzaki / TONIKAWA: Over the Moon For You",
+          "image": "https://i.vgy.me/jQ9Ene.jpg"
+        },
+        {
+          "entry": "Saichi Sugimoto / Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/6OfyLO.jpg"
+        }
+      ]
     },
     {
       "code": "E3",
       "name": "Best Antagonist",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Aurora Suya Rhys Kaymin / Sleepy Princess in the Demon Castle",
+          "image": "https://i.vgy.me/EONIUB.jpg"
+        },
+        {
+          "entry": "Bondrewd / Made in Abyss: Dawn of the Deep Soul",
+          "image": "https://i.vgy.me/Qt1DsO.jpg"
+        },
+        {
+          "entry": "En / Dorohedoro",
+          "image": "https://i.vgy.me/4SFOFe.jpg"
+        },
+        {
+          "entry": "Hyakunosuke Ogata / Golden Kamuy Season 3",
+          "image": "https://i.vgy.me/SDhNke.jpg"
+        },
+        {
+          "entry": "Tobita Danjuro / My Hero Academia 4",
+          "image": "https://i.vgy.me/dBLXeC.jpg"
+        }
+      ]
     },
     {
       "code": "E4",
       "name": "Best Side-Character",
-      "type": "character",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Cynthia Moore / Great Pretender",
+          "image": "https://i.vgy.me/a6Atul.jpg"
+        },
+        {
+          "entry": "Hideo Harada / Chihayafuru 3",
+          "image": "https://i.vgy.me/EFnL6k.jpg"
+        },
+        {
+          "entry": "Misaki Shokuhou / A Certain Scientific Railgun T",
+          "image": "https://i.vgy.me/xikHMF.jpg"
+        },
+        {
+          "entry": "Reina Kousaka / Sound! Euphonium: Our Promise: A Brand New Day",
+          "image": "https://i.vgy.me/LaKul9.jpg"
+        },
+        {
+          "entry": "Ruiko Saten / A Certain Scientific Railgun T",
+          "image": "https://i.vgy.me/JemEXx.jpg"
+        }
+      ]
     },
     {
       "code": "E5",
       "name": "Best Female VA",
-      "type": "freeform",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Koga Aoi",
+          "image": "https://i.vgy.me/OiaUzJ.jpg"
+        },
+        {
+          "entry": "Kurosawa Tomoyo",
+          "image": "https://i.vgy.me/FyWaeK.jpg"
+        },
+        {
+          "entry": "Minase Inori",
+          "image": "https://i.vgy.me/d4CyWn.jpg"
+        },
+        {
+          "entry": "Miyuki Sawashiro",
+          "image": "https://i.vgy.me/OMT1WO.jpg"
+        },
+        {
+          "entry": "Yuuki Aoi",
+          "image": "https://i.vgy.me/PODIn8.jpg"
+        }
+      ]
     },
     {
       "code": "E6",
       "name": "Best Male VA",
-      "type": "freeform",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "",
+          "image": "https://i.vgy.me/qVhghd.jpg"
+        },
+        {
+          "entry": "",
+          "image": "https://i.vgy.me/Mz5JUn.jpg"
+        },
+        {
+          "entry": "",
+          "image": "https://i.vgy.me/slviKS.jpg"
+        },
+        {
+          "entry": "",
+          "image": "https://i.vgy.me/AqyOtw.jpg"
+        },
+        {
+          "entry": "",
+          "image": "https://i.vgy.me/Fw74nh.jpg"
+        }
+      ]
     },
     {
       "code": "X1",
       "name": "Best Ongoing Series",
-      "type": "freeform",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Attack on Titan Final Season",
+          "image": "https://i.vgy.me/YpxXYq.jpg"
+        },
+        {
+          "entry": "Higurashi: When They Cry",
+          "image": "https://i.vgy.me/DiuTtk.jpg"
+        },
+        {
+          "entry": "Jujutsu Kaisen",
+          "image": "https://i.vgy.me/digbUX.png"
+        },
+        {
+          "entry": "Moriarty the Patriot",
+          "image": "https://i.vgy.me/ZlZNge.jpg"
+        },
+        {
+          "entry": "Re:ZERO -Starting Life in Another World- Season 2",
+          "image": "https://i.vgy.me/DYUj8w.jpg"
+        }
+      ]
     },
     {
       "code": "X2",
       "name": "Best Credits Theme",
-      "type": "credits-song",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "BNA ED1",
+          "image": "https://i.vgy.me/tdLQXI.png"
+        },
+        {
+          "entry": "Dorohedoro OP1",
+          "image": "https://i.vgy.me/2CJA6T.jpg"
+        },
+        {
+          "entry": "Great Pretender ED1",
+          "image": "https://i.vgy.me/9jc33G.jpg"
+        },
+        {
+          "entry": "ID: INVADED ED1",
+          "image": "https://i.vgy.me/TutRt8.jpg"
+        },
+        {
+          "entry": "Kaguya-sama: Love is War Season 2 OP1",
+          "image": "https://i.vgy.me/IclGJ1.jpg"
+        }
+      ]
     },
     {
       "code": "X3",
       "name": "Best Adventure Series",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+          "image": "https://i.vgy.me/YMCQvs.jpg"
+        },
+        {
+          "entry": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+          "image": "https://i.vgy.me/xik80N.jpg"
+        },
+        {
+          "entry": "Interspecies Reviewers",
+          "image": "https://i.vgy.me/f3iaOl.jpg"
+        },
+        {
+          "entry": "The Journey of Elaina",
+          "image": "https://i.vgy.me/KRojnW.jpg"
+        },
+        {
+          "entry": "Tower of God",
+          "image": "https://i.vgy.me/mhjkmd.jpg"
+        }
+      ]
     },
     {
       "code": "X4",
       "name": "Best Character Design",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Akudama Drive",
+          "image": "https://i.vgy.me/zlHD9h.png"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/WLb37y.jpg"
+        },
+        {
+          "entry": "Sing Yesterday for Me",
+          "image": "https://i.vgy.me/qNMoIU.jpg"
+        },
+        {
+          "entry": "Somali and the Forest Spirit",
+          "image": "https://i.vgy.me/AfyOU0.jpg"
+        },
+        {
+          "entry": "Toilet-bound Hanako-kun",
+          "image": "https://i.vgy.me/PaJsGS.jpg"
+        }
+      ]
     },
     {
       "code": "X5",
       "name": "Best Surprise",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+          "image": "https://i.vgy.me/ksd81h.jpg"
+        },
+        {
+          "entry": "ID: INVADED",
+          "image": "https://i.vgy.me/Ip6Tv0.jpg"
+        },
+        {
+          "entry": "Sleepy Princess in the Demon Castle",
+          "image": "https://i.vgy.me/9Kxk3z.jpg"
+        },
+        {
+          "entry": "The Misfit of Demon King Academy",
+          "image": "https://i.vgy.me/C4MG5N.jpg"
+        },
+        {
+          "entry": "TONIKAWA: Over the Moon For You",
+          "image": "https://i.vgy.me/P8grCC.jpg"
+        }
+      ]
     },
     {
       "code": "X6",
       "name": "Guilty Pleasure",
-      "type": "series",
-      "allowedTypes": [
-        "TV",
-        "OVA",
-        "Movie"
-      ],
-      "presetValues": []
+      "type": "pick",
+      "allowedTypes": [],
+      "presetValues": [
+        {
+          "entry": "Interspecies Reviewers",
+          "image": "https://i.vgy.me/2u0AsD.jpg"
+        },
+        {
+          "entry": "My Next Life as a Villainess: All Routes Lead to Doom!",
+          "image": "https://i.vgy.me/Tw4qOr.jpg"
+        },
+        {
+          "entry": "Peter Grill and the Philosopher's Time",
+          "image": "https://i.vgy.me/f3RGD6.jpg"
+        },
+        {
+          "entry": "Rent-a-Girlfriend",
+          "image": "https://i.vgy.me/o4QvOK.jpg"
+        },
+        {
+          "entry": "The Misfit of Demon King Academy",
+          "image": "https://i.vgy.me/3THvqi.jpg"
+        }
+      ]
     }
   ],
-  "series": [
-    {
-      "id": 40148,
-      "title": "22/7",
-      "alias": [
-        "22/7",
-        "22/7",
-        "22/7",
-        "Nanabun no Nijyuuni",
-        "Nanabun no Nijuuni"
-      ],
-      "rating": 134,
-      "type": "TV"
-    },
-    {
-      "id": 40602,
-      "title": "7 Seeds 2nd Season",
-      "alias": [
-        "7 Seeds 2nd Season",
-        "7SEEDS",
-        "Seven Seeds 2nd Season"
-      ],
-      "rating": 54,
-      "type": "TV"
-    },
-    {
-      "id": 38481,
-      "title": "A Certain Scientific Railgun T",
-      "alias": [
-        "Toaru Kagaku no Railgun T",
-        "A Certain Scientific Railgun T",
-        "とある科学の超電磁砲[レールガン]T",
-        "Toaru Kagaku no Railgun 3",
-        "Toaru Kagaku no Choudenjihou 3",
-        "A Certain Scientific Railgun 3"
-      ],
-      "rating": 4409,
-      "type": "TV"
-    },
-    {
-      "id": 41168,
-      "title": "A Whisker Away",
-      "alias": [
-        "Nakitai Watashi wa Neko wo Kaburu",
-        "A Whisker Away",
-        "泣きたい私は猫をかぶる",
-        "Nakineko"
-      ],
-      "rating": 827,
-      "type": "Movie"
-    },
-    {
-      "id": 39184,
-      "title": "A3! Season Spring & Summer",
-      "alias": [
-        "A3! Season Spring & Summer",
-        "A3! Season Spring & Summer",
-        "A3! SEASON SPRING & SUMMER",
-        "Act! Addict! Actors! Season Spring & Summer"
-      ],
-      "rating": 184,
-      "type": "TV"
-    },
-    {
-      "id": 39610,
-      "title": "ACCA: 13-ku Kansatsu-ka - Regards",
-      "alias": [
-        "ACCA: 13-ku Kansatsu-ka - Regards",
-        "ACCA13区監察課 Regards",
-        "ACCA: 13-Territory Inspection Dept. Regards",
-        "ACCA: 13th Territory Inspection Department",
-        "ACCA: 13th Ward Observation Department - Regards",
-        "ACCA Jusanku Kansatsuka Regards"
-      ],
-      "rating": 9,
-      "type": "OVA"
-    },
-    {
-      "id": 40532,
-      "title": "APPARE-RANMAN!",
-      "alias": [
-        "Appare-Ranman!",
-        "APPARE-RANMAN!",
-        "天晴爛漫！",
-        "Appare Ranman!"
-      ],
-      "rating": 316,
-      "type": "TV"
-    },
-    {
-      "id": 40137,
-      "title": "ARP Backstage Pass",
-      "alias": [
-        "ARP Backstage Pass",
-        "ARP Backstage Pass"
-      ],
-      "rating": 10,
-      "type": "TV"
-    },
-    {
-      "id": 39790,
-      "title": "Adachi and Shimamura",
-      "alias": [
-        "Adachi to Shimamura",
-        "Adachi and Shimamura",
-        "安達としまむら",
-        "Adashima"
-      ],
-      "rating": 446,
-      "type": "TV"
-    },
-    {
-      "id": 40215,
-      "title": "Aggressive Retsuko 3rd Season",
-      "alias": [
-        "Aggressive Retsuko (ONA) 3rd Season",
-        "アグレッシブ烈子第3期",
-        "Aggretsuko 3rd Season",
-        "Aggressive Retsuko (ONA) 3rd Season",
-        "Aggressive Retsuko 3rd Season"
-      ],
-      "rating": 140,
-      "type": "OVA"
-    },
-    {
-      "id": 37403,
-      "title": "Ahiru no Sora",
-      "alias": [
-        "Ahiru no Sora",
-        "あひるの空"
-      ],
-      "rating": 222,
-      "type": "TV"
-    },
-    {
-      "id": 40266,
-      "title": "Aikatsu on Parade!",
-      "alias": [
-        "Aikatsu on Parade!",
-        "アイカツオンパレード!"
-      ],
-      "rating": 21,
-      "type": "TV"
-    },
-    {
-      "id": 41433,
-      "title": "Akudama Drive",
-      "alias": [
-        "Akudama Drive",
-        "Akudama Drive",
-        "アクダマドライブ"
-      ],
-      "rating": 689,
-      "type": "TV"
-    },
-    {
-      "id": 41611,
-      "title": "All Saints Street",
-      "alias": [
-        "Wan Sheng Jie",
-        "All Saints Street",
-        "万圣街",
-        "1031 Wan Sheng Jie"
-      ],
-      "rating": 83,
-      "type": "OVA"
-    },
-    {
-      "id": 40613,
-      "title": "Altered Carbon: Resleeved",
-      "alias": [
-        "Altered Carbon: Resleeved",
-        "オルタード・カーボン: リスリーブド"
-      ],
-      "rating": 6,
-      "type": "Movie"
-    },
-    {
-      "id": 42238,
-      "title": "Ani ni Tsukeru Kusuri wa Nai! 4",
-      "alias": [
-        "Ani ni Tsukeru Kusuri wa Nai! 4",
-        "兄に付ける薬はない！4",
-        "Please Take My Brother Away 4",
-        "Ani ni Tsukeru Kusuri wa Nai! 4th Season"
-      ],
-      "rating": 25,
-      "type": "OVA"
-    },
-    {
-      "id": 41051,
-      "title": "Antidote",
-      "alias": [
-        "Jie Yao",
-        "Antidote",
-        "解药"
-      ],
-      "rating": 49,
-      "type": "OVA"
-    },
-    {
-      "id": 40677,
-      "title": "Argonavis from BanG Dream!",
-      "alias": [
-        "Argonavis from BanG Dream!",
-        "アルゴナビス from BanG Dream!"
-      ],
-      "rating": 58,
-      "type": "TV"
-    },
-    {
-      "id": 40128,
-      "title": "Arte",
-      "alias": [
-        "Arte",
-        "Arte",
-        "アルテ"
-      ],
-      "rating": 180,
-      "type": "TV"
-    },
-    {
-      "id": 40815,
-      "title": "Ascendance of a Bookworm Part 2",
-      "alias": [
-        "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
-        "Ascendance of a Bookworm Part 2",
-        "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第2期",
-        "Ascendance of a Bookworm 2nd Season",
-        "Honzuki no Gekokujou Season 2"
-      ],
-      "rating": 431,
-      "type": "TV"
-    },
-    {
-      "id": 40550,
-      "title": "Assault Lily: Bouquet",
-      "alias": [
-        "Assault Lily: Bouquet",
-        "アサルトリリィ Bouquet"
-      ],
-      "rating": 233,
-      "type": "TV"
-    },
-    {
-      "id": 39388,
-      "title": "Asteroid in Love",
-      "alias": [
-        "Koisuru Asteroid",
-        "Asteroid in Love",
-        "恋する小惑星〈アストロイド〉",
-        "Koisuru Shouwakusei"
-      ],
-      "rating": 235,
-      "type": "TV"
-    },
-    {
-      "id": 40028,
-      "title": "Attack on Titan Final Season",
-      "alias": [
-        "Shingeki no Kyojin: The Final Season",
-        "Attack on Titan Final Season",
-        "進撃の巨人 The Final Season",
-        "Shingeki no Kyojin Season 4"
-      ],
-      "rating": 17714,
-      "type": "Ongoing"
-    },
-    {
-      "id": 38328,
-      "title": "Azur Lane",
-      "alias": [
-        "Azur Lane",
-        "アズールレーン"
-      ],
-      "rating": 506,
-      "type": "TV"
-    },
-    {
-      "id": 40060,
-      "title": "BNA",
-      "alias": [
-        "BNA",
-        "BNA ビー・エヌ・エー",
-        "Brand New Animal"
-      ],
-      "rating": 1607,
-      "type": "TV"
-    },
-    {
-      "id": 38790,
-      "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
-      "alias": [
-        "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
-        "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
-        "痛いのは嫌なので防御力に極振りしたいと思います。",
-        "I hate being in pain",
-        "so I think I'll make a full defense build.",
-        "I Hate Getting Hurt",
-        "So I Put All My Skill Points Into Defense"
-      ],
-      "rating": 1718,
-      "type": "TV"
-    },
-    {
-      "id": 39555,
-      "title": "Baki: Dai Raitaisai-hen",
-      "alias": [
-        "Baki: Dai Raitaisai-hen",
-        "バキ 大擂台賽編",
-        "Baki 2nd Season",
-        "Baki: The Great Raitai Tournament"
-      ],
-      "rating": 169,
-      "type": "TV"
-    },
-    {
-      "id": 37870,
-      "title": "BanG Dream! 3rd Season",
-      "alias": [
-        "BanG Dream! 3rd Season",
-        "BanG Dream!（バンドリ！）第3期"
-      ],
-      "rating": 362,
-      "type": "TV"
-    },
-    {
-      "id": 40854,
-      "title": "BanG Dream! Garupa☆Pico: Oomori",
-      "alias": [
-        "BanG Dream! Garupa☆Pico: Oomori",
-        "BanG Dream! ガルパ☆ピコ ~大盛り~",
-        "BanG Dream! Garupa Pico: Oomori",
-        "BanG Dream! Girls Band Party!☆PICO: Oomori"
-      ],
-      "rating": 28,
-      "type": "OVA"
-    },
-    {
-      "id": 39282,
-      "title": "Beyblade Burst Gachi",
-      "alias": [
-        "Beyblade Burst Gachi",
-        "ベイブレードバーストGT (ガチ)",
-        "Beyblade Burst GT"
-      ],
-      "rating": 27,
-      "type": "TV"
-    },
-    {
-      "id": 39806,
-      "title": "Blade of the Immortal",
-      "alias": [
-        "Mugen no Juunin: Immortal",
-        "Blade of the Immortal",
-        "無限の住人-IMMORTAL-"
-      ],
-      "rating": 67,
-      "type": "TV"
-    },
-    {
-      "id": 39565,
-      "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
-      "alias": [
-        "Boku no Hero Academia the Movie 2: Heroes:Rising",
-        "僕のヒーローアカデミア THE MOVIE　ヒーローズ：ライジング",
-        "My Hero Academia the Movie 2: Heroes:Rising"
-      ],
-      "rating": 1068,
-      "type": "Movie"
-    },
-    {
-      "id": 38302,
-      "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
-      "alias": [
-        "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
-        "ぼくのとなりに暗黒破壊神がいます。",
-        "A Destructive God Sits Next to Me",
-        "Bokuhaka"
-      ],
-      "rating": 144,
-      "type": "TV"
-    },
-    {
-      "id": 37828,
-      "title": "Bokura no Nanokakan Sensou",
-      "alias": [
-        "Bokura no Nanokakan Sensou",
-        "ぼくらの七日間戦争",
-        "Our Seven-Day War"
-      ],
-      "rating": 35,
-      "type": "Movie"
-    },
-    {
-      "id": 40850,
-      "title": "Breakers",
-      "alias": [
-        "Breakers",
-        "Breakers",
-        "ブレーカーズ"
-      ],
-      "rating": 9,
-      "type": "OVA"
-    },
-    {
-      "id": 40934,
-      "title": "Bungo and Alchemist -Gears of Judgement-",
-      "alias": [
-        "Bungou to Alchemist: Shinpan no Haguruma",
-        "Bungo and Alchemist -Gears of Judgement-",
-        "文豪とアルケミスト 〜審判ノ歯車〜"
-      ],
-      "rating": 119,
-      "type": "TV"
-    },
-    {
-      "id": 41468,
-      "title": "Burn the Witch",
-      "alias": [
-        "Burn the Witch",
-        "BURN THE WITCH"
-      ],
-      "rating": 247,
-      "type": "Movie"
-    },
-    {
-      "id": 41312,
-      "title": "By the Grace of the Gods",
-      "alias": [
-        "Kami-tachi ni Hirowareta Otoko",
-        "By the Grace of the Gods",
-        "神達に拾われた男",
-        "The man picked up by the gods",
-        "Kamihiro",
-        "Kamitachi ni Hirowareta Otoko"
-      ],
-      "rating": 237,
-      "type": "TV"
-    },
-    {
-      "id": 38663,
-      "title": "Cagaster of an Insect Cage",
-      "alias": [
-        "Mushikago no Cagaster",
-        "Cagaster of an Insect Cage",
-        "虫籠のカガステル"
-      ],
-      "rating": 45,
-      "type": "TV"
-    },
-    {
-      "id": 38161,
-      "title": "Case File nº221: Kabukicho",
-      "alias": [
-        "Kabukichou Sherlock",
-        "Case File nº221: Kabukicho",
-        "歌舞伎町シャーロック"
-      ],
-      "rating": 69,
-      "type": "TV"
-    },
-    {
-      "id": 37379,
-      "title": "Chihayafuru 3",
-      "alias": [
-        "Chihayafuru 3",
-        "ちはやふる 3",
-        "Chihayafull 3"
-      ],
-      "rating": 305,
-      "type": "TV"
-    },
-    {
-      "id": 37981,
-      "title": "Children of the Sea",
-      "alias": [
-        "Kaijuu no Kodomo",
-        "Children of the Sea",
-        "海獣の子供",
-        "The Sea Monster's Children"
-      ],
-      "rating": 244,
-      "type": "Movie"
-    },
-    {
-      "id": 40473,
-      "title": "Chou Futsuu Toshi Kashiwa Densetsu R",
-      "alias": [
-        "Chou Futsuu Toshi Kashiwa Densetsu R",
-        "超普通都市カシワ伝説R"
-      ],
-      "rating": 3,
-      "type": "OVA"
-    },
-    {
-      "id": 39681,
-      "title": "D4DJ First Mix",
-      "alias": [
-        "D4DJ: First Mix",
-        "D4DJ First Mix",
-        "D4DJ First Mix",
-        "Dig Delight Direct Drive DJ"
-      ],
-      "rating": 97,
-      "type": "Ongoing"
-    },
-    {
-      "id": 38656,
-      "title": "Darwin's Game",
-      "alias": [
-        "Darwin's Game",
-        "Darwin's Game",
-        "ダーウィンズゲーム"
-      ],
-      "rating": 1488,
-      "type": "TV"
-    },
-    {
-      "id": 40056,
-      "title": "Deca-Dence",
-      "alias": [
-        "Deca-Dence",
-        "デカダンス"
-      ],
-      "rating": 529,
-      "type": "TV"
-    },
-    {
-      "id": 38731,
-      "title": "Diamond no Ace: Act II",
-      "alias": [
-        "Diamond no Ace: Act II",
-        "ダイヤのA[エース] actII",
-        "Ace of Diamond Act II",
-        "Daiya no Ace: Act II"
-      ],
-      "rating": 274,
-      "type": "TV"
-    },
-    {
-      "id": 39730,
-      "title": "Diary of Our Days at the Breakwater",
-      "alias": [
-        "Houkago Teibou Nisshi",
-        "Diary of Our Days at the Breakwater",
-        "放課後ていぼう日誌",
-        "Hokago Teibo Nisshi",
-        "Afterschool Embankment Journal"
-      ],
-      "rating": 136,
-      "type": "TV"
-    },
-    {
-      "id": 41074,
-      "title": "Digimon Adventure:",
-      "alias": [
-        "Digimon Adventure:",
-        "デジモンアドベンチャー:",
-        "Digimon Adventure (2020)"
-      ],
-      "rating": 139,
-      "type": "TV"
-    },
-    {
-      "id": 38088,
-      "title": "Digimon Adventure: Last Evolution Kizuna",
-      "alias": [
-        "Digimon Adventure: Last Evolution Kizuna",
-        "デジモンアドベンチャー LAST EVOLUTION 絆"
-      ],
-      "rating": 117,
-      "type": "Ongoing"
-    },
-    {
-      "id": 42571,
-      "title": "Dogeza de tanondemita",
-      "alias": [
-        "Dogeza de Tanondemita",
-        "Dogeza de tanondemita",
-        "土下座で頼んでみた",
-        "I Tried Asking In Dogeza"
-      ],
-      "rating": 45,
-      "type": "OVA"
-    },
-    {
-      "id": 38668,
-      "title": "Dorohedoro",
-      "alias": [
-        "Dorohedoro",
-        "ドロヘドロ"
-      ],
-      "rating": 2718,
-      "type": "TV"
-    },
-    {
-      "id": 40906,
-      "title": "Dragon Quest: Dai no Daibouken (2020)",
-      "alias": [
-        "Dragon Quest: Dai no Daibouken (2020)",
-        "ドラゴンクエスト ダイの大冒険",
-        "Dragon Quest: Dai's Great Adventure",
-        "Dragon Quest: Adventure of Dai"
-      ],
-      "rating": 2980,
-      "type": "Ongoing"
-    },
-    {
-      "id": 39274,
-      "title": "Dragon Quest: Your Story",
-      "alias": [
-        "Dragon Quest: Your Story",
-        "ドラゴンクエスト　ユア・ストーリー"
-      ],
-      "rating": 30,
-      "type": "Movie"
-    },
-    {
-      "id": 39519,
-      "title": "Dragon's Dogma",
-      "alias": [
-        "Dragon's Dogma",
-        "ドラゴンズドグマ"
-      ],
-      "rating": 12,
-      "type": "OVA"
-    },
-    {
-      "id": 39531,
-      "title": "Drifting Dragons",
-      "alias": [
-        "Kuutei Dragons",
-        "Drifting Dragons",
-        "空挺ドラゴンズ",
-        "Airborne Dragons"
-      ],
-      "rating": 58,
-      "type": "TV"
-    },
-    {
-      "id": 39049,
-      "title": "Dropkick on My Devil!! Dash",
-      "alias": [
-        "Jashin-chan Dropkick'",
-        "Dropkick on My Devil!! Dash",
-        "邪神ちゃんドロップキック'（ダッシュ）",
-        "False God My Dropkick 2nd Season",
-        "Dropkick on My Devil!! 2nd Season"
-      ],
-      "rating": 61,
-      "type": "TV"
-    },
-    {
-      "id": 39609,
-      "title": "Dropout Idol Fruit Tart",
-      "alias": [
-        "Ochikobore Fruit Tart",
-        "Dropout Idol Fruit Tart",
-        "おちこぼれフルーツタルト",
-        "OchiFuru"
-      ],
-      "rating": 40,
-      "type": "TV"
-    },
-    {
-      "id": 42414,
-      "title": "Eternity: Sweet Love Story",
-      "alias": [
-        "Eternity: Shinya no Nurekoi Channel ♡",
-        "Eternity: Sweet Love Story",
-        "エタニティ　～深夜の濡恋ちゃんねる♡～",
-        "Eternity: Late Night Wet Love Channel"
-      ],
-      "rating": 9,
-      "type": "OVA"
-    },
-    {
-      "id": 41266,
-      "title": "Extra Olympia Kyklos",
-      "alias": [
-        "Bessatsu Olympia Kyklos",
-        "Extra Olympia Kyklos",
-        "別冊オリンピア・キュクロス"
-      ],
-      "rating": 43,
-      "type": "OVA"
-    },
-    {
-      "id": 38084,
-      "title": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
-      "alias": [
-        "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
-        "Fate/Grand Order: Absolute Demonic Front - Babylonia",
-        "Fate/Grand Order -絶対魔獣戦線バビロニア-"
-      ],
-      "rating": 560,
-      "type": "TV"
-    },
-    {
-      "id": 40956,
-      "title": "Fire Force Season 2",
-      "alias": [
-        "Enen no Shouboutai: Ni no Shou",
-        "Fire Force Season 2",
-        "炎炎ノ消防隊 弐ノ章",
-        "Enen no Shouboutai 2nd Season",
-        "Fire Force 2nd Season"
-      ],
-      "rating": 1103,
-      "type": "TV"
-    },
-    {
-      "id": 37936,
-      "title": "Fog Hill of Five Elements",
-      "alias": [
-        "Wu Shan Wu Xing",
-        "Fog Hill of Five Elements",
-        "雾山五行",
-        "Wushan Wuxing",
-        "Fog Hill of the Five Elements",
-        "Five Elements in the Misty Mountain"
-      ],
-      "rating": 109,
-      "type": "OVA"
-    },
-    {
-      "id": 40902,
-      "title": "Food Wars! The Fifth Plate",
-      "alias": [
-        "Shokugeki no Souma: Gou no Sara",
-        "Food Wars! The Fifth Plate",
-        "食戟のソーマ 豪ノ皿",
-        "Shokugeki no Soma 5th Season"
-      ],
-      "rating": 965,
-      "type": "TV"
-    },
-    {
-      "id": 39545,
-      "title": "Fragtime",
-      "alias": [
-        "Fragtime",
-        "フラグタイム",
-        "Flag Time",
-        "Flagtime",
-        "Frag Time"
-      ],
-      "rating": 59,
-      "type": "Movie"
-    },
-    {
-      "id": 39014,
-      "title": "Free! Movie 3: Road to the World - Yume",
-      "alias": [
-        "Free! Movie 3: Road to the World - Yume",
-        "劇場版 Free!-Road to the World-夢",
-        "Free! 3rd Season Movie",
-        "Free! Dive to the Future Movie"
-      ],
-      "rating": 35,
-      "type": "Movie"
-    },
-    {
-      "id": 40417,
-      "title": "Fruits Basket 2nd Season",
-      "alias": [
-        "Fruits Basket 2nd Season",
-        "フルーツバスケット 2nd season",
-        "Fruits Basket (2019) 2nd Season",
-        "Furuba",
-        "Fruits Basket (Zenpen)"
-      ],
-      "rating": 2231,
-      "type": "TV"
-    },
-    {
-      "id": 40942,
-      "title": "GUNDAM BUILD DIVERS Re:RISE",
-      "alias": [
-        "Gundam Build Divers Re:Rise 2nd Season",
-        "GUNDAM BUILD DIVERS Re:RISE",
-        "ガンダムビルドダイバーズRe:RISE"
-      ],
-      "rating": 28,
-      "type": "TV"
-    },
-    {
-      "id": 40358,
-      "title": "Gal & Dino",
-      "alias": [
-        "Gal to Kyouryuu",
-        "Gal & Dino",
-        "ギャルと恐竜",
-        "Gal and Dinosaur",
-        "Gyaru to Kyouryuu"
-      ],
-      "rating": 35,
-      "type": "TV"
-    },
-    {
-      "id": 37140,
-      "title": "GeGeGe no Kitaro",
-      "alias": [
-        "Gegege no Kitarou (2018)",
-        "GeGeGe no Kitaro",
-        "ゲゲゲの鬼太郎 (2018)",
-        "Spooky Kitaro"
-      ],
-      "rating": 91,
-      "type": "TV"
-    },
-    {
-      "id": 40074,
-      "title": "Gibiate",
-      "alias": [
-        "Gibiate",
-        "ジビエート"
-      ],
-      "rating": 60,
-      "type": "TV"
-    },
-    {
-      "id": 39463,
-      "title": "Gleipnir",
-      "alias": [
-        "Gleipnir",
-        "Gleipnir",
-        "グレイプニル"
-      ],
-      "rating": 1440,
-      "type": "TV"
-    },
-    {
-      "id": 39576,
-      "title": "Goblin Slayer: Goblin's Crown",
-      "alias": [
-        "Goblin Slayer: Goblin's Crown",
-        "ゴブリンスレイヤー -GOBLIN'S CROWN-"
-      ],
-      "rating": 221,
-      "type": "Movie"
-    },
-    {
-      "id": 40059,
-      "title": "Golden Kamuy Season 3",
-      "alias": [
-        "Golden Kamuy 3rd Season",
-        "Golden Kamuy Season 3",
-        "ゴールデンカムイ"
-      ],
-      "rating": 192,
-      "type": "TV"
-    },
-    {
-      "id": 40052,
-      "title": "Great Pretender",
-      "alias": [
-        "Great Pretender"
-      ],
-      "rating": 2636,
-      "type": "TV"
-    },
-    {
-      "id": 38883,
-      "title": "Haikyuu!!: To the Top",
-      "alias": [
-        "Haikyuu!!: To the Top",
-        "ハイキュー!! TO THE TOP",
-        "Haikyuu!! (2020)",
-        "Haikyuu!! Fourth Season",
-        "Haikyuu!! 4th Season",
-        "Haikyuu!!: To the Top"
-      ],
-      "rating": 3512,
-      "type": "TV"
-    },
-    {
-      "id": 40747,
-      "title": "Happy-Go-Lucky Days",
-      "alias": [
-        "Dounika Naru Hibi",
-        "Happy-Go-Lucky Days",
-        "どうにかなる日々",
-        "Dou ni ka Naru Hibi"
-      ],
-      "rating": 9,
-      "type": "Movie"
-    },
-    {
-      "id": 35252,
-      "title": "Hatena Illusion",
-      "alias": [
-        "Hatena☆Illusion",
-        "Hatena Illusion",
-        "はてな☆イリュージョン"
-      ],
-      "rating": 23,
-      "type": "TV"
-    },
-    {
-      "id": 38816,
-      "title": "Hello World",
-      "alias": [
-        "Hello World",
-        "ハロー・ワールド"
-      ],
-      "rating": 641,
-      "type": "Movie"
-    },
-    {
-      "id": 40995,
-      "title": "Hentatsu",
-      "alias": [
-        "Hentatsu (TV)",
-        "へんたつ",
-        "Oni to Neko to o-Cha to ka.",
-        "Hentatsu (TV)",
-        "Hentatsu"
-      ],
-      "rating": 1,
-      "type": "OVA"
-    },
-    {
-      "id": 39569,
-      "title": "Her Blue Sky",
-      "alias": [
-        "Sora no Aosa wo Shiru Hito yo",
-        "Her Blue Sky",
-        "空の青さを知る人よ",
-        "The Person Who Knows How Blue the Sky Is"
-      ],
-      "rating": 159,
-      "type": "Movie"
-    },
-    {
-      "id": 40979,
-      "title": "Hero Return",
-      "alias": [
-        "Yingxiong Zai Lin",
-        "Hero Return",
-        "英雄再临",
-        "The Hero's Return",
-        "Yingxiong? Wo Zao Jiu Bu Dang Le",
-        "英雄？我早就不当了"
-      ],
-      "rating": 29,
-      "type": "OVA"
-    },
-    {
-      "id": 31500,
-      "title": "High School Fleet",
-      "alias": [
-        "High School Fleet",
-        "High School Fleet",
-        "ハイスクール・フリート",
-        "Haifuri"
-      ],
-      "rating": 680,
-      "type": "Movie"
-    },
-    {
-      "id": 41006,
-      "title": "Higurashi: When They Cry – Gou",
-      "alias": [
-        "Higurashi no Naku Koro ni Gou",
-        "Higurashi: When They Cry – Gou",
-        "ひぐらしのなく頃に業",
-        "When They Cry",
-        "Higurashi: When They Cry - New",
-        "Higurashi no Naku Koro ni (2020)",
-        "When the Cicadas Cry",
-        "The Moment the Cicadas Cry"
-      ],
-      "rating": 408,
-      "type": "Ongoing"
-    },
-    {
-      "id": 39584,
-      "title": "Human Lost: Ningen Shikkaku",
-      "alias": [
-        "Human Lost: Ningen Shikkaku",
-        "HUMAN LOST 人間失格",
-        "No Longer Human"
-      ],
-      "rating": 31,
-      "type": "Movie"
-    },
-    {
-      "id": 40803,
-      "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-      "alias": [
-        "Hypnosis Mic: Division Rap Battle - Rhyme Anima",
-        "ヒプノシスマイク -Division Rap Battle- Rhyme Anima",
-        "Hypmic"
-      ],
-      "rating": 289,
-      "type": "TV"
-    },
-    {
-      "id": 41380,
-      "title": "I'm standing on 1,000,000 lives.",
-      "alias": [
-        "100-man no Inochi no Ue ni Ore wa Tatteiru",
-        "I'm standing on 1,000,000 lives.",
-        "100万の命の上に俺は立っている",
-        "I'm Standing on a Million Lives"
-      ],
-      "rating": 184,
-      "type": "TV"
-    },
-    {
-      "id": 40046,
-      "title": "ID: INVADED",
-      "alias": [
-        "Id:Invaded",
-        "ID: INVADED",
-        "ID:INVADED イド:インヴェイデッド"
-      ],
-      "rating": 1554,
-      "type": "TV"
-    },
-    {
-      "id": 37962,
-      "title": "IDOLiSH7: Second Beat!",
-      "alias": [
-        "IDOLiSH7: Second Beat!",
-        "アイドリッシュセブン Second BEAT!",
-        "IDOLiSH7 2",
-        "Idolish Seven 2"
-      ],
-      "rating": 138,
-      "type": "TV"
-    },
-    {
-      "id": 37890,
-      "title": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
-      "alias": [
-        "Oshi ga Budoukan Ittekuretara Shinu",
-        "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
-        "推しが武道館いってくれたら死ぬ"
-      ],
-      "rating": 192,
-      "type": "TV"
-    },
-    {
-      "id": 40359,
-      "title": "Ikebukuro West Gate Park",
-      "alias": [
-        "Ikebukuro West Gate Park",
-        "Ikebukuro West Gate Park",
-        "池袋ウエストゲートパーク",
-        "IWGP"
-      ],
-      "rating": 130,
-      "type": "TV"
-    },
-    {
-      "id": 39017,
-      "title": "In/Spectre",
-      "alias": [
-        "Kyokou Suiri",
-        "In/Spectre",
-        "虚構推理"
-      ],
-      "rating": 859,
-      "type": "TV"
-    },
-    {
-      "id": 38909,
-      "title": "Infinite Dendrogram",
-      "alias": [
-        "Infinite Dendrogram",
-        "Infinite Dendrogram",
-        "-インフィニット・デンドログラム-"
-      ],
-      "rating": 189,
-      "type": "TV"
-    },
-    {
-      "id": 40010,
-      "title": "Interspecies Reviewers",
-      "alias": [
-        "Ishuzoku Reviewers",
-        "Interspecies Reviewers",
-        "異種族レビュアーズ"
-      ],
-      "rating": 19070,
-      "type": "TV"
-    },
-    {
-      "id": 40454,
-      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
-      "alias": [
-        "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
-        "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
-        "ダンジョンに出会いを求めるのは間違っているだろうかIII",
-        "DanMachi 3rd Season",
-        "Is It Wrong That I Want to Meet You in a Dungeon 3rd Season"
-      ],
-      "rating": 1292,
-      "type": "TV"
-    },
-    {
-      "id": 38337,
-      "title": "Is the Order a Rabbit? Bloom",
-      "alias": [
-        "Gochuumon wa Usagi Desu ka? Bloom",
-        "Is the Order a Rabbit? Bloom",
-        "ご注文はうさぎですか? BLOOM",
-        "Gochuumon wa Usagi desu ka? 3",
-        "GochiUsa 3"
-      ],
-      "rating": 173,
-      "type": "TV"
-    },
-    {
-      "id": 39988,
-      "title": "Isekai Quartet 2",
-      "alias": [
-        "Isekai Quartet 2",
-        "Isekai Quartet 2",
-        "異世界かるてっと2"
-      ],
-      "rating": 247,
-      "type": "OVA"
-    },
-    {
-      "id": 41783,
-      "title": "Iwa Kakeru!: Sport Climbing Girls",
-      "alias": [
-        "Iwa Kakeru!: Sport Climbing Girls",
-        "いわかける！ -Sport Climbing Girls-",
-        "Hang On! Climbing Girls"
-      ],
-      "rating": 77,
-      "type": "TV"
-    },
-    {
-      "id": 40515,
-      "title": "Japan Sinks: 2020",
-      "alias": [
-        "Nihon Chinbotsu 2020",
-        "Japan Sinks: 2020",
-        "日本沈没2020"
-      ],
-      "rating": 209,
-      "type": "TV"
-    },
-    {
-      "id": 40748,
-      "title": "Jujutsu Kaisen",
-      "alias": [
-        "Jujutsu Kaisen (TV)",
-        "呪術廻戦",
-        "Sorcery Fight",
-        "Jujutsu Kaisen (TV)",
-        "Jujutsu Kaisen"
-      ],
-      "rating": 6443,
-      "type": "Ongoing"
-    },
-    {
-      "id": 38040,
-      "title": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-      "alias": [
-        "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
-        "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-        "この素晴らしい世界に祝福を！紅伝説",
-        "KonoSuba Movie",
-        "Eiga Kono Subarashii Sekai ni Shukufuku wo!",
-        "Kono Subarashii Sekai ni Shukufuku wo! Movie"
-      ],
-      "rating": 3387,
-      "type": "Movie"
-    },
-    {
-      "id": 40591,
-      "title": "Kaguya-sama: Love is War Season 2",
-      "alias": [
-        "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
-        "Kaguya-sama: Love is War Season 2",
-        "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
-        "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains 2nd Season",
-        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 2nd Season",
-        "Kaguya-sama: Love is War 2nd Season"
-      ],
-      "rating": 12469,
-      "type": "TV"
-    },
-    {
-      "id": 40716,
-      "title": "Kakushigoto",
-      "alias": [
-        "Kakushigoto (TV)",
-        "Kakushigoto",
-        "かくしごと",
-        "Hidden Things",
-        "Kakushigoto (TV)",
-        "Kakushigoto"
-      ],
-      "rating": 1132,
-      "type": "TV"
-    },
-    {
-      "id": 42194,
-      "title": "Katarina to Manabou",
-      "alias": [
-        "Katarina to Manabou",
-        "カタリナと学ぼう",
-        "Let's Learn With Katarina"
-      ],
-      "rating": 4,
-      "type": "OVA"
-    },
-    {
-      "id": 39792,
-      "title": "Keep Your Hands Off Eizouken!",
-      "alias": [
-        "Eizouken ni wa Te wo Dasu na!",
-        "Keep Your Hands Off Eizouken!",
-        "映像研には手を出すな!",
-        "Hands off the Motion Pictures Club!"
-      ],
-      "rating": 1919,
-      "type": "TV"
-    },
-    {
-      "id": 41834,
-      "title": "King's Raid: Ishi wo Tsugumono-tachi",
-      "alias": [
-        "King's Raid: Ishi wo Tsugumono-tachi",
-        "キングスレイド 意志を継ぐものたち"
-      ],
-      "rating": 84,
-      "type": "TV"
-    },
-    {
-      "id": 486,
-      "title": "Kino's Journey",
-      "alias": [
-        "Kino no Tabi: The Beautiful World",
-        "Kino's Journey",
-        "キノの旅 -the Beautiful World-",
-        "Kino's Travels: The Beautiful World",
-        "Real life"
-      ],
-      "rating": 5799,
-      "type": "Cosmic Horror"
-    },
-    {
-      "id": 33191,
-      "title": "Kishibe Rohan wa Ugokanai",
-      "alias": [
-        "Kishibe Rohan wa Ugokanai",
-        "岸辺露伴は動かない",
-        "Rohan Kishibe Does Not Move",
-        "Thus Spoke Kishibe Rohan"
-      ],
-      "rating": 98,
-      "type": "OVA"
-    },
-    {
-      "id": 40893,
-      "title": "Komatta Jiisan",
-      "alias": [
-        "Komatta Jiisan",
-        "困ったじいさん",
-        "Troublesome Old Man",
-        "Komatta Jii-san"
-      ],
-      "rating": 5,
-      "type": "OVA"
-    },
-    {
-      "id": 38799,
-      "title": "Koukaku Kidoutai: SAC_2045",
-      "alias": [
-        "Koukaku Kidoutai: SAC_2045",
-        "攻殻機動隊 SAC_2045",
-        "Ghost in the Shell: Stand Alone Complex 2045",
-        "Ghost in the Shell: SAC_2045"
-      ],
-      "rating": 40,
-      "type": "TV"
-    },
-    {
-      "id": 40974,
-      "title": "Kuma Kuma Kuma Bear",
-      "alias": [
-        "Kuma Kuma Kuma Bear",
-        "くま クマ 熊 ベアー",
-        "The Bears Bear a Bare Kuma"
-      ],
-      "rating": 276,
-      "type": "TV"
-    },
-    {
-      "id": 41466,
-      "title": "Kyojinzoku no Hanayome",
-      "alias": [
-        "Kyojinzoku no Hanayome",
-        "Kyojinzoku no Hanayome",
-        "巨人族の花嫁",
-        "The Titan's Bride"
-      ],
-      "rating": 128,
-      "type": "OVA"
-    },
-    {
-      "id": 42562,
-      "title": "Kyokou Uranai",
-      "alias": [
-        "Kyokou Uranai",
-        "虚構占い",
-        "Invented Divination"
-      ],
-      "rating": 4,
-      "type": "OVA"
-    },
-    {
-      "id": 37587,
-      "title": "Lapis Re:LiGHTs",
-      "alias": [
-        "Lapis Re:LiGHTs",
-        "ラピスリライツ"
-      ],
-      "rating": 110,
-      "type": "TV"
-    },
-    {
-      "id": 40165,
-      "title": "Listeners",
-      "alias": [
-        "Listeners",
-        "Listeners",
-        "LISTENERS リスナーズ"
-      ],
-      "rating": 50,
-      "type": "TV"
-    },
-    {
-      "id": 40879,
-      "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
-      "alias": [
-        "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
-        "ラブライブ! 虹ヶ咲学園スクールアイドル同好会",
-        "Love Live! Nijigasaki High School Idol Club"
-      ],
-      "rating": 439,
-      "type": "TV"
-    },
-    {
-      "id": 40082,
-      "title": "Lupin the 3rd: The First",
-      "alias": [
-        "Lupin III: The First",
-        "Lupin the 3rd: The First",
-        "ルパン三世 THE FIRST",
-        "Lupin Sansei: The First"
-      ],
-      "rating": 43,
-      "type": "Movie"
-    },
-    {
-      "id": 37599,
-      "title": "MAGATSU WAHRHEIT",
-      "alias": [
-        "Magatsu Wahrheit: Zuerst",
-        "MAGATSU WAHRHEIT",
-        "禍つヴァールハイト -ZUERST-",
-        "MWZ"
-      ],
-      "rating": 42,
-      "type": "TV"
-    },
-    {
-      "id": 36862,
-      "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
-      "alias": [
-        "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
-        "劇場版メイドインアビス 深き魂の黎明",
-        "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei",
-        "Made in Abyss: Dawn of the Deep Soul"
-      ],
-      "rating": 1235,
-      "type": "Movie"
-    },
-    {
-      "id": 40085,
-      "title": "Maesetsu! Opening Act",
-      "alias": [
-        "Maesetsu!",
-        "Maesetsu! Opening Act",
-        "まえせつ!"
-      ],
-      "rating": 6,
-      "type": "TV"
-    },
-    {
-      "id": 38256,
-      "title": "Magia Record: Puella Magi Madoka Magica Side Story",
-      "alias": [
-        "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
-        "Magia Record: Puella Magi Madoka Magica Side Story",
-        "マギアレコード 魔法少女まどか☆マギカ外伝 (TV)",
-        "Puella Magi Madoka Magica Side Story: Magia Record",
-        "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
-        "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
-      ],
-      "rating": 957,
-      "type": "TV"
-    },
-    {
-      "id": 40504,
-      "title": "Major 2nd 2nd Season",
-      "alias": [
-        "Major 2nd (TV) 2nd Season",
-        "メジャーセカンド",
-        "Major 2nd (TV) 2nd Season",
-        "Major 2nd 2nd Season"
-      ],
-      "rating": 58,
-      "type": "TV"
-    },
-    {
-      "id": 40708,
-      "title": "Monster Girl Doctor",
-      "alias": [
-        "Monster Musume no Oishasan",
-        "Monster Girl Doctor",
-        "モンスター娘のお医者さん",
-        "The doctor for monster girls."
-      ],
-      "rating": 268,
-      "type": "TV"
-    },
-    {
-      "id": 40911,
-      "title": "Moriarty the Patriot",
-      "alias": [
-        "Yuukoku no Moriarty",
-        "Moriarty the Patriot",
-        "憂国のモリアーティ",
-        "Moriarty's Patriotism"
-      ],
-      "rating": 462,
-      "type": "Ongoing"
-    },
-    {
-      "id": 40075,
-      "title": "Mr Love: Queen's Choice",
-      "alias": [
-        "Koi to Producer: EVOL×LOVE",
-        "Mr Love: Queen's Choice",
-        "恋とプロデューサー~EVOL×LOVE~"
-      ],
-      "rating": 250,
-      "type": "TV"
-    },
-    {
-      "id": 39948,
-      "title": "Muhyo & Roji's Bureau of Supernatural Investigation 2nd Season",
-      "alias": [
-        "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
-        "Muhyo & Roji's Bureau of Supernatural Investigation 2nd Season",
-        "ムヒョとロージーの魔法律相談事務所 2期"
-      ],
-      "rating": 33,
-      "type": "TV"
-    },
-    {
-      "id": 41619,
-      "title": "Munou na Nana",
-      "alias": [
-        "Munou na Nana",
-        "無能なナナ",
-        "Talentless Nana"
-      ],
-      "rating": 438,
-      "type": "TV"
-    },
-    {
-      "id": 38408,
-      "title": "My Hero Academia 4",
-      "alias": [
-        "Boku no Hero Academia 4th Season",
-        "My Hero Academia 4",
-        "僕のヒーローアカデミア 4thシーズン"
-      ],
-      "rating": 2930,
-      "type": "TV"
-    },
-    {
-      "id": 38555,
-      "title": "My Next Life as a Villainess: All Routes Lead to Doom!",
-      "alias": [
-        "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
-        "My Next Life as a Villainess: All Routes Lead to Doom!",
-        "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
-        "Hamefura",
-        "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags…",
-        "Destruction Flag Otome"
-      ],
-      "rating": 1570,
-      "type": "TV"
-    },
-    {
-      "id": 39547,
-      "title": "My Teen Romantic Comedy SNAFU Climax!",
-      "alias": [
-        "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
-        "My Teen Romantic Comedy SNAFU Climax!",
-        "やはり俺の青春ラブコメはまちがっている。完",
-        "Yahari Ore no Seishun Love Comedy wa Machigatteiru. 3rd Season",
-        "My Teen Romantic Comedy SNAFU 3",
-        "Oregairu 3",
-        "My youth romantic comedy is wrong as I expected 3"
-      ],
-      "rating": 11132,
-      "type": "TV"
-    },
-    {
-      "id": 40738,
-      "title": "Natsunagu!",
-      "alias": [
-        "Natsunagu!",
-        "なつなぐ!"
-      ],
-      "rating": 16,
-      "type": "OVA"
-    },
-    {
-      "id": 38924,
-      "title": "NekoparA",
-      "alias": [
-        "Nekopara",
-        "NekoparA",
-        "ネコぱら",
-        "Neko Para"
-      ],
-      "rating": 522,
-      "type": "TV"
-    },
-    {
-      "id": 39235,
-      "title": "Ni no Kuni",
-      "alias": [
-        "Ni no Kuni",
-        "二ノ国"
-      ],
-      "rating": 31,
-      "type": "Movie"
-    },
-    {
-      "id": 42260,
-      "title": "Ninja Collection",
-      "alias": [
-        "Ninja Collection",
-        "忍者コレクション"
-      ],
-      "rating": 18,
-      "type": "OVA"
-    },
-    {
-      "id": 40529,
-      "title": "No Guns Life",
-      "alias": [
-        "No Guns Life 2nd Season",
-        "No Guns Life",
-        "ノー・ガンズ・ライフ"
-      ],
-      "rating": 59,
-      "type": "TV"
-    },
-    {
-      "id": 40136,
-      "title": "Oda Cinnamon Nobunaga",
-      "alias": [
-        "Oda Cinnamon Nobunaga",
-        "Oda Cinnamon Nobunaga",
-        "織田シナモン信長",
-        "Oda Shinamon Nobunaga"
-      ],
-      "rating": 26,
-      "type": "TV"
-    },
-    {
-      "id": 38234,
-      "title": "One Piece Movie 14: Stampede",
-      "alias": [
-        "One Piece Movie 14: Stampede",
-        "劇場版『ONE PIECE STAMPEDE』（スタンピード）"
-      ],
-      "rating": 568,
-      "type": "Movie"
-    },
-    {
-      "id": 42517,
-      "title": "Ookami-san wa Taberaretai",
-      "alias": [
-        "Ookami-san wa Taberaretai",
-        "オオカミさんは食べられたい",
-        "I Want to Be Eaten by a Wolf"
-      ],
-      "rating": 41,
-      "type": "OVA"
-    },
-    {
-      "id": 41332,
-      "title": "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de...",
-      "alias": [
-        "Ore no Yubi de Midarero.: Heitengo Futarikiri no Salon de...",
-        "俺の指で乱れろ。～閉店後二人きりのサロンで…～",
-        "OreYubi"
-      ],
-      "rating": 114,
-      "type": "OVA"
-    },
-    {
-      "id": 40936,
-      "title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
-      "alias": [
-        "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
-        "俺を好きなのはお前だけかよ  ～俺たちのゲームセット～",
-        "Ore wo Suki nano wa Omae dake ka yo Kanketsu-hen",
-        "Ore wo Suki nano wa Omae dake ka yo Episode 13"
-      ],
-      "rating": 281,
-      "type": "OVA"
-    },
-    {
-      "id": 42391,
-      "title": "Osomatsu-san 3rd Season",
-      "alias": [
-        "Osomatsu-san 3rd Season",
-        "おそ松さん 第3期",
-        "Mr. Osomatsu"
-      ],
-      "rating": 30,
-      "type": "Ongoing"
-    },
-    {
-      "id": 42714,
-      "title": "Otona nya Koi no Shikata ga Wakaranee!",
-      "alias": [
-        "Otona nya Koi no Shikata ga Wakaranee!",
-        "大人にゃ恋の仕方がわからねぇ！",
-        "Otokoi"
-      ],
-      "rating": 20,
-      "type": "OVA"
-    },
-    {
-      "id": 40595,
-      "title": "Our Last Crusade or the Rise of a New World",
-      "alias": [
-        "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-        "Our Last Crusade or the Rise of a New World",
-        "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
-        "The Last Battlefield Between You and I",
-        "or Perhaps the Beginning of the World's Holy War",
-        "Kimisen"
-      ],
-      "rating": 639,
-      "type": "TV"
-    },
-    {
-      "id": 40746,
-      "title": "Overflow",
-      "alias": [
-        "Overflow",
-        "おーばーふろぉ"
-      ],
-      "rating": 361,
-      "type": "OVA"
-    },
-    {
-      "id": 37522,
-      "title": "Pet",
-      "alias": [
-        "Pet",
-        "Pet",
-        "ペット"
-      ],
-      "rating": 183,
-      "type": "TV"
-    },
-    {
-      "id": 40436,
-      "title": "Peter Grill and the Philosopher's Time",
-      "alias": [
-        "Peter Grill to Kenja no Jikan",
-        "Peter Grill and the Philosopher's Time",
-        "ピーター・グリルと賢者の時間"
-      ],
-      "rating": 868,
-      "type": "TV"
-    },
-    {
-      "id": 39506,
-      "title": "Phantasy Star Online 2: Episode Oracle",
-      "alias": [
-        "Phantasy Star Online 2: Episode Oracle",
-        "Phantasy Star Online 2: Episode Oracle",
-        "ファンタシースターオンライン2 エピソード・オラクル"
-      ],
-      "rating": 35,
-      "type": "TV"
-    },
-    {
-      "id": 37345,
-      "title": "Plunderer",
-      "alias": [
-        "Plunderer",
-        "Plunderer",
-        "プランダラ"
-      ],
-      "rating": 922,
-      "type": "TV"
-    },
-    {
-      "id": 37966,
-      "title": "Pokemon: Mewtwo Strikes Back Evolution",
-      "alias": [
-        "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution",
-        "Pokemon: Mewtwo Strikes Back Evolution",
-        "劇場版 ポケットモンスター ミュウツーの逆襲evolution",
-        "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu Evolution"
-      ],
-      "rating": 14,
-      "type": "Movie"
-    },
-    {
-      "id": 40861,
-      "title": "Pokemon: Twilight Wings",
-      "alias": [
-        "Hakumei no Tsubasa",
-        "Pokemon: Twilight Wings",
-        "薄明の翼",
-        "Pocket Monsters: Hakumei no Tsubasa"
-      ],
-      "rating": 56,
-      "type": "OVA"
-    },
-    {
-      "id": 39292,
-      "title": "Princess Connect!",
-      "alias": [
-        "Princess Connect! Re:Dive",
-        "プリンセスコネクト！Re:Dive",
-        "Priconne",
-        "Princess Connect!"
-      ],
-      "rating": 518,
-      "type": "TV"
-    },
-    {
-      "id": 35848,
-      "title": "Promare",
-      "alias": [
-        "Promare",
-        "Promare",
-        "PROMARE（プロメア）"
-      ],
-      "rating": 2107,
-      "type": "Movie"
-    },
-    {
-      "id": 40858,
-      "title": "Psycho-Pass 3: First Inspector",
-      "alias": [
-        "Psycho-Pass 3: First Inspector",
-        "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR"
-      ],
-      "rating": 92,
-      "type": "Movie"
-    },
-    {
-      "id": 40005,
-      "title": "Quanzhi Fashi IV",
-      "alias": [
-        "Quanzhi Fashi IV",
-        "全职法师Ⅳ",
-        "Quanzhi Fashi 4th Season",
-        "Quan Zhi Fa Shi 4",
-        "Full-Time Magister 4"
-      ],
-      "rating": 55,
-      "type": "TV"
-    },
-    {
-      "id": 39355,
-      "title": "RADIANT Season 2",
-      "alias": [
-        "Radiant 2nd Season",
-        "RADIANT Season 2",
-        "ラディアン 第2シリーズ"
-      ],
-      "rating": 168,
-      "type": "TV"
-    },
-    {
-      "id": 40958,
-      "title": "Rail Romanesque",
-      "alias": [
-        "Rail Romanesque",
-        "レヱル・ロマネスク",
-        "Maitetsu"
-      ],
-      "rating": 20,
-      "type": "OVA"
-    },
-    {
-      "id": 39587,
-      "title": "Re:ZERO -Starting Life in Another World- Season 2",
-      "alias": [
-        "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
-        "Re:ZERO -Starting Life in Another World- Season 2",
-        "Re:ゼロから始める異世界生活 2nd season",
-        "Re: Life in a different world from zero 2nd Season",
-        "ReZero 2nd Season"
-      ],
-      "rating": 8393,
-      "type": "Ongoing"
-    },
-    {
-      "id": 40839,
-      "title": "Rent-a-Girlfriend",
-      "alias": [
-        "Kanojo, Okarishimasu",
-        "Rent-a-Girlfriend",
-        "彼女、お借りします",
-        "I'd like to Borrow a Girlfriend",
-        "Kanokari"
-      ],
-      "rating": 4099,
-      "type": "TV"
-    },
-    {
-      "id": 38594,
-      "title": "Ride Your Wave",
-      "alias": [
-        "Kimi to, Nami ni Noretara",
-        "Ride Your Wave",
-        "きみと、波にのれたら"
-      ],
-      "rating": 261,
-      "type": "Movie"
-    },
-    {
-      "id": 38476,
-      "title": "Room Camp",
-      "alias": [
-        "Heya Camp△",
-        "Room Camp",
-        "へやキャン△"
-      ],
-      "rating": 80,
-      "type": "OVA"
-    },
-    {
-      "id": 40763,
-      "title": "SHOW BY ROCK!! Mashumairesh!!",
-      "alias": [
-        "Show By Rock!! Mashumairesh!!",
-        "SHOW BY ROCK!! Mashumairesh!!",
-        "SHOW BY ROCK!!ましゅまいれっしゅ!!"
-      ],
-      "rating": 35,
-      "type": "TV"
-    },
-    {
-      "id": 40623,
-      "title": "SUPER HXEROS",
-      "alias": [
-        "Dokyuu Hentai HxEros",
-        "SUPER HXEROS",
-        "ド級編隊エグゼロス"
-      ],
-      "rating": 154,
-      "type": "TV"
-    },
-    {
-      "id": 36885,
-      "title": "Saenai Heroine no Sodatekata Fine",
-      "alias": [
-        "Saenai Heroine no Sodatekata Fine",
-        "冴えない彼女の育てかた Fine",
-        "Saekano the Movie: Finale",
-        "Saenai Heroine no Sodatekata Movie",
-        "Saekano: How to Raise a Boring Girlfriend Movie"
-      ],
-      "rating": 836,
-      "type": "Movie"
-    },
-    {
-      "id": 40403,
-      "title": "Sakura Wars the Animation",
-      "alias": [
-        "Shin Sakura Taisen the Animation",
-        "Sakura Wars the Animation",
-        "新サクラ大戦 the Animation",
-        "New Sakura Wars the Animation"
-      ],
-      "rating": 22,
-      "type": "TV"
-    },
-    {
-      "id": 38992,
-      "title": "Science Fell in Love, So I Tried to Prove It",
-      "alias": [
-        "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
-        "Science Fell in Love, So I Tried to Prove It",
-        "理系が恋に落ちたので証明してみた。",
-        "RikeKoi"
-      ],
-      "rating": 534,
-      "type": "TV"
-    },
-    {
-      "id": 38990,
-      "title": "Scumbag System",
-      "alias": [
-        "Chuan Shu Zijiu Zhinan",
-        "Scumbag System",
-        "穿书自救指南",
-        "Ren Zha Fanpai Zijiu Xitong",
-        "The Scum Villain's Self-Saving System",
-        "Scumbag Villain"
-      ],
-      "rating": 156,
-      "type": "TV"
-    },
-    {
-      "id": 40483,
-      "title": "Seton Academy: Join the Pack!",
-      "alias": [
-        "Murenase! Seton Gakuen",
-        "Seton Academy: Join the Pack!",
-        "群れなせ！シートン学園",
-        "Come Together! to the Seton Academy"
-      ],
-      "rating": 434,
-      "type": "TV"
-    },
-    {
-      "id": 40783,
-      "title": "Shachibato! President, It's Time for Battle!",
-      "alias": [
-        "Shachou, Battle no Jikan Desu!",
-        "Shachibato! President, It's Time for Battle!",
-        "社長, バトルの時間です!",
-        "Shachibato The Animation"
-      ],
-      "rating": 23,
-      "type": "TV"
-    },
-    {
-      "id": 39967,
-      "title": "Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X",
-      "alias": [
-        "Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X",
-        "新幹線変形ロボ シンカリオン 未来からきた神速のALFA-X",
-        "Transformable Shinkansen Robot Shinkalion Movie"
-      ],
-      "rating": 0,
-      "type": "Movie"
-    },
-    {
-      "id": 38843,
-      "title": "Shironeko Project ZERO CHRONICLE",
-      "alias": [
-        "Shironeko Project: Zero Chronicle",
-        "Shironeko Project ZERO CHRONICLE",
-        "白猫プロジェクトZERO CHRONICLE",
-        "White Cat Project",
-        "Rune Story"
-      ],
-      "rating": 193,
-      "type": "TV"
-    },
-    {
-      "id": 39710,
-      "title": "Sing \"Yesterday\" for Me",
-      "alias": [
-        "Yesterday wo Utatte",
-        "Sing \"Yesterday\" for Me",
-        "イエスタデイをうたって"
-      ],
-      "rating": 891,
-      "type": "TV"
-    },
-    {
-      "id": 40397,
-      "title": "Sleepy Princess in the Demon Castle",
-      "alias": [
-        "Maoujou de Oyasumi",
-        "Sleepy Princess in the Demon Castle",
-        "魔王城でおやすみ",
-        "Sleeping in Devil's Castle"
-      ],
-      "rating": 358,
-      "type": "TV"
-    },
-    {
-      "id": 40392,
-      "title": "Smile Down the Runway",
-      "alias": [
-        "Runway de Waratte",
-        "Smile Down the Runway",
-        "ランウェイで笑って",
-        "Smile at the Runway"
-      ],
-      "rating": 264,
-      "type": "TV"
-    },
-    {
-      "id": 40597,
-      "title": "Sol Levante",
-      "alias": [
-        "Sol Levante"
-      ],
-      "rating": 6,
-      "type": "OVA"
-    },
-    {
-      "id": 39575,
-      "title": "Somali and the Forest Spirit",
-      "alias": [
-        "Somali to Mori no Kamisama",
-        "Somali and the Forest Spirit",
-        "ソマリと森の神様"
-      ],
-      "rating": 1004,
-      "type": "TV"
-    },
-    {
-      "id": 37576,
-      "title": "Sorcerous Stabber Orphen",
-      "alias": [
-        "Majutsushi Orphen Hagure Tabi",
-        "Sorcerous Stabber Orphen",
-        "魔術士オーフェンはぐれ旅"
-      ],
-      "rating": 45,
-      "type": "TV"
-    },
-    {
-      "id": 35678,
-      "title": "Sound! Euphonium: Our Promise: A Brand New Day",
-      "alias": [
-        "Hibike! Euphonium Movie 3: Chikai no Finale",
-        "Sound! Euphonium: Our Promise: A Brand New Day",
-        "劇場版 響け！ユーフォニアム～誓いのフィナーレ～",
-        "Gekijouban Hibike! Euphonium: Chikai no Finale",
-        "Sound! Euphonium: Oath's Finale"
-      ],
-      "rating": 98,
-      "type": "Movie"
-    },
-    {
-      "id": 38005,
-      "title": "Strike Witches: Road to Berlin",
-      "alias": [
-        "Strike Witches: Road to Berlin",
-        "第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN",
-        "Strike Witches 3"
-      ],
-      "rating": 28,
-      "type": "TV"
-    },
-    {
-      "id": 40485,
-      "title": "Strike the Blood IV",
-      "alias": [
-        "Strike the Blood IV",
-        "ストライク・ザ・ブラッド IV",
-        "Strike the Blood Fourth"
-      ],
-      "rating": 136,
-      "type": "TV"
-    },
-    {
-      "id": 40540,
-      "title": "Sword Art Online Alicization War of Underworld Part 2",
-      "alias": [
-        "Sword Art Online: Alicization - War of Underworld 2nd Season",
-        "Sword Art Online Alicization War of Underworld Part 2",
-        "ソードアート・オンライン アリシゼーション War of Underworld",
-        "Sword Art Online: Alicization 3rd Season",
-        "Sword Art Online III 3rd Season",
-        "SAO Alicization 3rd Season",
-        "Sword Art Online 3 3rd Season",
-        "SAO 3 3rd Season",
-        "SAO III 3rd Season",
-        "Sword Art Online: Alicization - War of Underworld - The Last Season"
-      ],
-      "rating": 2882,
-      "type": "TV"
-    },
-    {
-      "id": 39966,
-      "title": "TAMAYOMI: The Baseball Girls",
-      "alias": [
-        "Tamayomi",
-        "TAMAYOMI: The Baseball Girls",
-        "球詠"
-      ],
-      "rating": 37,
-      "type": "TV"
-    },
-    {
-      "id": 41389,
-      "title": "TONIKAWA: Over the Moon For You",
-      "alias": [
-        "Tonikaku Kawaii",
-        "TONIKAWA: Over the Moon For You",
-        "トニカクカワイイ",
-        "Generally Cute",
-        "Fly Me to the Moon"
-      ],
-      "rating": 4201,
-      "type": "TV"
-    },
-    {
-      "id": 42668,
-      "title": "Taiso Samurai",
-      "alias": [
-        "Taisou Zamurai",
-        "Taiso Samurai",
-        "体操ザムライ",
-        "Gymnastics Samurai"
-      ],
-      "rating": 38,
-      "type": "TV"
-    },
-    {
-      "id": 38830,
-      "title": "The 8th son? Are you kidding me?",
-      "alias": [
-        "Hachi-nan tte, Sore wa Nai deshou!",
-        "The 8th son? Are you kidding me?",
-        "八男って、それはないでしょう！",
-        "Hachinan tte",
-        "Sore wa Nai deshou!"
-      ],
-      "rating": 291,
-      "type": "TV"
-    },
-    {
-      "id": 40230,
-      "title": "The Case Files of Jeweler Richard",
-      "alias": [
-        "Housekishou Richard-shi no Nazo Kantei",
-        "The Case Files of Jeweler Richard",
-        "宝石商リチャード氏の謎鑑定"
-      ],
-      "rating": 160,
-      "type": "TV"
-    },
-    {
-      "id": 41094,
-      "title": "The Daily Life of the Immortal King",
-      "alias": [
-        "Xian Wang de Richang Shenghuo",
-        "The Daily Life of the Immortal King",
-        "仙王的日常生活",
-        "Xian Wang de Ri Chang Sheng Huo"
-      ],
-      "rating": 338,
-      "type": "TV"
-    },
-    {
-      "id": 41930,
-      "title": "The Day I Became a God",
-      "alias": [
-        "Kamisama ni Natta Hi",
-        "The Day I Became a God",
-        "神様になった日"
-      ],
-      "rating": 1341,
-      "type": "TV"
-    },
-    {
-      "id": 41353,
-      "title": "The God of High School",
-      "alias": [
-        "The God of High School",
-        "The God of High School",
-        "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール",
-        "GOHS"
-      ],
-      "rating": 2698,
-      "type": "TV"
-    },
-    {
-      "id": 41124,
-      "title": "The House Spirit Tatami-chan",
-      "alias": [
-        "Zashiki Warashi no Tatami-chan",
-        "The House Spirit Tatami-chan",
-        "ざしきわらしのタタミちゃん",
-        "Tatami-chan the Guest Room Spirit"
-      ],
-      "rating": 4,
-      "type": "OVA"
-    },
-    {
-      "id": 40497,
-      "title": "The Irregular at Magic High School: Visitor Arc",
-      "alias": [
-        "Mahouka Koukou no Rettousei: Raihousha-hen",
-        "The Irregular at Magic High School: Visitor Arc",
-        "魔法科高校の劣等生 来訪者編"
-      ],
-      "rating": 976,
-      "type": "TV"
-    },
-    {
-      "id": 40571,
-      "title": "The Journey of Elaina",
-      "alias": [
-        "Majo no Tabitabi",
-        "The Journey of Elaina",
-        "魔女の旅々",
-        "Wandering Witch: The Journey of Elaina"
-      ],
-      "rating": 910,
-      "type": "TV"
-    },
-    {
-      "id": 37932,
-      "title": "The King's Avatar 2",
-      "alias": [
-        "Quanzhi Gaoshou 2",
-        "The King's Avatar 2",
-        "全职高手2",
-        "Quan Zhi Gao Shou 2nd Season",
-        "Full-Time Expert 2nd Season",
-        "Master of Skills 2nd Season"
-      ],
-      "rating": 521,
-      "type": "TV"
-    },
-    {
-      "id": 41120,
-      "title": "The Millionaire Detective – Balance: UNLIMITED",
-      "alias": [
-        "Fugou Keiji: Balance:Unlimited",
-        "The Millionaire Detective – Balance: UNLIMITED",
-        "富豪刑事 Balance:UNLIMITED"
-      ],
-      "rating": 1639,
-      "type": "TV"
-    },
-    {
-      "id": 40496,
-      "title": "The Misfit of Demon King Academy",
-      "alias": [
-        "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
-        "The Misfit of Demon King Academy",
-        "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
-        "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
-        "Maou Gakuin no Futekigousha"
-      ],
-      "rating": 2656,
-      "type": "TV"
-    },
-    {
-      "id": 38536,
-      "title": "The Outcast 3rd Season",
-      "alias": [
-        "Hitori no Shita: The Outcast 3rd Season",
-        "The Outcast 3rd Season",
-        "一人之下3 入世篇",
-        "Yi Ren Zhi Xia 3: Rushi Pian",
-        "Yi Ren Zhi Xia 3rd Season",
-        "Under One Person 3rd Season"
-      ],
-      "rating": 73,
-      "type": "OVA"
-    },
-    {
-      "id": 39701,
-      "title": "The Seven Deadly Sins: Wrath of the Gods",
-      "alias": [
-        "Nanatsu no Taizai: Kamigami no Gekirin",
-        "The Seven Deadly Sins: Wrath of the Gods",
-        "七つの大罪 神々の逆鱗"
-      ],
-      "rating": 1722,
-      "type": "TV"
-    },
-    {
-      "id": 40730,
-      "title": "Tian Guan Ci Fu",
-      "alias": [
-        "Tian Guan Ci Fu",
-        "天官赐福",
-        "Heaven Official's Blessing",
-        "TGCF"
-      ],
-      "rating": 1036,
-      "type": "TV"
-    },
-    {
-      "id": 39534,
-      "title": "Toilet-bound Hanako-kun",
-      "alias": [
-        "Jibaku Shounen Hanako-kun",
-        "Toilet-bound Hanako-kun",
-        "地縛少年花子くん"
-      ],
-      "rating": 5339,
-      "type": "TV"
-    },
-    {
-      "id": 40901,
-      "title": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
-      "alias": [
-        "Toji no Miko: Kizamishi Issen no Tomoshibi OVA",
-        "刀使ノ巫女 刻みし一閃の燈火",
-        "Tojitomo"
-      ],
-      "rating": 6,
-      "type": "OVA"
-    },
-    {
-      "id": 40221,
-      "title": "Tower of God",
-      "alias": [
-        "Kami no Tou",
-        "Tower of God",
-        "神之塔 -Tower of God-",
-        "Sin-ui Tap"
-      ],
-      "rating": 6118,
-      "type": "TV"
-    },
-    {
-      "id": 39469,
-      "title": "Tsugu Tsugumomo",
-      "alias": [
-        "Tsugu Tsugumomo",
-        "続・つぐもも"
-      ],
-      "rating": 221,
-      "type": "TV"
-    },
-    {
-      "id": 38669,
-      "title": "Tsukiuta. The Animation 2",
-      "alias": [
-        "Tsukiuta. The Animation 2",
-        "ツキウタ. THE ANIMATION 2",
-        "Tsukiuta. The Animation Second Season",
-        "Tsukiani. 2"
-      ],
-      "rating": 28,
-      "type": "TV"
-    },
-    {
-      "id": 34972,
-      "title": "Twilight",
-      "alias": [
-        "Hakubo",
-        "Twilight",
-        "薄暮"
-      ],
-      "rating": 12,
-      "type": "Movie"
-    },
-    {
-      "id": 39942,
-      "title": "Uchitama?! Have you seen my Tama?",
-      "alias": [
-        "Uchi Tama?! Uchi no Tama Shirimasen ka?",
-        "Uchitama?! Have you seen my Tama?",
-        "うちタマ?!~うちのタマ知りませんか?~"
-      ],
-      "rating": 50,
-      "type": "TV"
-    },
-    {
-      "id": 38835,
-      "title": "Umayon",
-      "alias": [
-        "Umayon",
-        "うまよん",
-        "Uma Yon"
-      ],
-      "rating": 6,
-      "type": "OVA"
-    },
-    {
-      "id": 41226,
-      "title": "Uzaki-chan Wants to Hang Out!",
-      "alias": [
-        "Uzaki-chan wa Asobitai!",
-        "Uzaki-chan Wants to Hang Out!",
-        "宇崎ちゃんは遊びたい！",
-        "Uzaki-chan Wants to Play!"
-      ],
-      "rating": 856,
-      "type": "TV"
-    },
-    {
-      "id": 39741,
-      "title": "Violet Evergarden I: Eternity and the Auto Memory Doll",
-      "alias": [
-        "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
-        "Violet Evergarden I: Eternity and the Auto Memory Doll",
-        "ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-",
-        "Violet Evergarden Side Story: Eternity and the Auto Memory Doll"
-      ],
-      "rating": 591,
-      "type": "Movie"
-    },
-    {
-      "id": 41372,
-      "title": "Warlords of Sigrdrifa",
-      "alias": [
-        "Senyoku no Sigrdrifa",
-        "Warlords of Sigrdrifa",
-        "戦翼のシグルドリーヴァ",
-        "Sigururi"
-      ],
-      "rating": 37,
-      "type": "TV"
-    },
-    {
-      "id": 40513,
-      "title": "Wave, Listen to Me!",
-      "alias": [
-        "Nami yo Kiitekure",
-        "Wave, Listen to Me!",
-        "波よ聞いてくれ",
-        "Nami yo Kiite Kure"
-      ],
-      "rating": 100,
-      "type": "TV"
-    },
-    {
-      "id": 38826,
-      "title": "Weathering With You",
-      "alias": [
-        "Tenki no Ko",
-        "Weathering With You",
-        "天気の子"
-      ],
-      "rating": 6647,
-      "type": "Movie"
-    },
-    {
-      "id": 39196,
-      "title": "Welcome to Demon School! Iruma-kun",
-      "alias": [
-        "Mairimashita! Iruma-kun",
-        "Welcome to Demon School! Iruma-kun",
-        "魔入りました！入間くん"
-      ],
-      "rating": 291,
-      "type": "TV"
-    },
-    {
-      "id": 39582,
-      "title": "Woodpecker Detective's Office",
-      "alias": [
-        "Kitsutsuki Tanteidokoro",
-        "Woodpecker Detective's Office",
-        "啄木鳥探偵處",
-        "Kitsutsuki Tantei-Dokoro"
-      ],
-      "rating": 27,
-      "type": "TV"
-    },
-    {
-      "id": 41093,
-      "title": "Yao Jing Zhong Zhi Shou Ce",
-      "alias": [
-        "Yao Jing Zhong Zhi Shou Ce",
-        "妖精种植手册",
-        "Demon Spirit Seed Manual",
-        "Fairy Planting Manual"
-      ],
-      "rating": 36,
-      "type": "TV"
-    },
-    {
-      "id": 40734,
-      "title": "Yao Shen Ji Zhi Hei Yu Pian",
-      "alias": [
-        "Yao Shen Ji Zhi Hei Yu Pian",
-        "妖神记之黑狱篇",
-        "Yao Shen Ji 4th Season",
-        "Tales of Demons and Gods 4th Season"
-      ],
-      "rating": 22,
-      "type": "OVA"
-    },
-    {
-      "id": 41911,
-      "title": "Yashahime: Princess Half-Demon",
-      "alias": [
-        "Hanyou no Yashahime: Sengoku Otogizoushi",
-        "Yashahime: Princess Half-Demon",
-        "半妖の夜叉姫"
-      ],
-      "rating": 366,
-      "type": "Ongoing"
-    },
-    {
-      "id": 39960,
-      "title": "Yatogame-chan Kansatsu Nikki 2",
-      "alias": [
-        "Yatogame-chan Kansatsu Nikki Nisatsume",
-        "Yatogame-chan Kansatsu Nikki 2",
-        "八十亀ちゃんかんさつにっき 2さつめ",
-        "Yatogame-chan Kansatsu Nikki 2nd Season",
-        "Yatogame-chan Kansatsu Nikki Second Season",
-        "Yatogame-chan Kansatsu Nikki 2-satsume"
-      ],
-      "rating": 6,
-      "type": "TV"
-    },
-    {
-      "id": 39529,
-      "title": "Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka",
-      "alias": [
-        "Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka",
-        "映画 妖怪ウォッチ 妖怪学園Ｙ 猫はHEROになれるか"
-      ],
-      "rating": 2,
-      "type": "Movie"
-    },
-    {
-      "id": 40940,
-      "title": "ZENONZARD THE ANIMATION",
-      "alias": [
-        "Zenonzard The Animation",
-        "ZENONZARD THE ANIMATION",
-        "ゼノンザード THE ANIMATION"
-      ],
-      "rating": 8,
-      "type": "OVA"
-    },
-    {
-      "id": 39583,
-      "title": "number24",
-      "alias": [
-        "number24",
-        "number24",
-        "number24 ナンバー・トゥーフォー"
-      ],
-      "rating": 130,
-      "type": "TV"
-    }
-  ]
+  "series": []
 }
